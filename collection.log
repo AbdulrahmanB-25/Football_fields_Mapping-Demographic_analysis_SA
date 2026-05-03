@@ -1,0 +1,109 @@
+2026-04-28 01:00:15,504 [ERROR] Set GOOGLE_PLACES_API_KEY environment variable before running.
+2026-04-28 01:01:04,731 [ERROR] Set GOOGLE_PLACES_API_KEY environment variable before running.
+2026-04-28 01:01:34,952 [ERROR] Set GOOGLE_PLACES_API_KEY environment variable before running.
+2026-04-28 01:02:29,562 [INFO]    City: Riyadh
+2026-04-28 01:04:13,068 [ERROR] Supabase error 404: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.facilities' in the schema cache"}
+2026-04-28 01:08:08,408 [INFO]    City: Riyadh
+2026-04-28 01:09:42,230 [ERROR] Supabase error 404: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.facilities' in the schema cache"}
+2026-04-28 01:11:58,054 [INFO] -- Region: Riyadh Region
+2026-04-28 01:11:58,055 [INFO]    City: Riyadh
+2026-04-28 01:13:26,285 [INFO]    [OK] 121 rows sent (batch 121)
+2026-04-28 01:13:28,287 [INFO]    City: Al Kharj
+2026-04-28 01:14:47,189 [INFO]    [OK] 55 rows sent (batch 55)
+2026-04-28 01:14:49,190 [INFO]    City: Dawadmi
+2026-04-28 01:15:51,211 [INFO]    [OK] 29 rows sent (batch 29)
+2026-04-28 01:15:53,216 [INFO]    City: Majmaah
+2026-04-28 01:16:51,705 [INFO]    [OK] 30 rows sent (batch 30)
+2026-04-28 01:16:53,708 [INFO]    City: Zulfi
+2026-04-28 01:17:49,566 [INFO]    [OK] 29 rows sent (batch 29)
+2026-04-28 01:17:51,568 [INFO]    City: Shaqra
+2026-04-28 01:18:43,422 [INFO]    [OK] 16 rows sent (batch 16)
+2026-04-28 01:18:45,424 [INFO]    City: Wadi Dawasir
+2026-04-28 01:19:40,332 [INFO]    [OK] 27 rows sent (batch 27)
+2026-04-28 01:19:42,365 [INFO] -- Region: Makkah Region
+2026-04-28 01:19:42,367 [INFO]    City: Jeddah
+2026-04-28 01:21:27,062 [INFO]    [OK] 111 rows sent (batch 111)
+2026-04-28 01:21:29,066 [INFO]    City: Makkah
+2026-04-28 01:22:59,242 [INFO]    [OK] 81 rows sent (batch 81)
+2026-04-28 01:23:01,243 [INFO]    City: Taif
+2026-04-28 01:24:20,986 [INFO]    [OK] 53 rows sent (batch 53)
+2026-04-28 01:24:22,987 [INFO]    City: Qunfudhah
+2026-04-28 01:25:14,385 [INFO]    [OK] 21 rows sent (batch 21)
+2026-04-28 01:25:16,400 [INFO]    City: Rabigh
+2026-04-28 01:26:18,624 [INFO]    [OK] 20 rows sent (batch 20)
+2026-04-28 01:26:20,626 [INFO] -- Region: Eastern Region
+2026-04-28 01:26:20,628 [INFO]    City: Dammam
+2026-04-28 01:28:10,311 [INFO]    [OK] 83 rows sent (batch 83)
+2026-04-28 01:28:12,313 [INFO]    City: Khobar
+2026-04-28 01:29:56,704 [INFO]    [OK] 70 rows sent (batch 70)
+2026-04-28 01:29:58,708 [INFO]    City: Dhahran
+2026-04-28 01:31:38,081 [INFO]    [OK] 35 rows sent (batch 35)
+2026-04-28 01:31:40,082 [INFO]    City: Al Ahsa
+2026-04-28 01:33:24,391 [INFO]    [OK] 79 rows sent (batch 79)
+2026-04-28 01:33:26,394 [INFO]    City: Qatif
+2026-04-28 01:34:57,758 [INFO]    [OK] 54 rows sent (batch 54)
+2026-04-28 01:34:59,760 [INFO]    City: Hafar al Batin
+2026-04-28 01:36:11,295 [INFO]    [OK] 51 rows sent (batch 51)
+2026-04-28 01:36:13,297 [INFO]    City: Jubail
+2026-04-28 01:37:26,238 [INFO]    [OK] 46 rows sent (batch 46)
+2026-04-28 01:37:28,240 [INFO] -- Region: Madinah Region
+2026-04-28 01:37:28,241 [INFO]    City: Madinah
+2026-04-28 01:38:57,475 [INFO]    [OK] 80 rows sent (batch 80)
+2026-04-28 01:38:59,477 [INFO]    City: Yanbu
+2026-04-28 01:40:30,149 [INFO]    [OK] 49 rows sent (batch 49)
+2026-04-28 01:40:32,151 [INFO]    City: Badr
+2026-04-28 01:41:39,066 [INFO]    [OK] 11 rows sent (batch 11)
+2026-04-28 01:41:41,068 [INFO] -- Region: Qassim Region
+2026-04-28 01:41:41,070 [INFO]    City: Buraidah
+2026-04-28 01:43:20,644 [INFO]    [OK] 72 rows sent (batch 72)
+2026-04-28 01:43:22,646 [INFO]    City: Unaizah
+2026-04-28 01:44:52,445 [INFO]    [OK] 41 rows sent (batch 41)
+2026-04-28 01:44:54,479 [INFO]    City: Ar Rass
+2026-04-28 01:46:23,837 [INFO]    [OK] 44 rows sent (batch 44)
+2026-04-28 01:46:25,838 [INFO] -- Region: Aseer Region
+2026-04-28 01:46:25,874 [INFO]    City: Abha
+2026-04-28 01:47:56,750 [INFO]    [OK] 68 rows sent (batch 68)
+2026-04-28 01:47:58,752 [INFO]    City: Khamis Mushait
+2026-04-28 01:49:37,553 [INFO]    [OK] 46 rows sent (batch 46)
+2026-04-28 01:49:39,579 [INFO]    City: Bisha
+2026-04-28 01:50:49,086 [INFO]    [OK] 32 rows sent (batch 32)
+2026-04-28 01:50:51,089 [INFO]    City: An Namas
+2026-04-28 01:51:56,844 [INFO]    [OK] 16 rows sent (batch 16)
+2026-04-28 01:51:58,846 [INFO] -- Region: Tabuk Region
+2026-04-28 01:51:58,847 [INFO]    City: Tabuk
+2026-04-28 01:53:31,665 [INFO]    [OK] 70 rows sent (batch 70)
+2026-04-28 01:53:33,666 [INFO]    City: Tayma
+2026-04-28 01:54:38,738 [INFO]    [OK] 9 rows sent (batch 9)
+2026-04-28 01:54:40,739 [INFO] -- Region: Hail Region
+2026-04-28 01:54:40,774 [INFO]    City: Hail
+2026-04-28 01:56:12,945 [INFO]    [OK] 62 rows sent (batch 62)
+2026-04-28 01:56:14,947 [INFO]    City: Baq'a
+2026-04-28 01:57:26,775 [INFO]    [OK] 15 rows sent (batch 15)
+2026-04-28 01:57:28,799 [INFO] -- Region: Northern Borders Region
+2026-04-28 01:57:28,799 [INFO]    City: Arar
+2026-04-28 01:58:43,676 [INFO]    [OK] 37 rows sent (batch 37)
+2026-04-28 01:58:45,678 [INFO]    City: Rafha
+2026-04-28 01:59:52,677 [INFO]    [OK] 21 rows sent (batch 21)
+2026-04-28 01:59:54,680 [INFO] -- Region: Jizan Region
+2026-04-28 01:59:54,680 [INFO]    City: Jizan
+2026-04-28 02:01:28,438 [INFO]    [OK] 59 rows sent (batch 59)
+2026-04-28 02:01:30,442 [INFO]    City: Sabya
+2026-04-28 02:02:54,146 [INFO]    [OK] 37 rows sent (batch 37)
+2026-04-28 02:02:56,148 [INFO]    City: Abu Arish
+2026-04-28 02:04:24,052 [INFO]    [OK] 39 rows sent (batch 39)
+2026-04-28 02:04:26,053 [INFO] -- Region: Najran Region
+2026-04-28 02:04:26,054 [INFO]    City: Najran
+2026-04-28 02:05:46,097 [INFO]    [OK] 45 rows sent (batch 45)
+2026-04-28 02:05:48,098 [INFO]    City: Sharurah
+2026-04-28 02:06:51,305 [INFO]    [OK] 23 rows sent (batch 23)
+2026-04-28 02:06:53,308 [INFO] -- Region: Al-Baha Region
+2026-04-28 02:06:53,309 [INFO]    City: Al Baha
+2026-04-28 02:08:07,592 [INFO]    [OK] 40 rows sent (batch 40)
+2026-04-28 02:08:09,595 [INFO]    City: Baljurashi
+2026-04-28 02:09:12,718 [INFO]    [OK] 17 rows sent (batch 17)
+2026-04-28 02:09:14,720 [INFO] -- Region: Al-Jouf Region
+2026-04-28 02:09:14,720 [INFO]    City: Sakaka
+2026-04-28 02:10:32,081 [INFO]    [OK] 40 rows sent (batch 40)
+2026-04-28 02:10:34,082 [INFO]    City: Dumat al Jandal
+2026-04-28 02:11:37,411 [INFO]    [OK] 13 rows sent (batch 13)
+2026-04-28 02:11:39,436 [INFO] Done. Total rows sent: 1997
