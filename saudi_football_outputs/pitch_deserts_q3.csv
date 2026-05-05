@@ -1,0 +1,16 @@
+city_id,threshold_km,pct_desert,desert_area_km2,total_area_km2,n_pitches,median_dist_km,p90_dist_km,max_dist_km,method,created_at
+riyadh,1.0,83.8,1082.2,1291.5,86,2.21,4.95,7.72,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+riyadh,2.0,55.4,715.8,1291.5,86,2.21,4.95,7.72,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+riyadh,5.0,9.7,124.8,1291.5,86,2.21,4.95,7.72,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+jeddah,1.0,78.6,504.8,642.2,71,2.0,5.51,9.33,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+jeddah,2.0,50.0,321.2,642.2,71,2.0,5.51,9.33,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+jeddah,5.0,13.2,84.8,642.2,71,2.0,5.51,9.33,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+makkah,1.0,81.8,564.0,689.5,62,2.38,5.82,8.51,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+makkah,2.0,56.4,388.8,689.5,62,2.38,5.82,8.51,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+makkah,5.0,18.3,126.0,689.5,62,2.38,5.82,8.51,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+dammam,1.0,65.2,217.5,333.5,66,1.36,3.08,5.02,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+dammam,2.0,28.9,96.2,333.5,66,1.36,3.08,5.02,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+dammam,5.0,0.1,0.2,333.5,66,1.36,3.08,5.02,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+madinah,1.0,65.3,213.8,327.2,58,1.31,3.25,6.1,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+madinah,2.0,27.7,90.5,327.2,58,1.31,3.25,6.1,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00
+madinah,5.0,1.8,5.8,327.2,58,1.31,3.25,6.1,convex hull of pitches with 1km buffer; 500m grid; Haversine distance,2026-05-02T19:28:34.705262+00:00

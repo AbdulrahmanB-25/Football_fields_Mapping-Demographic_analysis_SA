@@ -1,0 +1,1001 @@
+id,name_en,name_ar,facility_type,latitude,longitude,city_id,region_id,region_name_en,google_rating,google_reviews_count,is_saff_accredited
+1,ملاعب ڤيا,ملاعب ڤيا,football_venue,24.5625446,46.7333068,riyadh,riyadh_region,Riyadh,4.3,1270.0,False
+2,ملعب كرة القدم,ملعب كرة القدم,outdoor_pitch,24.7000232,46.7473857,riyadh,riyadh_region,Riyadh,4.7,16.0,False
+3,اكاديمية لانوس لكرة القدم - فرع الورود,اكاديمية لانوس لكرة القدم - فرع الورود,football_venue,24.7245921,46.6854657,riyadh,riyadh_region,Riyadh,4.7,127.0,False
+4,442 Football Park Hayat Mall Riyadh,442 Football Park Hayat Mall Riyadh,football_venue,24.7427736,46.6797742,riyadh,riyadh_region,Riyadh,4.5,44.0,False
+5,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,24.7102187,46.6274987,riyadh,riyadh_region,Riyadh,4.1,30.0,False
+6,ملاعب الأكاديمية,ملاعب الأكاديمية,football_academy,24.8486494,46.6014665,riyadh,riyadh_region,Riyadh,4.1,414.0,False
+7,ملاعب الرواد للتأجير بالساعة,ملاعب الرواد للتأجير بالساعة,football_venue,24.78415,46.7259482,riyadh,riyadh_region,Riyadh,4.1,811.0,False
+8,ملعب حي الوادي,ملعب حي الوادي,outdoor_pitch,24.788178,46.69805,riyadh,riyadh_region,Riyadh,4.3,363.0,False
+9,ملعب كرة القدم الأول,ملعب كرة القدم الأول,outdoor_pitch,24.7582347,46.6170857,riyadh,riyadh_region,Riyadh,4.4,18.0,False
+10,ملاعب الوادي,ملاعب الوادي,football_venue,24.6276068,46.6474362,riyadh,riyadh_region,Riyadh,4.2,890.0,False
+11,ملاعب السوبر,ملاعب السوبر,football_venue,24.5900263,46.7173795,riyadh,riyadh_region,Riyadh,4.6,175.0,False
+12,ملاعب البلدية حي السلام,ملاعب البلدية حي السلام,football_venue,24.7131067,46.8094882,riyadh,riyadh_region,Riyadh,4.0,770.0,False
+13,استاد الملك فهد الدولي,استاد الملك فهد الدولي,stadium,24.7886467,46.8390181,riyadh,riyadh_region,Riyadh,4.4,7872.0,False
+14,ملاعب المحترفون,ملاعب المحترفون,football_venue,24.692421,46.608272,riyadh,riyadh_region,Riyadh,4.0,459.0,False
+15,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,24.6802502,46.8025819,riyadh,riyadh_region,Riyadh,4.3,22.0,False
+16,جول جونيور,جول جونيور,football_venue,24.7402375,46.6821435,riyadh,riyadh_region,Riyadh,4.5,357.0,False
+17,ملعب عرقة الرياضي,ملعب عرقة الرياضي,outdoor_pitch,24.6817674,46.5916563,riyadh,riyadh_region,Riyadh,4.0,413.0,False
+18,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,24.7408151,46.7390174,riyadh,riyadh_region,Riyadh,4.3,13.0,False
+19,نادي النصر السعودي,نادي النصر السعودي,football_club,24.7291857,46.6236326,riyadh,riyadh_region,Riyadh,4.6,920.0,False
+20,ملعب كرة القدم,ملعب كرة القدم,outdoor_pitch,24.6900144,46.7027054,riyadh,riyadh_region,Riyadh,4.9,8.0,False
+21,استاد الأمير فيصل بن فهد بن عبدالعزيز,استاد الأمير فيصل بن فهد بن عبدالعزيز,stadium,24.6626929,46.739759,riyadh,riyadh_region,Riyadh,4.1,9196.0,False
+22,ملعب إس إتش جي أرينا,ملعب إس إتش جي أرينا,stadium,24.8031695,46.6287469,riyadh,riyadh_region,Riyadh,4.3,1087.0,False
+23,ملعب عالم الكرة,ملعب عالم الكرة,stadium,24.5661709,46.666857,riyadh,riyadh_region,Riyadh,3.9,38.0,False
+24,ملعب الصحافه,ملعب الصحافه,stadium,24.8050652,46.6273314,riyadh,riyadh_region,Riyadh,4.2,220.0,False
+25,إستاد جامعة الأميرة نورة,إستاد جامعة الأميرة نورة,stadium,24.8582659,46.7083232,riyadh,riyadh_region,Riyadh,4.2,250.0,False
+26,استاد الكلية التقنية الرياضي,استاد الكلية التقنية الرياضي,stadium,24.7288958,46.7023045,riyadh,riyadh_region,Riyadh,4.2,263.0,False
+27,المملكة أرينا,المملكة أرينا,stadium,24.7777103,46.6062157,riyadh,riyadh_region,Riyadh,4.6,4730.0,False
+28,ملعب بادل ( Padelx ),ملعب بادل ( Padelx ),stadium,24.8072716,46.8380259,riyadh,riyadh_region,Riyadh,3.7,49.0,False
+29,أستاد جنوب الرياض,أستاد جنوب الرياض,stadium,24.5535671,46.6711279,riyadh,riyadh_region,Riyadh,4.2,32.0,False
+30,أكاديمية الأوائل لكرة القدم,أكاديمية الأوائل لكرة القدم,football_academy,24.6135251,46.6710416,riyadh,riyadh_region,Riyadh,4.4,221.0,False
+31,أكاديمية الدوحة لكرة القدم,أكاديمية الدوحة لكرة القدم,football_academy,24.6285971,46.6482514,riyadh,riyadh_region,Riyadh,5.0,31.0,False
+32,FFF Academy Saudi Arabia,FFF Academy Saudi Arabia,football_academy,24.7135517,46.6752957,riyadh,riyadh_region,Riyadh,4.7,11.0,False
+33,أكاديمية خطوات الأبطال,أكاديمية خطوات الأبطال,football_academy,24.7416172,46.684844,riyadh,riyadh_region,Riyadh,4.4,56.0,False
+34,أكاديمية فارس,أكاديمية فارس,football_academy,24.7889039,46.6426599,riyadh,riyadh_region,Riyadh,4.6,278.0,False
+35,أكاديمية ريال مدريد,أكاديمية ريال مدريد,football_academy,24.6599376,46.6936872,riyadh,riyadh_region,Riyadh,4.2,313.0,False
+36,اكاديمية الملكي لكرة القدم,اكاديمية الملكي لكرة القدم,football_venue,24.741355,46.6851783,riyadh,riyadh_region,Riyadh,4.8,8.0,False
+37,أكاديمية الوصل الرياضية,أكاديمية الوصل الرياضية,football_academy,24.7416781,46.6847894,riyadh,riyadh_region,Riyadh,5.0,20.0,False
+38,اكاديمية خطوات كرة القدم,اكاديمية خطوات كرة القدم,football_venue,24.7684879,46.6719207,riyadh,riyadh_region,Riyadh,3.9,61.0,False
+39,الأكاديمية الاوروبية لكرة القدم,الأكاديمية الاوروبية لكرة القدم,football_academy,24.7864661,46.7103347,riyadh,riyadh_region,Riyadh,3.8,146.0,False
+40,أكاديمية لانوس لكرة القدم - فرع السويدي,أكاديمية لانوس لكرة القدم - فرع السويدي,football_academy,24.5875414,46.7013164,riyadh,riyadh_region,Riyadh,4.8,76.0,False
+41,أكاديمية أجيال الغد لكرة القدم ( فرع الرقي ),أكاديمية أجيال الغد لكرة القدم ( فرع الرقي ),football_academy,24.5731984,46.6417473,riyadh,riyadh_region,Riyadh,4.8,144.0,False
+42,أكاديمية سديم لكرة القدم,أكاديمية سديم لكرة القدم,football_academy,24.6778032,46.7192574,riyadh,riyadh_region,Riyadh,5.0,6.0,False
+43,IRC fc,IRC fc,football_venue,24.7863822,46.710196,riyadh,riyadh_region,Riyadh,4.7,72.0,False
+44,Sports Academy,Sports Academy,football_academy,24.7135517,46.6752957,riyadh,riyadh_region,Riyadh,4.0,26.0,False
+45,أكاديمية فارس,أكاديمية فارس,football_academy,24.7594187,46.70859,riyadh,riyadh_region,Riyadh,4.4,110.0,False
+46,أكاديمية وان تاتش,أكاديمية وان تاتش,football_academy,24.753967,46.7309002,riyadh,riyadh_region,Riyadh,4.6,68.0,False
+47,أكاديمية أشبال الغد لكرة القدم,أكاديمية أشبال الغد لكرة القدم,football_academy,24.6401109,46.5604035,riyadh,riyadh_region,Riyadh,4.6,120.0,False
+48,Lantern Soccer Academy,Lantern Soccer Academy,football_academy,24.7241493,46.6851891,riyadh,riyadh_region,Riyadh,4.9,10.0,False
+49,elite,elite,football_venue,24.7135517,46.6752957,riyadh,riyadh_region,Riyadh,,,False
+50,ملعب نادي الاهلي السعودي,ملعب نادي الاهلي السعودي,football_club,24.7135517,46.6752957,riyadh,riyadh_region,Riyadh,,,False
+51,أكاديمية نادي الشباب - فرع الورود,أكاديمية نادي الشباب - فرع الورود,football_academy,24.7244953,46.6854751,riyadh,riyadh_region,Riyadh,4.6,10.0,False
+52,نادي خطوات الابطال الرياضي,نادي خطوات الابطال الرياضي,football_club,24.7063959,46.6889082,riyadh,riyadh_region,Riyadh,4.4,454.0,False
+53,نادي العناية الرياضي,نادي العناية الرياضي,football_club,24.7472246,46.6740037,riyadh,riyadh_region,Riyadh,4.1,44.0,False
+54,نادي الأطفال-سباحه-كاراتبه-كرة قدم-جمباز -كيك بوكسينج,نادي الأطفال-سباحه-كاراتبه-كرة قدم-جمباز -كيك بوكسينج,football_club,24.6843533,46.6905252,riyadh,riyadh_region,Riyadh,5.0,1.0,False
+55,Elite Sports Academy - Downe House Riyadh,Elite Sports Academy - Downe House Riyadh,football_academy,24.761238,46.6273118,riyadh,riyadh_region,Riyadh,4.8,89.0,False
+56,مركز ابداع الرياضة,مركز ابداع الرياضة,stadium,24.873169,46.818827,riyadh,riyadh_region,Riyadh,3.9,1154.0,False
+57,ملاعب الهداف,ملاعب الهداف,football_venue,24.6276302,46.6688215,riyadh,riyadh_region,Riyadh,4.6,1103.0,False
+58,ملعب الورود السادس,ملعب الورود السادس,outdoor_pitch,24.727071,46.6772276,riyadh,riyadh_region,Riyadh,4.7,13.0,False
+59,ملاعب كرة قدم,ملاعب كرة قدم,football_venue,24.5629244,46.7337018,riyadh,riyadh_region,Riyadh,4.3,9.0,False
+60,ملعب ميلان,ملعب ميلان,outdoor_pitch,24.6165989,46.567669,riyadh,riyadh_region,Riyadh,3.5,312.0,False
+61,ملاعب المنارات,ملاعب المنارات,football_venue,24.7883152,46.7186752,riyadh,riyadh_region,Riyadh,4.1,123.0,False
+62,قوة | QWH الندى,قوة | QWH الندى,football_venue,24.8155866,46.6835991,riyadh,riyadh_region,Riyadh,4.1,168.0,False
+63,ملاعب نادي الرياض الرياضي,ملاعب نادي الرياض الرياضي,football_club,24.6478914,46.5489787,riyadh,riyadh_region,Riyadh,4.4,113.0,False
+64,ملعب درة المتحد,ملعب درة المتحد,outdoor_pitch,24.6076586,46.703829,riyadh,riyadh_region,Riyadh,4.3,453.0,False
+65,King Saud University Indoor Stadium,King Saud University Indoor Stadium,stadium,24.7270932,46.6221849,riyadh,riyadh_region,Riyadh,4.5,89.0,False
+66,ملاعب قابوس الرياض,ملاعب قابوس الرياض,football_venue,24.8079464,46.8384902,riyadh,riyadh_region,Riyadh,4.0,651.0,False
+67,ملعب نادي النصر,ملعب نادي النصر,football_club,24.5801158,46.5588259,riyadh,riyadh_region,Riyadh,4.3,746.0,False
+68,ملعب الصايغ,ملعب الصايغ,outdoor_pitch,24.6553711,46.7317408,riyadh,riyadh_region,Riyadh,3.8,152.0,False
+105,بادل ماسترز,بادل ماسترز,football_venue,24.6867553,46.7132845,riyadh,riyadh_region,Riyadh,4.4,112.0,False
+69,ملعب كرة القدم لأهل الحي,ملعب كرة القدم لأهل الحي,stadium,24.6005942,46.7434379,riyadh,riyadh_region,Riyadh,1.0,1.0,False
+70,Ballon D'or Football Academy,Ballon D'or Football Academy,football_academy,24.7828173,46.7230251,riyadh,riyadh_region,Riyadh,4.9,44.0,False
+71,اكاديمية الفيفا المتحدة الرياضية,اكاديمية الفيفا المتحدة الرياضية,football_venue,24.7963703,46.8666763,riyadh,riyadh_region,Riyadh,4.7,147.0,False
+72,Future stars academy,Future stars academy,football_academy,24.7242184,46.6851655,riyadh,riyadh_region,Riyadh,4.3,12.0,False
+73,اكاديمية بطل المستقبل فرع الورود,اكاديمية بطل المستقبل فرع الورود,football_venue,24.7322103,46.6845362,riyadh,riyadh_region,Riyadh,4.9,92.0,False
+74,Al Jazeera football (Champions step),Al Jazeera football (Champions step),football_venue,24.7063554,46.6889624,riyadh,riyadh_region,Riyadh,4.0,2.0,False
+75,ملعب الملز الرديف,ملعب الملز الرديف,outdoor_pitch,24.664019,46.7407824,riyadh,riyadh_region,Riyadh,4.2,15.0,False
+76,ملعب مدينة الملك عبدالعزيز للعلوم والتقنية,ملعب مدينة الملك عبدالعزيز للعلوم والتقنية,outdoor_pitch,24.721746,46.640809,riyadh,riyadh_region,Riyadh,4.2,27.0,False
+77,HIS Big Pitch,HIS Big Pitch,outdoor_pitch,24.7244221,46.6853221,riyadh,riyadh_region,Riyadh,5.0,1.0,False
+78,Al Najeeb Football ground,Al Najeeb Football ground,outdoor_pitch,24.6404187,46.7094959,riyadh,riyadh_region,Riyadh,4.8,13.0,False
+79,الأول بارك,الأول بارك,stadium,24.7292377,46.6237795,riyadh,riyadh_region,Riyadh,4.6,9736.0,False
+80,ساحة البلدية بحي التعاون,ساحة البلدية بحي التعاون,football_venue,24.770171,46.7060669,riyadh,riyadh_region,Riyadh,4.0,638.0,False
+81,442 Football Park Blvd Wrld Riyadh,442 Football Park Blvd Wrld Riyadh,football_venue,24.7775009,46.5988647,riyadh,riyadh_region,Riyadh,4.6,31.0,False
+82,Iskan Football Ground,Iskan Football Ground,stadium,24.562747,46.8459637,riyadh,riyadh_region,Riyadh,4.1,261.0,False
+83,ملعب جامعة الملك سعود بن عبد العزيز للعلوم الصحية,ملعب جامعة الملك سعود بن عبد العزيز للعلوم الصحية,stadium,24.7623607,46.8626513,riyadh,riyadh_region,Riyadh,4.4,666.0,False
+84,ملاعب العمارية,ملاعب العمارية,football_venue,24.8208198,46.4610443,riyadh,riyadh_region,Riyadh,4.4,287.0,False
+85,ملاعب المستطيل الأخضر,ملاعب المستطيل الأخضر,football_venue,24.663329,46.5897869,riyadh,riyadh_region,Riyadh,3.8,348.0,False
+86,نادي للاطفال,نادي للاطفال,football_club,24.7305609,46.672411,riyadh,riyadh_region,Riyadh,4.2,485.0,False
+87,ملعب نهار,ملعب نهار,outdoor_pitch,24.6651933,46.6631087,riyadh,riyadh_region,Riyadh,4.2,31.0,False
+88,نادي الهلال السعودي,نادي الهلال السعودي,football_club,24.60558,46.6247189,riyadh,riyadh_region,Riyadh,4.4,11545.0,True
+88,نادي الهلال السعودي,نادي الهلال السعودي,football_club,24.60558,46.6247189,riyadh,riyadh_region,Riyadh,4.4,11545.0,True
+88,نادي الهلال السعودي,نادي الهلال السعودي,football_club,24.60558,46.6247189,riyadh,riyadh_region,Riyadh,4.4,11545.0,True
+88,نادي الهلال السعودي,نادي الهلال السعودي,football_club,24.60558,46.6247189,riyadh,riyadh_region,Riyadh,4.4,11545.0,True
+88,نادي الهلال السعودي,نادي الهلال السعودي,football_club,24.60558,46.6247189,riyadh,riyadh_region,Riyadh,4.4,11545.0,True
+88,نادي الهلال السعودي,نادي الهلال السعودي,football_club,24.60558,46.6247189,riyadh,riyadh_region,Riyadh,4.4,11545.0,True
+88,نادي الهلال السعودي,نادي الهلال السعودي,football_club,24.60558,46.6247189,riyadh,riyadh_region,Riyadh,4.4,11545.0,True
+88,نادي الهلال السعودي,نادي الهلال السعودي,football_club,24.60558,46.6247189,riyadh,riyadh_region,Riyadh,4.4,11545.0,True
+89,نادي النصر السعودي,نادي النصر السعودي,football_club,24.5815027,46.559044,riyadh,riyadh_region,Riyadh,4.0,7824.0,False
+90,نادي الشباب,نادي الشباب,football_club,24.8026683,46.6271614,riyadh,riyadh_region,Riyadh,4.2,3628.0,False
+91,Saudi Arabian Football Federation - SAFF,Saudi Arabian Football Federation - SAFF,football_venue,24.8306891,46.6373223,riyadh,riyadh_region,Riyadh,4.0,166.0,False
+92,Abulafy Street Football,Abulafy Street Football,football_venue,24.6610239,46.7143845,riyadh,riyadh_region,Riyadh,5.0,17.0,False
+93,أكاديمية O15,أكاديمية O15,football_academy,24.4835707,46.6248638,riyadh,riyadh_region,Riyadh,4.8,657.0,False
+94,KG3-G5 Stadium,KG3-G5 Stadium,stadium,24.6832435,46.6200801,riyadh,riyadh_region,Riyadh,3.9,11.0,False
+95,نادي الرياض,نادي الرياض,football_club,24.6473655,46.5505555,riyadh,riyadh_region,Riyadh,4.1,6125.0,False
+96,الشمس والرمال للرياضه,الشمس والرمال للرياضه,football_venue,24.7319739,46.6724136,riyadh,riyadh_region,Riyadh,3.9,1760.0,False
+97,سينس 5,سينس 5,football_venue,24.7130374,46.8178952,riyadh,riyadh_region,Riyadh,4.6,81.0,False
+98,اديداس - دول سبورت,اديداس - دول سبورت,football_venue,24.7033857,46.6757825,riyadh,riyadh_region,Riyadh,4.4,99.0,False
+99,مدرسة اسست الرياضية,مدرسة اسست الرياضية,football_venue,24.60747,46.7036282,riyadh,riyadh_region,Riyadh,4.5,11.0,False
+100,Football Field,Football Field,outdoor_pitch,24.6741565,46.7017836,riyadh,riyadh_region,Riyadh,2.6,12.0,False
+101,Football turf,Football turf,football_venue,24.5502997,46.8676195,riyadh,riyadh_region,Riyadh,4.2,5.0,False
+102,سحابة البادل,سحابة البادل,football_venue,24.7051813,46.6743528,riyadh,riyadh_region,Riyadh,4.9,550.0,False
+103,PDL for Padel,PDL for Padel,football_venue,24.7628487,46.6322975,riyadh,riyadh_region,Riyadh,4.6,246.0,False
+104,سوبر بادل,سوبر بادل,football_venue,24.7021137,46.7594111,riyadh,riyadh_region,Riyadh,4.9,915.0,False
+106,بادل اب,بادل اب,football_venue,24.74719,46.5227142,riyadh,riyadh_region,Riyadh,4.4,248.0,False
+107,عنوان البادل- padel & padbol Address,عنوان البادل- padel & padbol Address,football_venue,24.5757588,46.6690712,riyadh,riyadh_region,Riyadh,4.7,140.0,False
+108,بادل وي,بادل وي,football_venue,24.8576366,46.6070077,riyadh,riyadh_region,Riyadh,4.6,375.0,False
+109,Riyadh Padel | مركز بادل الرياض,Riyadh Padel | مركز بادل الرياض,sports_complex,24.7772931,46.7904449,riyadh,riyadh_region,Riyadh,4.8,319.0,False
+110,فور بادل,فور بادل,football_venue,24.8041654,46.6332876,riyadh,riyadh_region,Riyadh,3.8,184.0,False
+111,بادل الرياض,بادل الرياض,football_venue,24.8811181,46.8262876,riyadh,riyadh_region,Riyadh,4.7,116.0,False
+112,بادل بلو,بادل بلو,football_venue,24.6130195,46.6910818,riyadh,riyadh_region,Riyadh,4.8,179.0,False
+113,فالي بادل,فالي بادل,football_venue,24.6556188,46.6047999,riyadh,riyadh_region,Riyadh,3.9,394.0,False
+114,Padel in Ar Rabwah - بادل ان الربوة,Padel in Ar Rabwah - بادل ان الربوة,football_venue,24.6925701,46.7641394,riyadh,riyadh_region,Riyadh,4.0,196.0,False
+115,بادلر,بادلر,football_venue,24.8623134,46.8218221,riyadh,riyadh_region,Riyadh,4.9,347.0,False
+116,بست بادل,بست بادل,football_venue,24.7289027,46.7529207,riyadh,riyadh_region,Riyadh,4.2,174.0,False
+117,أُول بادل All Padel,أُول بادل All Padel,football_venue,24.6777716,46.8538487,riyadh,riyadh_region,Riyadh,4.5,99.0,False
+118,نصف بادل الرياضي,نصف بادل الرياضي,football_venue,24.8738665,46.6069356,riyadh,riyadh_region,Riyadh,4.3,195.0,False
+119,بادل طريقنا الرياضي,بادل طريقنا الرياضي,football_venue,24.5690751,46.7300469,riyadh,riyadh_region,Riyadh,4.9,81.0,False
+120,بادل برو,بادل برو,football_venue,24.7395249,46.784527,riyadh,riyadh_region,Riyadh,4.3,323.0,False
+121,بادل اكس Padelx,بادل اكس Padelx,football_venue,24.7813769,46.7044395,riyadh,riyadh_region,Riyadh,4.0,152.0,False
+122,ملاعب أكاديمية الكأس الرياضية فرع الورود,ملاعب أكاديمية الكأس الرياضية فرع الورود,football_academy,24.1787533,47.3164969,al_kharj,riyadh_region,Riyadh,4.8,122.0,False
+123,ملاعب و أكاديمية الخرج الرياضية,ملاعب و أكاديمية الخرج الرياضية,football_academy,24.1779224,47.318117,al_kharj,riyadh_region,Riyadh,4.1,133.0,False
+124,ملاعب الاسطورة,ملاعب الاسطورة,football_venue,24.1936226,47.3199889,al_kharj,riyadh_region,Riyadh,4.9,30.0,False
+125,أكاديمية الكأس الرياضية فرع الصفوة,أكاديمية الكأس الرياضية فرع الصفوة,football_academy,24.1718203,47.3685407,al_kharj,riyadh_region,Riyadh,4.7,89.0,False
+126,ملاعب أكاديمية الكأس الرياضية فرع غرناطة,ملاعب أكاديمية الكأس الرياضية فرع غرناطة,football_academy,24.1232222,47.260376,al_kharj,riyadh_region,Riyadh,4.7,65.0,False
+127,ملاعب الخليج,ملاعب الخليج,football_venue,24.1893717,47.3241339,al_kharj,riyadh_region,Riyadh,4.0,133.0,False
+128,ملاعب مجمع أسباير الرياضي,ملاعب مجمع أسباير الرياضي,sports_complex,24.1801557,47.3445923,al_kharj,riyadh_region,Riyadh,4.7,69.0,False
+129,نادي الشعلة,نادي الشعلة,football_club,24.1658183,47.3473543,al_kharj,riyadh_region,Riyadh,3.9,744.0,False
+130,ملعب النقرة,ملعب النقرة,outdoor_pitch,24.1825025,47.3391484,al_kharj,riyadh_region,Riyadh,3.2,32.0,False
+131,ملعب الاولمبي,ملعب الاولمبي,outdoor_pitch,24.1737016,47.3282195,al_kharj,riyadh_region,Riyadh,4.5,173.0,False
+132,أكاديمية نجوم لكرة القدم,أكاديمية نجوم لكرة القدم,football_academy,24.173485,47.3286369,al_kharj,riyadh_region,Riyadh,4.6,25.0,False
+133,الاكاديميه النسائيه الاولي بالخرج,الاكاديميه النسائيه الاولي بالخرج,football_venue,24.1778042,47.3192646,al_kharj,riyadh_region,Riyadh,3.9,21.0,False
+134,أكاديمية اليمامة,أكاديمية اليمامة,football_academy,24.1767339,47.3530043,al_kharj,riyadh_region,Riyadh,4.6,41.0,False
+135,ملعب اسكان المؤسسة العامة للصناعات العسكرية,ملعب اسكان المؤسسة العامة للصناعات العسكرية,outdoor_pitch,24.1300617,47.2890129,al_kharj,riyadh_region,Riyadh,3.8,87.0,False
+136,الامواج,الامواج,football_venue,24.1964028,47.3177699,al_kharj,riyadh_region,Riyadh,3.7,40.0,False
+137,T4 Football Academy,T4 Football Academy,football_academy,24.1799496,47.3443646,al_kharj,riyadh_region,Riyadh,4.2,12.0,False
+138,'بادل Go Padel,'بادل Go Padel,football_venue,24.1768444,47.3196755,al_kharj,riyadh_region,Riyadh,3.7,48.0,False
+139,أكاديمية اور ستار,أكاديمية اور ستار,football_academy,24.1935764,47.3197705,al_kharj,riyadh_region,Riyadh,4.3,45.0,False
+140,اكاديمية اهدافي الرياضية,اكاديمية اهدافي الرياضية,football_venue,24.173655,47.3281761,al_kharj,riyadh_region,Riyadh,4.9,44.0,False
+141,ملعب حديقة غرناطه,ملعب حديقة غرناطه,outdoor_pitch,24.123113,47.2603659,al_kharj,riyadh_region,Riyadh,4.1,11.0,False
+142,ملعب الجامعة,ملعب الجامعة,stadium,24.1442791,47.2721281,al_kharj,riyadh_region,Riyadh,4.4,36.0,False
+143,Riyadh Combat Club | نادي رياض كومبات,Riyadh Combat Club | نادي رياض كومبات,football_club,24.1601984,47.3078507,al_kharj,riyadh_region,Riyadh,4.5,86.0,False
+144,اكاديمية ارتس فوتبول,اكاديمية ارتس فوتبول,football_venue,24.1194924,47.2648127,al_kharj,riyadh_region,Riyadh,5.0,4.0,False
+145,الصفوة جيم,الصفوة جيم,football_venue,24.1591871,47.3225721,al_kharj,riyadh_region,Riyadh,4.8,72.0,False
+146,مركز أبطال الخرج الرياضي .,مركز أبطال الخرج الرياضي .,sports_complex,24.1502578,47.3203847,al_kharj,riyadh_region,Riyadh,3.8,331.0,False
+147,أكاديمية الكأس الرياضية فرع العيون,أكاديمية الكأس الرياضية فرع العيون,football_academy,24.1126943,47.2562923,al_kharj,riyadh_region,Riyadh,4.7,25.0,False
+148,أكاديمية تي فور الرياضية لكرة القدم,أكاديمية تي فور الرياضية لكرة القدم,football_academy,24.248047,47.3574877,al_kharj,riyadh_region,Riyadh,4.4,5.0,False
+149,Al-Kawkab Football Club,Al-Kawkab Football Club,football_club,24.1657088,47.3470459,al_kharj,riyadh_region,Riyadh,5.0,2.0,False
+150,مركز دانيت الرياضي,مركز دانيت الرياضي,sports_complex,24.1473073,47.3014882,al_kharj,riyadh_region,Riyadh,4.4,50.0,False
+151,نادي الطفيل الرياضي,نادي الطفيل الرياضي,football_club,24.1674529,47.329997,al_kharj,riyadh_region,Riyadh,3.7,253.0,False
+152,أكاديمي بودي هيلث,أكاديمي بودي هيلث,football_venue,24.1668299,47.336688,al_kharj,riyadh_region,Riyadh,1.0,1.0,False
+153,نادي لفتنق مور نسائي ‏LIFTING MORE GYM,نادي لفتنق مور نسائي ‏LIFTING MORE GYM,football_club,24.1618661,47.3146696,al_kharj,riyadh_region,Riyadh,4.7,90.0,False
+154,نادي بيت الرشاقة النسائي (FITNESS HOUSE),نادي بيت الرشاقة النسائي (FITNESS HOUSE),football_club,24.1661267,47.3131514,al_kharj,riyadh_region,Riyadh,4.1,257.0,False
+155,فت كامب ( مخيم اللياقة )-للنساء,فت كامب ( مخيم اللياقة )-للنساء,football_venue,24.1672588,47.3333877,al_kharj,riyadh_region,Riyadh,3.2,472.0,False
+156,بادل دو - PADEL DUO,بادل دو - PADEL DUO,football_venue,24.1707139,47.2574169,al_kharj,riyadh_region,Riyadh,4.5,145.0,False
+157,الملعب,الملعب,outdoor_pitch,24.1430914,47.2878401,al_kharj,riyadh_region,Riyadh,5.0,1.0,False
+158,ملاعب الرياضه,ملاعب الرياضه,football_venue,24.1397239,47.2918622,al_kharj,riyadh_region,Riyadh,4.5,4.0,False
+159,ملعب كرة السلة,ملعب كرة السلة,outdoor_pitch,24.1452447,47.2694046,al_kharj,riyadh_region,Riyadh,5.0,1.0,False
+160,نادي بيت العضل الرياضي,نادي بيت العضل الرياضي,football_club,24.152657,47.285798,al_kharj,riyadh_region,Riyadh,4.3,378.0,False
+161,Smart Gym,Smart Gym,football_venue,24.1673556,47.3300275,al_kharj,riyadh_region,Riyadh,4.4,128.0,False
+162,ملعب نادي الكهرباء,ملعب نادي الكهرباء,football_club,24.1768184,47.2865782,al_kharj,riyadh_region,Riyadh,4.2,34.0,False
+163,ملعب البرشا,ملعب البرشا,outdoor_pitch,24.2210787,47.2284862,al_kharj,riyadh_region,Riyadh,3.7,41.0,False
+164,أكاديمية نانت الرياضية,أكاديمية نانت الرياضية,football_academy,24.1894006,47.3241234,al_kharj,riyadh_region,Riyadh,4.4,19.0,False
+165,نادي الكوكب,نادي الكوكب,football_club,24.1210729,47.2644449,al_kharj,riyadh_region,Riyadh,3.2,159.0,False
+166,ملعب,ملعب,outdoor_pitch,24.155535,47.2727923,al_kharj,riyadh_region,Riyadh,,,False
+167,المدينة الرياضية بالخرج,المدينة الرياضية بالخرج,football_venue,24.1740322,47.363926,al_kharj,riyadh_region,Riyadh,3.2,57.0,False
+168,حديقة غرناطه,حديقة غرناطه,football_venue,24.1239462,47.2606781,al_kharj,riyadh_region,Riyadh,4.1,172.0,False
+169,حديقة الأندلس,حديقة الأندلس,football_venue,24.1294702,47.3482502,al_kharj,riyadh_region,Riyadh,4.0,332.0,False
+170,حديقة حي الصفوة الأول,حديقة حي الصفوة الأول,football_venue,24.1717951,47.368977,al_kharj,riyadh_region,Riyadh,4.0,96.0,False
+171,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,24.2368177,47.3274277,al_kharj,riyadh_region,Riyadh,,,False
+172,Play Ground,Play Ground,outdoor_pitch,24.1854641,47.3675738,al_kharj,riyadh_region,Riyadh,5.0,2.0,False
+173,Padel hub,Padel hub,football_venue,24.0952719,47.2237605,al_kharj,riyadh_region,Riyadh,4.6,73.0,False
+174,عرض الصيف Padel More | بادل مور,عرض الصيف Padel More | بادل مور,football_venue,24.2026445,47.3381121,al_kharj,riyadh_region,Riyadh,4.8,36.0,False
+175,Padel on,Padel on,football_venue,24.15594,47.2631125,al_kharj,riyadh_region,Riyadh,4.1,58.0,False
+176,First Padel,First Padel,football_venue,24.2241871,47.221784,al_kharj,riyadh_region,Riyadh,4.1,35.0,False
+177,ملعب خالد لكرة القدم,ملعب خالد لكرة القدم,outdoor_pitch,24.4792001,44.4085873,dawadmi,riyadh_region,Riyadh,4.5,60.0,False
+178,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,24.5056417,44.3981247,dawadmi,riyadh_region,Riyadh,5.0,1.0,False
+179,ملعب الديرة لكرة القدم,ملعب الديرة لكرة القدم,outdoor_pitch,24.4804839,44.4057095,dawadmi,riyadh_region,Riyadh,4.4,14.0,False
+180,ملعب الرحال لكرة القدم,ملعب الرحال لكرة القدم,outdoor_pitch,24.4956666,44.4117305,dawadmi,riyadh_region,Riyadh,4.2,15.0,False
+181,ملاعب حديقة حي الديرة,ملاعب حديقة حي الديرة,football_venue,24.4914849,44.3869841,dawadmi,riyadh_region,Riyadh,3.9,21.0,False
+182,ملعب كرة مدرسة اليرموك,ملعب كرة مدرسة اليرموك,outdoor_pitch,24.512175,44.3947012,dawadmi,riyadh_region,Riyadh,5.0,1.0,False
+183,ملعب ياسر,ملعب ياسر,outdoor_pitch,24.4904136,44.4002004,dawadmi,riyadh_region,Riyadh,4.6,29.0,False
+184,ملاعب المملكة لكرة القدم,ملاعب المملكة لكرة القدم,football_venue,24.4829761,44.4204655,dawadmi,riyadh_region,Riyadh,3.6,12.0,False
+185,ملعب كرة قدم 4,ملعب كرة قدم 4,outdoor_pitch,24.5431164,44.442983,dawadmi,riyadh_region,Riyadh,3.0,3.0,False
+186,Dpadel,Dpadel,football_venue,24.4897856,44.3987853,dawadmi,riyadh_region,Riyadh,4.9,15.0,False
+187,صدى الملاعب للرياضة,صدى الملاعب للرياضة,football_venue,24.5019292,44.3877418,dawadmi,riyadh_region,Riyadh,4.4,15.0,False
+188,ملعب اسيا الرياضي,ملعب اسيا الرياضي,outdoor_pitch,24.5514664,44.3774115,dawadmi,riyadh_region,Riyadh,4.2,14.0,False
+189,ملعب كرة قدم2,ملعب كرة قدم2,outdoor_pitch,24.5514766,44.45841,dawadmi,riyadh_region,Riyadh,5.0,1.0,False
+190,الملعب الفرعي لنادي الدرع,الملعب الفرعي لنادي الدرع,football_club,24.5146792,44.4140257,dawadmi,riyadh_region,Riyadh,4.0,4.0,False
+191,ملاعب الهيئة العامة للرياضة في الدوادمي,ملاعب الهيئة العامة للرياضة في الدوادمي,football_venue,24.5024787,44.3763401,dawadmi,riyadh_region,Riyadh,5.0,2.0,False
+192,ملعب كرة القدم,ملعب كرة القدم,outdoor_pitch,24.5474065,44.4541158,dawadmi,riyadh_region,Riyadh,,,False
+193,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,24.5488301,44.4532565,dawadmi,riyadh_region,Riyadh,,,False
+194,نادي الدرع الرياضي بمحافظة الدوادمي,نادي الدرع الرياضي بمحافظة الدوادمي,football_club,24.5148256,44.4126085,dawadmi,riyadh_region,Riyadh,4.0,4.0,False
+195,نخبة الأبطال,نخبة الأبطال,football_venue,24.5231713,44.4149794,dawadmi,riyadh_region,Riyadh,3.3,33.0,False
+196,نادي بالانس النسائي BALANCE GYM,نادي بالانس النسائي BALANCE GYM,football_club,24.5306706,44.4283042,dawadmi,riyadh_region,Riyadh,4.6,254.0,False
+197,نادي مصدة الرياضي,نادي مصدة الرياضي,football_club,24.5467523,44.2758894,dawadmi,riyadh_region,Riyadh,4.1,14.0,False
+198,ملاعب حديقة العزيزية,ملاعب حديقة العزيزية,football_venue,24.5302262,44.3997401,dawadmi,riyadh_region,Riyadh,3.6,74.0,False
+199,Fitness Time -Dawadmi Xpress 16+,Fitness Time -Dawadmi Xpress 16+,football_venue,24.552061,44.456337,dawadmi,riyadh_region,Riyadh,4.2,210.0,False
+200,وقت اللياقة XPRESS,وقت اللياقة XPRESS,football_venue,24.5521291,44.4571872,dawadmi,riyadh_region,Riyadh,4.1,525.0,False
+201,ملعب,ملعب,outdoor_pitch,24.529988,44.3998232,dawadmi,riyadh_region,Riyadh,4.7,7.0,False
+202,أحد مرافق الحديقة الجدارية بمحافظة الدوادمي,أحد مرافق الحديقة الجدارية بمحافظة الدوادمي,football_venue,24.542764,44.442799,dawadmi,riyadh_region,Riyadh,2.5,2.0,False
+203,ساحة شعبية ورياضية,ساحة شعبية ورياضية,football_venue,24.502148,44.3766945,dawadmi,riyadh_region,Riyadh,4.0,16.0,False
+204,أسواق نخبة المكان الفرع الاول محطه بترولينا,أسواق نخبة المكان الفرع الاول محطه بترولينا,football_venue,24.5209009,44.4187811,dawadmi,riyadh_region,Riyadh,4.6,23.0,False
+205,Asayel Padel اصايل بادل,Asayel Padel اصايل بادل,football_venue,24.5469387,44.4467672,dawadmi,riyadh_region,Riyadh,4.3,17.0,False
+206,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,25.9059505,45.3736763,majmaah,riyadh_region,Riyadh,4.4,16.0,False
+207,ملعب ابو ريان,ملعب ابو ريان,outdoor_pitch,25.9079885,45.3399552,majmaah,riyadh_region,Riyadh,4.0,55.0,False
+208,الملعب السداسي,الملعب السداسي,outdoor_pitch,25.8837946,45.3650806,majmaah,riyadh_region,Riyadh,3.8,12.0,False
+209,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,25.9463444,45.3601278,majmaah,riyadh_region,Riyadh,3.6,17.0,False
+210,نادي الفيحاء Alfaiha Club,نادي الفيحاء Alfaiha Club,football_club,25.909053,45.345053,majmaah,riyadh_region,Riyadh,4.4,129.0,False
+211,صالة كرة القدم,صالة كرة القدم,indoor_pitch,25.9081918,45.3716077,majmaah,riyadh_region,Riyadh,4.0,4.0,False
+212,النادي الفيصلي السعودي,النادي الفيصلي السعودي,football_club,25.9286264,45.3340105,majmaah,riyadh_region,Riyadh,4.4,423.0,True
+213,مركز الرياضات المتعددة ( بيت البادل - كرة قدم ),مركز الرياضات المتعددة ( بيت البادل - كرة قدم ),sports_complex,25.8961196,45.3947267,majmaah,riyadh_region,Riyadh,5.0,4.0,False
+214,أكاديمية مسار الفروسية,أكاديمية مسار الفروسية,football_academy,25.9758793,45.3498555,majmaah,riyadh_region,Riyadh,4.3,63.0,False
+215,ملعب البلدية,ملعب البلدية,outdoor_pitch,25.9183736,45.3623081,majmaah,riyadh_region,Riyadh,5.0,3.0,False
+216,وقت الجسم - BODY TIME,وقت الجسم - BODY TIME,football_venue,25.9017529,45.3544077,majmaah,riyadh_region,Riyadh,3.7,131.0,False
+217,مدينة المجمعة الرياضية,مدينة المجمعة الرياضية,sports_complex,25.8864366,45.3670791,majmaah,riyadh_region,Riyadh,4.1,762.0,False
+218,صالة الأبعاد الخمسة للياقة البدنية,صالة الأبعاد الخمسة للياقة البدنية,indoor_pitch,25.8955285,45.3600684,majmaah,riyadh_region,Riyadh,3.7,168.0,False
+219,بودي تايم - BODY TIME,بودي تايم - BODY TIME,football_venue,25.8720774,45.416187,majmaah,riyadh_region,Riyadh,4.0,29.0,False
+220,وقت اللياقة,وقت اللياقة,football_venue,25.8973881,45.356312,majmaah,riyadh_region,Riyadh,4.2,414.0,False
+221,نادي الفنون القتالية واكاديمية السباحة,نادي الفنون القتالية واكاديمية السباحة,football_club,25.9282338,45.375319,majmaah,riyadh_region,Riyadh,4.2,31.0,False
+222,نادي ليدي سبورت النسائي,نادي ليدي سبورت النسائي,football_club,25.9181087,45.3649228,majmaah,riyadh_region,Riyadh,4.0,42.0,False
+223,بيت الشباب بالمجمعة,بيت الشباب بالمجمعة,sports_complex,25.8862016,45.3664152,majmaah,riyadh_region,Riyadh,3.8,61.0,False
+224,ملعب البادل بنادي الفيحاء,ملعب البادل بنادي الفيحاء,football_club,25.9083106,45.3462313,majmaah,riyadh_region,Riyadh,5.0,5.0,False
+225,سنام بارك,سنام بارك,football_venue,25.8548178,45.3883478,majmaah,riyadh_region,Riyadh,4.7,43.0,False
+226,ملعب جوي,ملعب جوي,outdoor_pitch,25.820147,45.404726,majmaah,riyadh_region,Riyadh,3.8,24.0,False
+227,ممشى حي المطار,ممشى حي المطار,football_venue,25.9093972,45.3712392,majmaah,riyadh_region,Riyadh,4.2,883.0,False
+228,بادل ابو ريان,بادل ابو ريان,football_venue,25.9080981,45.3404849,majmaah,riyadh_region,Riyadh,4.0,12.0,False
+229,ملعب,ملعب,outdoor_pitch,25.9185518,45.3776681,majmaah,riyadh_region,Riyadh,4.5,8.0,False
+230,ملعب تنس في بيوت الشباب بالمجمعة,ملعب تنس في بيوت الشباب بالمجمعة,outdoor_pitch,25.8858067,45.3660798,majmaah,riyadh_region,Riyadh,3.8,6.0,False
+231,ملعب كرة حي الجزيرة,ملعب كرة حي الجزيرة,outdoor_pitch,25.9069644,45.3602173,majmaah,riyadh_region,Riyadh,1.0,1.0,False
+232,ملعب واستراحة الواحة المجمعة,ملعب واستراحة الواحة المجمعة,outdoor_pitch,25.8155169,45.4301536,majmaah,riyadh_region,Riyadh,4.7,99.0,False
+233,ملعب سطوع,ملعب سطوع,outdoor_pitch,25.931783,45.334902,majmaah,riyadh_region,Riyadh,4.6,25.0,False
+234,ملعب حي المطار,ملعب حي المطار,outdoor_pitch,25.914479,45.3851612,majmaah,riyadh_region,Riyadh,2.7,6.0,False
+235,Padel Home,Padel Home,football_venue,25.8971592,45.3960007,majmaah,riyadh_region,Riyadh,,,False
+236,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.3143517,44.7982147,zulfi,riyadh_region,Riyadh,3.0,7.0,False
+237,ملعب و استراحة سما,ملعب و استراحة سما,outdoor_pitch,26.3254587,44.8135041,zulfi,riyadh_region,Riyadh,4.4,122.0,False
+238,ملعب كرة قدم عام ، حي الصديق,ملعب كرة قدم عام ، حي الصديق,outdoor_pitch,26.2935785,44.822942,zulfi,riyadh_region,Riyadh,3.9,9.0,False
+239,ملعب كرة قدم ومضمار للمشي,ملعب كرة قدم ومضمار للمشي,outdoor_pitch,26.3033887,44.8341466,zulfi,riyadh_region,Riyadh,4.0,4.0,False
+240,ملاعب النخبة,ملاعب النخبة,football_venue,26.2896842,44.8069973,zulfi,riyadh_region,Riyadh,4.4,85.0,False
+241,ملعب رياضي,ملعب رياضي,outdoor_pitch,26.3086549,44.8059797,zulfi,riyadh_region,Riyadh,4.1,34.0,False
+242,نادي الزلفي السعودي,نادي الزلفي السعودي,football_club,26.3064956,44.8359642,zulfi,riyadh_region,Riyadh,4.1,309.0,False
+243,ملعب التكويش,ملعب التكويش,outdoor_pitch,26.3086285,44.8059921,zulfi,riyadh_region,Riyadh,4.3,4.0,False
+244,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.3036381,44.8676736,zulfi,riyadh_region,Riyadh,4.0,3.0,False
+245,مركز نخبة الاجيال الرياضي,مركز نخبة الاجيال الرياضي,sports_complex,26.2901229,44.8068162,zulfi,riyadh_region,Riyadh,4.2,114.0,False
+246,ملعب سمنان,ملعب سمنان,outdoor_pitch,26.2907001,44.8322456,zulfi,riyadh_region,Riyadh,3.1,14.0,False
+247,الملعب,الملعب,outdoor_pitch,26.30599,44.8187242,zulfi,riyadh_region,Riyadh,4.5,4.0,False
+248,ملعب المنتزه ١,ملعب المنتزه ١,outdoor_pitch,26.3094376,44.8752018,zulfi,riyadh_region,Riyadh,4.4,7.0,False
+249,ملعب,ملعب,outdoor_pitch,26.3177507,44.8147713,zulfi,riyadh_region,Riyadh,5.0,3.0,False
+250,حديقة المبخرة,حديقة المبخرة,football_venue,26.3098563,44.876899,zulfi,riyadh_region,Riyadh,4.2,195.0,False
+251,نادي طويق الرياضي,نادي طويق الرياضي,football_club,26.3396301,44.7856677,zulfi,riyadh_region,Riyadh,4.3,25.0,False
+252,ملعب علقه,ملعب علقه,outdoor_pitch,26.3444798,44.7866398,zulfi,riyadh_region,Riyadh,3.5,2.0,False
+253,قلعة الترفيه,قلعة الترفيه,football_venue,26.2805307,44.8313968,zulfi,riyadh_region,Riyadh,4.1,149.0,False
+254,جزيرة الترفيه,جزيرة الترفيه,football_venue,26.3000324,44.8248915,zulfi,riyadh_region,Riyadh,4.3,185.0,False
+255,ملعب كره قدم حي الفاروق,ملعب كره قدم حي الفاروق,outdoor_pitch,26.3088813,44.8216432,zulfi,riyadh_region,Riyadh,,,False
+256,نادي الماسة 2,نادي الماسة 2,football_club,26.2945771,44.8044324,zulfi,riyadh_region,Riyadh,4.2,45.0,False
+257,حديقة الشروق,حديقة الشروق,football_venue,26.2902167,44.8316133,zulfi,riyadh_region,Riyadh,4.2,68.0,False
+258,ملاعب كوبا COPA Football,ملاعب كوبا COPA Football,football_venue,26.4252844,43.8646431,zulfi,riyadh_region,Riyadh,4.5,190.0,False
+259,مركز ركن الاخضر الرياضي,مركز ركن الاخضر الرياضي,sports_complex,26.3302924,44.8026136,zulfi,riyadh_region,Riyadh,4.2,24.0,False
+260,بادل اللعب بلاند,بادل اللعب بلاند,football_venue,26.2918072,44.8240105,zulfi,riyadh_region,Riyadh,3.8,11.0,False
+261,قو فتنس Go Fitness,قو فتنس Go Fitness,football_venue,26.2889707,44.8049612,zulfi,riyadh_region,Riyadh,4.6,615.0,False
+262,بادل بلاند,بادل بلاند,football_venue,26.1884843,44.8417201,zulfi,riyadh_region,Riyadh,4.5,23.0,False
+263,بادل بلاند حي الصديق,بادل بلاند حي الصديق,football_venue,26.2920871,44.8238092,zulfi,riyadh_region,Riyadh,4.3,10.0,False
+264,واجهة اللعب,واجهة اللعب,football_venue,26.291952,44.8239116,zulfi,riyadh_region,Riyadh,3.6,45.0,False
+265,ملعب البلدية,ملعب البلدية,outdoor_pitch,25.2599356,45.2654935,shaqra,riyadh_region,Riyadh,3.5,40.0,False
+266,نادي الوشم بشقراء,نادي الوشم بشقراء,football_club,25.2340746,45.2427748,shaqra,riyadh_region,Riyadh,4.3,309.0,False
+267,ملعب حي الأندلس,ملعب حي الأندلس,outdoor_pitch,25.2086821,45.2321938,shaqra,riyadh_region,Riyadh,4.2,16.0,False
+268,ملعب غسلة بالقرائن,ملعب غسلة بالقرائن,outdoor_pitch,25.2183757,45.2910167,shaqra,riyadh_region,Riyadh,4.5,8.0,False
+269,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,25.2779782,45.273243,shaqra,riyadh_region,Riyadh,,,False
+270,اكاديمية كرة القدم,اكاديمية كرة القدم,football_venue,25.2267319,45.2460478,shaqra,riyadh_region,Riyadh,,,False
+271,مركز جميع الأوقات الرياضي,مركز جميع الأوقات الرياضي,sports_complex,25.2276672,45.2427502,shaqra,riyadh_region,Riyadh,4.2,34.0,False
+272,نادي عالم الأبطال الرياضي,نادي عالم الأبطال الرياضي,football_club,25.2221102,45.2465005,shaqra,riyadh_region,Riyadh,3.9,120.0,False
+273,الملاعب المزروعة,الملاعب المزروعة,football_venue,25.215438,45.2736695,shaqra,riyadh_region,Riyadh,4.5,4.0,False
+274,مطل القرائن,مطل القرائن,football_venue,25.2170466,45.2928683,shaqra,riyadh_region,Riyadh,4.5,146.0,False
+275,ملعب إدارة التعليم بشقراء,ملعب إدارة التعليم بشقراء,stadium,25.2614833,45.2836433,shaqra,riyadh_region,Riyadh,5.0,1.0,False
+276,ملعب جامعة شقراء,ملعب جامعة شقراء,stadium,25.1756208,45.1499134,shaqra,riyadh_region,Riyadh,5.0,1.0,False
+277,حديقة الشباب,حديقة الشباب,football_venue,25.2368021,45.2412903,shaqra,riyadh_region,Riyadh,4.1,15.0,False
+278,مركز لباقة ولياقة الرياضي النسائي,مركز لباقة ولياقة الرياضي النسائي,sports_complex,25.2367324,45.2469108,shaqra,riyadh_region,Riyadh,4.5,128.0,False
+279,نادي فارس غندور للياقة والمساج,نادي فارس غندور للياقة والمساج,football_club,25.2435506,45.2421116,shaqra,riyadh_region,Riyadh,3.6,109.0,False
+280,شقراء بادل ارينا,شقراء بادل ارينا,football_venue,25.2359615,45.3153263,shaqra,riyadh_region,Riyadh,5.0,10.0,False
+281,ملاعب شباب الوادي ( أكاديمية X5 ),ملاعب شباب الوادي ( أكاديمية X5 ),football_academy,20.457062,44.7555514,wadi_dawasir,riyadh_region,Riyadh,4.4,18.0,False
+282,ملعب النخبة,ملعب النخبة,outdoor_pitch,20.4549307,44.8045196,wadi_dawasir,riyadh_region,Riyadh,4.5,19.0,False
+283,ملعب النخيل,ملعب النخيل,outdoor_pitch,20.4716024,44.8548785,wadi_dawasir,riyadh_region,Riyadh,4.2,21.0,False
+284,ملعب الجوهرة,ملعب الجوهرة,outdoor_pitch,20.3916271,44.8332719,wadi_dawasir,riyadh_region,Riyadh,3.9,37.0,False
+285,مدينة الأمير ناصر بن عبدالعزيز الرياضية,مدينة الأمير ناصر بن عبدالعزيز الرياضية,football_venue,20.4328488,44.8817495,wadi_dawasir,riyadh_region,Riyadh,3.9,109.0,False
+286,ملعب درة الوادي,ملعب درة الوادي,stadium,20.4333079,44.7399736,wadi_dawasir,riyadh_region,Riyadh,4.1,18.0,False
+287,جمعية مبادرون الاجتماعية بالزويراء,جمعية مبادرون الاجتماعية بالزويراء,football_venue,20.4594375,44.8274375,wadi_dawasir,riyadh_region,Riyadh,4.6,15.0,False
+288,ملعب كورة قدم,ملعب كورة قدم,outdoor_pitch,20.4550954,44.8039539,wadi_dawasir,riyadh_region,Riyadh,5.0,3.0,False
+289,سداسي النورس,سداسي النورس,football_venue,20.4653851,44.7731629,wadi_dawasir,riyadh_region,Riyadh,4.3,7.0,False
+290,حديقة الحزم,حديقة الحزم,football_venue,20.4663941,44.7704582,wadi_dawasir,riyadh_region,Riyadh,3.7,307.0,False
+291,Red Gym النادي الأحمر,Red Gym النادي الأحمر,football_club,20.4568359,44.8111132,wadi_dawasir,riyadh_region,Riyadh,4.5,154.0,False
+292,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,20.4332138,44.7396303,wadi_dawasir,riyadh_region,Riyadh,,,False
+293,مركز توقيت اللياقة,مركز توقيت اللياقة,sports_complex,20.4404308,44.7582777,wadi_dawasir,riyadh_region,Riyadh,4.0,35.0,False
+294,مركز سيليا الرياضي النسائي,مركز سيليا الرياضي النسائي,sports_complex,20.4724532,44.7869626,wadi_dawasir,riyadh_region,Riyadh,3.7,64.0,False
+295,نادي لياقة,نادي لياقة,football_club,20.4445702,44.7544981,wadi_dawasir,riyadh_region,Riyadh,3.3,98.0,False
+296,نادي الصحاري,نادي الصحاري,football_club,20.4227319,44.8972057,wadi_dawasir,riyadh_region,Riyadh,4.3,10.0,False
+297,ملعب الصالحيه الرياضي,ملعب الصالحيه الرياضي,outdoor_pitch,20.4177998,44.8505551,wadi_dawasir,riyadh_region,Riyadh,5.0,5.0,False
+298,وناسة ومرح لترفيه,وناسة ومرح لترفيه,football_venue,20.4551481,44.8233889,wadi_dawasir,riyadh_region,Riyadh,3.6,68.0,False
+299,Alhazem garden,Alhazem garden,football_venue,20.4648782,44.7741731,wadi_dawasir,riyadh_region,Riyadh,3.8,75.0,False
+300,شركة أبناء محمد بن خلف بن قويد,شركة أبناء محمد بن خلف بن قويد,football_venue,20.4427493,44.8631601,wadi_dawasir,riyadh_region,Riyadh,4.3,177.0,False
+301,ملعب الكواكب,ملعب الكواكب,outdoor_pitch,20.4121416,45.3895654,wadi_dawasir,riyadh_region,Riyadh,4.2,17.0,False
+302,حديقة الملك فهد - وادي الدواسر - الشرافاء,حديقة الملك فهد - وادي الدواسر - الشرافاء,football_venue,20.4293837,44.9292004,wadi_dawasir,riyadh_region,Riyadh,3.9,223.0,False
+303,بوابة وادي الدواسر,بوابة وادي الدواسر,football_venue,20.4311208,44.9378029,wadi_dawasir,riyadh_region,Riyadh,4.3,359.0,False
+304,ملعب آل خضاري ️ ️,ملعب آل خضاري ️ ️,outdoor_pitch,20.4550259,44.8040814,wadi_dawasir,riyadh_region,Riyadh,,,False
+305,مركز جلسة استرخاء الرياضى,مركز جلسة استرخاء الرياضى,sports_complex,20.4560371,44.814681,wadi_dawasir,riyadh_region,Riyadh,3.7,56.0,False
+306,ابطال البادل - بادل,ابطال البادل - بادل,football_venue,20.4566136,44.7549571,wadi_dawasir,riyadh_region,Riyadh,4.2,23.0,False
+307,Padel champions,Padel champions,football_venue,20.4565721,44.7549906,wadi_dawasir,riyadh_region,Riyadh,,,False
+308,Football field ملعب كورة,Football field ملعب كورة,outdoor_pitch,21.5241452,39.1609657,jeddah,makkah_region,Makkah,4.9,15.0,False
+309,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,21.5141687,39.1909612,jeddah,makkah_region,Makkah,4.1,18.0,False
+310,ملعب الشاطئ,ملعب الشاطئ,outdoor_pitch,21.5873367,39.1262739,jeddah,makkah_region,Makkah,4.1,743.0,False
+311,مركز ساحة التحدي الرياضي,مركز ساحة التحدي الرياضي,sports_complex,21.5393352,39.2211608,jeddah,makkah_region,Makkah,4.3,209.0,False
+312,ملعب الحمراء,ملعب الحمراء,outdoor_pitch,21.5391302,39.1650555,jeddah,makkah_region,Makkah,4.6,23.0,False
+313,الاكاديمية الاولمبية لكرة القدم,الاكاديمية الاولمبية لكرة القدم,football_venue,21.5008165,39.18161,jeddah,makkah_region,Makkah,4.3,209.0,False
+314,ملعب وسط جدة,ملعب وسط جدة,stadium,21.5365691,39.1295822,jeddah,makkah_region,Makkah,4.9,27.0,False
+315,ملعب أرامكو لكرة القدم,ملعب أرامكو لكرة القدم,outdoor_pitch,21.547704,39.219985,jeddah,makkah_region,Makkah,4.7,37.0,False
+316,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,21.5915866,39.2388725,jeddah,makkah_region,Makkah,4.0,54.0,False
+317,ملعب الكعكي,ملعب الكعكي,outdoor_pitch,21.5450576,39.1363772,jeddah,makkah_region,Makkah,4.1,283.0,False
+318,ملعب صحاري,ملعب صحاري,outdoor_pitch,21.5249366,39.1748214,jeddah,makkah_region,Makkah,4.0,196.0,False
+319,ملعب نادي الإتحاد,ملعب نادي الإتحاد,football_club,21.5433861,39.2130814,jeddah,makkah_region,Makkah,4.6,570.0,False
+320,ملعب اللؤلؤة,ملعب اللؤلؤة,outdoor_pitch,21.5689297,39.1718803,jeddah,makkah_region,Makkah,3.8,156.0,False
+321,ملعب وأكاديمية فايربول,ملعب وأكاديمية فايربول,football_academy,21.6517696,39.1275357,jeddah,makkah_region,Makkah,4.3,511.0,False
+322,ملعب الاجواد,ملعب الاجواد,outdoor_pitch,21.6120231,39.2500624,jeddah,makkah_region,Makkah,4.2,84.0,False
+323,ملعب العزيزية,ملعب العزيزية,outdoor_pitch,21.5472246,39.1870086,jeddah,makkah_region,Makkah,4.7,9.0,False
+324,الاكاديمية الاسبانية,الاكاديمية الاسبانية,football_venue,21.5746442,39.1724435,jeddah,makkah_region,Makkah,3.9,555.0,False
+325,ملعب اكاديمية المواهب لكرة القدم,ملعب اكاديمية المواهب لكرة القدم,outdoor_pitch,21.5976895,39.2064959,jeddah,makkah_region,Makkah,4.3,38.0,False
+326,ملعب المدينة,ملعب المدينة,outdoor_pitch,21.5195205,39.1803145,jeddah,makkah_region,Makkah,3.5,58.0,False
+327,ملاعب كورة,ملاعب كورة,football_venue,21.5793125,39.2914375,jeddah,makkah_region,Makkah,3.8,108.0,False
+328,مدينة الأمير عبدالله الفيصل الرياضية,مدينة الأمير عبدالله الفيصل الرياضية,stadium,21.4467347,39.251753,jeddah,makkah_region,Makkah,4.2,9112.0,False
+329,ملعب كرة قدم,ملعب كرة قدم,stadium,21.5347941,39.1906851,jeddah,makkah_region,Makkah,3.2,5.0,False
+330,مدينة الملك عبدالله الرياضية,مدينة الملك عبدالله الرياضية,stadium,21.7635437,39.1642468,jeddah,makkah_region,Makkah,4.7,27608.0,False
+331,استاد الأمير محمد بن عبدالله الفيصل,استاد الأمير محمد بن عبدالله الفيصل,stadium,21.5633527,39.2189021,jeddah,makkah_region,Makkah,4.3,706.0,False
+332,بوابات إلكترونية ٦,بوابات إلكترونية ٦,stadium,21.7633631,39.1627508,jeddah,makkah_region,Makkah,4.6,72.0,False
+333,Alinma Stadium,Alinma Stadium,stadium,21.7633394,39.1639648,jeddah,makkah_region,Makkah,4.6,313.0,False
+334,اكاديمية رفاق التدريب,اكاديمية رفاق التدريب,football_venue,21.5269233,39.1857208,jeddah,makkah_region,Makkah,4.6,325.0,False
+335,أكاديمية النادي الأهلي السعودي لكرة القدم,أكاديمية النادي الأهلي السعودي لكرة القدم,football_academy,21.5583175,39.2188236,jeddah,makkah_region,Makkah,4.3,721.0,False
+336,أكاديمية نادي الإتحاد لكرة القدم,أكاديمية نادي الإتحاد لكرة القدم,football_academy,21.540681,39.213124,jeddah,makkah_region,Makkah,4.3,57.0,False
+337,أكاديمية O15,أكاديمية O15,football_academy,21.5845248,39.224453,jeddah,makkah_region,Makkah,4.8,489.0,False
+338,أكاديمية الصفا لكرة القدم,أكاديمية الصفا لكرة القدم,football_academy,21.5772681,39.203794,jeddah,makkah_region,Makkah,4.1,102.0,False
+339,اكاديمية نجوم الماهر الرياضية,اكاديمية نجوم الماهر الرياضية,football_venue,21.5873583,39.1768079,jeddah,makkah_region,Makkah,4.3,210.0,False
+340,أكاديمية O15 ( مدارس فرسان العالمية ),أكاديمية O15 ( مدارس فرسان العالمية ),football_academy,21.593086,39.178916,jeddah,makkah_region,Makkah,4.7,350.0,False
+341,AL BALAD FC ACADEMY,AL BALAD FC ACADEMY,football_academy,21.5542078,39.1399636,jeddah,makkah_region,Makkah,4.7,30.0,False
+342,أكاديمية افق,أكاديمية افق,football_academy,21.5507273,39.1399587,jeddah,makkah_region,Makkah,5.0,30.0,False
+343,أكاديمية MVP لكرة القدم,أكاديمية MVP لكرة القدم,football_academy,21.6066215,39.2516903,jeddah,makkah_region,Makkah,4.2,19.0,False
+344,أكاديمية النجوم الرياضية,أكاديمية النجوم الرياضية,football_academy,21.57225,39.2009964,jeddah,makkah_region,Makkah,4.5,63.0,False
+345,اكاديمية المواهب لكرة القدم,اكاديمية المواهب لكرة القدم,football_venue,21.5492937,39.2510502,jeddah,makkah_region,Makkah,4.0,67.0,False
+346,أكاديمية O15,أكاديمية O15,football_academy,21.7471922,39.1351623,jeddah,makkah_region,Makkah,4.7,358.0,False
+347,JEDDAH PRO FOOTBALL ACADEMY,JEDDAH PRO FOOTBALL ACADEMY,football_academy,21.6008173,39.1268734,jeddah,makkah_region,Makkah,4.6,68.0,False
+348,أكاديمية المجد الرياضية,أكاديمية المجد الرياضية,football_academy,21.7710625,39.1063125,jeddah,makkah_region,Makkah,4.5,285.0,False
+349,أكاديمية سمارت,أكاديمية سمارت,football_academy,21.5150574,39.2147015,jeddah,makkah_region,Makkah,4.9,36.0,False
+383,YAB Playground,YAB Playground,stadium,21.7010279,39.1024777,jeddah,makkah_region,Makkah,4.6,29.0,False
+350,أكاديمية النسور لتعليم وتطوير مهارات كرة القدم .. أكاديمية رياضية تهدف لتنمية وتطوير مهارات كرة القدم,أكاديمية النسور لتعليم وتطوير مهارات كرة القدم .. أكاديمية رياضية تهدف لتنمية وتطوير مهارات كرة القدم,football_academy,21.5136875,39.1909375,jeddah,makkah_region,Makkah,4.0,27.0,False
+351,Nujoom Football Club - Manarat,Nujoom Football Club - Manarat,football_club,21.5414392,39.2169902,jeddah,makkah_region,Makkah,5.0,19.0,False
+352,اكادمية لافير,اكادمية لافير,football_venue,21.5896164,39.1844756,jeddah,makkah_region,Makkah,5.0,10.0,False
+353,نادي النخبة الرياضي,نادي النخبة الرياضي,football_club,21.5131522,39.210879,jeddah,makkah_region,Makkah,5.0,12.0,False
+354,اكاديمية تي تونتي سڤن | T27 ACADEMY,اكاديمية تي تونتي سڤن | T27 ACADEMY,football_academy,21.5194949,39.1802062,jeddah,makkah_region,Makkah,5.0,24.0,False
+355,نادي سان جدة الرياضي,نادي سان جدة الرياضي,football_club,21.5771943,39.2036394,jeddah,makkah_region,Makkah,4.1,167.0,False
+356,القرية الأولمبية,القرية الأولمبية,football_venue,21.5550793,39.1873436,jeddah,makkah_region,Makkah,4.3,407.0,False
+357,ملعب الفيصل الرياضي,ملعب الفيصل الرياضي,outdoor_pitch,21.5431182,39.247237,jeddah,makkah_region,Makkah,4.2,54.0,False
+358,ملعب نادي السد الرياضي بجدة,ملعب نادي السد الرياضي بجدة,football_club,21.5745566,39.1959622,jeddah,makkah_region,Makkah,4.7,6.0,False
+359,ملعب سوكر سيتي,ملعب سوكر سيتي,stadium,21.4746086,39.3611521,jeddah,makkah_region,Makkah,4.0,201.0,False
+360,ملاعب الساحه 07 الرياضية - كرة قدم . بادل,ملاعب الساحه 07 الرياضية - كرة قدم . بادل,football_venue,21.58473,39.2639952,jeddah,makkah_region,Makkah,5.0,4.0,False
+361,ملعب القمة لكرة القدم والطائرة,ملعب القمة لكرة القدم والطائرة,outdoor_pitch,21.6080433,39.2472963,jeddah,makkah_region,Makkah,4.0,230.0,False
+362,ملعب نجوم الوزيرية,ملعب نجوم الوزيرية,outdoor_pitch,21.4534964,39.2496634,jeddah,makkah_region,Makkah,4.1,349.0,False
+363,ملعب النخلة,ملعب النخلة,outdoor_pitch,21.7695388,39.1065206,jeddah,makkah_region,Makkah,4.7,466.0,False
+364,ملعب NINE 9,ملعب NINE 9,outdoor_pitch,21.5848001,39.2636874,jeddah,makkah_region,Makkah,4.9,74.0,False
+365,ملعب حديقة الروضة العام لكرة السلة,ملعب حديقة الروضة العام لكرة السلة,outdoor_pitch,21.5569948,39.1456332,jeddah,makkah_region,Makkah,4.3,116.0,False
+366,Yalla Koora - Jeddah Park - يلا كورة,Yalla Koora - Jeddah Park - يلا كورة,football_venue,21.5568552,39.1851072,jeddah,makkah_region,Makkah,4.8,267.0,False
+367,اكاديمية القمة الرياضية,اكاديمية القمة الرياضية,football_venue,21.6043985,39.1352578,jeddah,makkah_region,Makkah,4.3,103.0,False
+368,ملعب الكعكي,ملعب الكعكي,outdoor_pitch,21.5504348,39.1397069,jeddah,makkah_region,Makkah,3.8,169.0,False
+369,نادي جي سبورتس الرياضي,نادي جي سبورتس الرياضي,football_club,21.5960768,39.1777058,jeddah,makkah_region,Makkah,4.8,192.0,False
+370,مجمع ملاعب ذات الصواري,مجمع ملاعب ذات الصواري,sports_complex,21.5721561,39.2031593,jeddah,makkah_region,Makkah,4.3,8.0,False
+371,ملعب نجوم الكرة,ملعب نجوم الكرة,outdoor_pitch,21.6067783,39.2516117,jeddah,makkah_region,Makkah,4.1,213.0,False
+372,Gators sports Acadamy,Gators sports Acadamy,football_venue,21.5759154,39.1547507,jeddah,makkah_region,Makkah,4.9,16.0,False
+373,IASS الأكاديمية الدولية لعلوم الرياضة,IASS الأكاديمية الدولية لعلوم الرياضة,football_academy,21.5616065,39.2101348,jeddah,makkah_region,Makkah,4.5,73.0,False
+374,Jeddah United Football,Jeddah United Football,football_venue,21.5633066,39.1707897,jeddah,makkah_region,Makkah,4.2,5.0,False
+375,Foly Academy | فولي اكاديمي,Foly Academy | فولي اكاديمي,football_academy,21.5369875,39.160465,jeddah,makkah_region,Makkah,5.0,35.0,False
+376,Champions academy,Champions academy,football_academy,21.6155327,39.1263661,jeddah,makkah_region,Makkah,4.0,61.0,False
+377,أكاديمية يوفنتوس بجدة,أكاديمية يوفنتوس بجدة,football_academy,21.600821,39.1272497,jeddah,makkah_region,Makkah,4.3,41.0,False
+378,INTER ACADEMY JEDDAH,INTER ACADEMY JEDDAH,football_academy,21.5560515,39.1224008,jeddah,makkah_region,Makkah,4.7,26.0,False
+379,farisoufetch stadium,farisoufetch stadium,stadium,21.5251113,39.1902297,jeddah,makkah_region,Makkah,5.0,2.0,False
+380,ملعب بطولة فنادق الروضة,ملعب بطولة فنادق الروضة,outdoor_pitch,21.5740835,39.1354526,jeddah,makkah_region,Makkah,4.3,19.0,False
+381,STC Play Ground,STC Play Ground,outdoor_pitch,21.5262884,39.1900023,jeddah,makkah_region,Makkah,4.3,38.0,False
+382,Football Field,Football Field,outdoor_pitch,21.6225693,39.1622684,jeddah,makkah_region,Makkah,3.7,23.0,False
+384,ملعب جوان,ملعب جوان,stadium,21.4911047,39.3505346,jeddah,makkah_region,Makkah,4.4,34.0,False
+385,ملعب B,ملعب B,stadium,21.4952195,39.2608998,jeddah,makkah_region,Makkah,4.4,14.0,False
+386,ملعب المان ستي السامر,ملعب المان ستي السامر,stadium,21.5817768,39.2882952,jeddah,makkah_region,Makkah,3.8,48.0,False
+387,ملعب الأسبانية 2 الجمعة,ملعب الأسبانية 2 الجمعة,stadium,21.5758848,39.1689207,jeddah,makkah_region,Makkah,4.1,27.0,False
+388,استاد جامعة الملك عبدالعزيز الرياضي,استاد جامعة الملك عبدالعزيز الرياضي,stadium,21.5004709,39.2449151,jeddah,makkah_region,Makkah,4.2,1183.0,False
+389,Jeddah Central Development Stadium,Jeddah Central Development Stadium,stadium,21.536661,39.129467,jeddah,makkah_region,Makkah,5.0,3.0,False
+390,ملعب أبطال الليجا,ملعب أبطال الليجا,stadium,21.7738015,39.2042308,jeddah,makkah_region,Makkah,4.2,113.0,False
+391,ملعب تشلسي جدة,ملعب تشلسي جدة,outdoor_pitch,21.7021039,39.0956433,jeddah,makkah_region,Makkah,4.2,210.0,False
+392,أكاديمية سكواد - Squad Academy,أكاديمية سكواد - Squad Academy,football_academy,21.6068425,39.2470451,jeddah,makkah_region,Makkah,4.1,334.0,False
+393,Jeddah City Sports Club,Jeddah City Sports Club,football_club,21.6278441,39.1476286,jeddah,makkah_region,Makkah,4.8,18.0,False
+394,نادي الاتحاد السعودي,نادي الاتحاد السعودي,football_club,21.5429319,39.2117708,jeddah,makkah_region,Makkah,4.4,6330.0,False
+395,النادي العالمي بالأندلس,النادي العالمي بالأندلس,football_club,21.5669956,39.145935,jeddah,makkah_region,Makkah,4.4,138.0,False
+396,Red Sea Sports Club نادي بحر الاحمر الرياضي,Red Sea Sports Club نادي بحر الاحمر الرياضي,football_club,21.589583,39.1173453,jeddah,makkah_region,Makkah,4.6,115.0,False
+397,Jeddah United 305 Lifestyle,Jeddah United 305 Lifestyle,football_venue,21.5486008,39.1319258,jeddah,makkah_region,Makkah,4.4,47.0,False
+398,أكاديمية هدف النسائية لتعليم مهارات كرة القدم وكرة السلة,أكاديمية هدف النسائية لتعليم مهارات كرة القدم وكرة السلة,football_academy,21.6009005,39.1284537,jeddah,makkah_region,Makkah,5.0,3.0,False
+399,P1 Padel,P1 Padel,football_venue,21.5545578,39.1581239,jeddah,makkah_region,Makkah,4.8,177.0,False
+400,Padel IN,Padel IN,football_venue,21.5551194,39.1845253,jeddah,makkah_region,Makkah,5.0,29.0,False
+401,Prime Padel,Prime Padel,football_venue,21.6331206,39.1310621,jeddah,makkah_region,Makkah,5.0,56.0,False
+402,بادل اكس Padelx,بادل اكس Padelx,football_venue,21.5428032,39.1809115,jeddah,makkah_region,Makkah,4.5,133.0,False
+403,بي بادل,بي بادل,football_venue,21.5536551,39.1378441,jeddah,makkah_region,Makkah,4.6,211.0,False
+404,Private Padel Club,Private Padel Club,football_club,21.5648582,39.1438131,jeddah,makkah_region,Makkah,4.8,86.0,False
+405,PAD-L Club,PAD-L Club,football_club,21.5647671,39.1459853,jeddah,makkah_region,Makkah,4.6,152.0,False
+406,Jeddah Padel Club,Jeddah Padel Club,football_club,21.5703658,39.1158574,jeddah,makkah_region,Makkah,4.9,92.0,False
+407,Padel M8| بادل M8,Padel M8| بادل M8,football_venue,21.5272432,39.1859994,jeddah,makkah_region,Makkah,4.5,125.0,False
+408,padel club | PDL,padel club | PDL,football_club,21.5944735,39.1494748,jeddah,makkah_region,Makkah,4.5,212.0,False
+409,PAD-L Suites,PAD-L Suites,football_venue,21.5600143,39.1613147,jeddah,makkah_region,Makkah,4.5,117.0,False
+410,Q Padel,Q Padel,football_venue,21.6411068,39.1407843,jeddah,makkah_region,Makkah,4.8,206.0,False
+411,Deem Padel Club - Indoor Lounge,Deem Padel Club - Indoor Lounge,football_club,21.6045377,39.1119588,jeddah,makkah_region,Makkah,4.8,161.0,False
+412,ملاعب قاري بادل جدة Qari Jeddah Padel,ملاعب قاري بادل جدة Qari Jeddah Padel,football_venue,21.5805213,39.1751169,jeddah,makkah_region,Makkah,3.7,105.0,False
+413,The social padel,The social padel,football_venue,21.6328377,39.1233843,jeddah,makkah_region,Makkah,4.1,141.0,False
+414,padel crew | بادل كرو,padel crew | بادل كرو,football_venue,21.5391404,39.2213892,jeddah,makkah_region,Makkah,4.5,121.0,False
+415,بادل رويال,بادل رويال,football_venue,21.7477969,39.1359017,jeddah,makkah_region,Makkah,4.8,454.0,False
+416,بادل اكس Padelx,بادل اكس Padelx,football_venue,21.637317,39.1379339,jeddah,makkah_region,Makkah,4.9,121.0,False
+417,Mp.padel,Mp.padel,football_venue,21.6671841,39.1101037,jeddah,makkah_region,Makkah,4.7,88.0,False
+418,Padel pin,Padel pin,football_venue,21.649754,39.1312476,jeddah,makkah_region,Makkah,4.6,205.0,False
+419,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,21.387603,39.8777744,makkah,makkah_region,Makkah,4.0,46.0,False
+420,ملعب الأسطورة لكرة القدم,ملعب الأسطورة لكرة القدم,outdoor_pitch,21.3882897,39.8122517,makkah,makkah_region,Makkah,4.0,265.0,False
+421,أكاديمية كنان لكرة القدم والملعب - مكة الشوقية,أكاديمية كنان لكرة القدم والملعب - مكة الشوقية,football_academy,21.3616248,39.7838096,makkah,makkah_region,Makkah,4.1,218.0,False
+422,ملاعب الهداف,ملاعب الهداف,football_venue,21.5000189,39.8190588,makkah,makkah_region,Makkah,4.3,273.0,False
+423,ملعب الفقيه | ALFAKEH FITNESS,ملعب الفقيه | ALFAKEH FITNESS,outdoor_pitch,21.3933474,39.807071,makkah,makkah_region,Makkah,4.0,506.0,False
+424,الملعب,الملعب,outdoor_pitch,21.3845141,39.8799788,makkah,makkah_region,Makkah,4.3,3.0,False
+425,ملعب العز لكرة القدم,ملعب العز لكرة القدم,outdoor_pitch,21.3831088,39.7736742,makkah,makkah_region,Makkah,4.5,55.0,False
+426,ملعب النسيم الدولي العالمي,ملعب النسيم الدولي العالمي,outdoor_pitch,21.3728207,39.8787994,makkah,makkah_region,Makkah,4.0,39.0,False
+427,ملعب التحدي,ملعب التحدي,outdoor_pitch,21.3946167,39.8002089,makkah,makkah_region,Makkah,4.2,180.0,False
+428,ملعب البحر الرياضي- قدم,ملعب البحر الرياضي- قدم,outdoor_pitch,21.4439216,39.8069376,makkah,makkah_region,Makkah,4.1,60.0,False
+429,ملعب المواجهة لكرة القدم,ملعب المواجهة لكرة القدم,outdoor_pitch,21.4156922,39.6968186,makkah,makkah_region,Makkah,4.0,120.0,False
+430,ملاعب مكة الخضراء,ملاعب مكة الخضراء,football_venue,21.3988934,39.7495827,makkah,makkah_region,Makkah,3.7,149.0,False
+431,أكاديمية أجيال الابطال,أكاديمية أجيال الابطال,football_academy,21.4296326,39.7728782,makkah,makkah_region,Makkah,4.3,536.0,False
+432,ملعب تحدي- كرة قدم,ملعب تحدي- كرة قدم,outdoor_pitch,21.3944728,39.7995182,makkah,makkah_region,Makkah,4.2,31.0,False
+433,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,21.477257,39.9474984,makkah,makkah_region,Makkah,4.4,15.0,False
+434,مجمع صدى الملاعب,مجمع صدى الملاعب,sports_complex,21.321984,39.88608,makkah,makkah_region,Makkah,4.0,345.0,False
+435,ملعب الدفاع المدني,ملعب الدفاع المدني,outdoor_pitch,21.3872958,39.83358,makkah,makkah_region,Makkah,4.2,60.0,False
+436,ملاعب درة الحسينية,ملاعب درة الحسينية,football_venue,21.3172424,39.8910327,makkah,makkah_region,Makkah,4.3,531.0,False
+437,ملعب الفرسان,ملعب الفرسان,outdoor_pitch,21.4166716,39.696849,makkah,makkah_region,Makkah,4.1,230.0,False
+438,ملاعب كرة قدم,ملاعب كرة قدم,football_venue,21.4166844,39.6965979,makkah,makkah_region,Makkah,3.5,11.0,False
+439,مدينة الملك عبدالعزيز الرياضية,مدينة الملك عبدالعزيز الرياضية,stadium,21.4855089,39.9738742,makkah,makkah_region,Makkah,4.0,2705.0,False
+440,أكاديمية الكعكي لكرة القدم,أكاديمية الكعكي لكرة القدم,football_academy,21.3933175,39.8074559,makkah,makkah_region,Makkah,4.0,130.0,False
+441,اكاديمية نجوم الشعلة لكرة القدم,اكاديمية نجوم الشعلة لكرة القدم,football_venue,21.4179125,39.8627969,makkah,makkah_region,Makkah,4.4,61.0,False
+442,أكاديمية همة الفرسان | فرع النزهة,أكاديمية همة الفرسان | فرع النزهة,football_academy,21.4414375,39.7840625,makkah,makkah_region,Makkah,4.8,162.0,False
+443,أكاديمية التحدي لكرة القدم,أكاديمية التحدي لكرة القدم,football_academy,21.3947447,39.7998156,makkah,makkah_region,Makkah,5.0,11.0,False
+444,اكاديمية شامبيونز مكة ️ - ملعب الجوهرة الحسينية مكة,اكاديمية شامبيونز مكة ️ - ملعب الجوهرة الحسينية مكة,outdoor_pitch,21.3171731,39.8940728,makkah,makkah_region,Makkah,5.0,40.0,False
+445,أكاديمية الكرة الراقية Elegant Football Academy,أكاديمية الكرة الراقية Elegant Football Academy,football_academy,21.4672258,39.9979702,makkah,makkah_region,Makkah,4.4,21.0,False
+446,اكاديمية كرة النجوم,اكاديمية كرة النجوم,football_venue,21.322708,39.8856972,makkah,makkah_region,Makkah,4.7,92.0,False
+447,أكاديميه الرؤية المحترفة ( PRO VISION ACADEMY ),أكاديميه الرؤية المحترفة ( PRO VISION ACADEMY ),football_academy,21.3706608,39.8754271,makkah,makkah_region,Makkah,4.4,71.0,True
+448,اكاديمية همة الفرسان | فرع البحيرات,اكاديمية همة الفرسان | فرع البحيرات,football_venue,21.471904,39.7836039,makkah,makkah_region,Makkah,5.0,12.0,False
+449,اكادمية الأحمدي,اكادمية الأحمدي,football_venue,21.3890824,39.8579118,makkah,makkah_region,Makkah,3.2,10.0,False
+450,أكاديمية هدف الرياضية,أكاديمية هدف الرياضية,football_academy,21.3916904,39.7915084,makkah,makkah_region,Makkah,4.4,157.0,False
+451,اكاديمية اليوكي2,اكاديمية اليوكي2,football_venue,21.464771,39.8187513,makkah,makkah_region,Makkah,3.8,309.0,False
+452,اكاديمية نادي المجرة الرياضي فرع الشوقي,اكاديمية نادي المجرة الرياضي فرع الشوقي,football_club,21.3833141,39.7738358,makkah,makkah_region,Makkah,4.2,42.0,False
+453,اكاديمية الثاقب,اكاديمية الثاقب,football_venue,21.4224873,39.7170695,makkah,makkah_region,Makkah,4.1,31.0,False
+454,أكاديمية أمستردام,أكاديمية أمستردام,football_academy,21.4926081,39.8190448,makkah,makkah_region,Makkah,4.5,22.0,False
+455,أكاديمية جيل الإبداع الرياضية,أكاديمية جيل الإبداع الرياضية,football_academy,21.2832247,39.8236331,makkah,makkah_region,Makkah,4.2,35.0,True
+456,أكاديمية واعد الرياضية,أكاديمية واعد الرياضية,football_academy,21.4690881,39.9417303,makkah,makkah_region,Makkah,4.3,37.0,False
+457,نادي الوحدة السعودي,نادي الوحدة السعودي,football_club,21.4768188,39.7976886,makkah,makkah_region,Makkah,4.2,1872.0,False
+458,ملعب الناشري,ملعب الناشري,outdoor_pitch,21.4646875,39.8188125,makkah,makkah_region,Makkah,4.0,159.0,False
+459,ملعب الاولمبي,ملعب الاولمبي,outdoor_pitch,21.327748,39.8872571,makkah,makkah_region,Makkah,4.1,107.0,False
+460,ملاعب الصدارة,ملاعب الصدارة,football_venue,21.4977307,39.818105,makkah,makkah_region,Makkah,4.0,146.0,False
+461,ملعب كابتن ماجد,ملعب كابتن ماجد,outdoor_pitch,21.4307268,39.7794231,makkah,makkah_region,Makkah,3.9,188.0,False
+462,ملعب العمدة ببطحاء قريش.,ملعب العمدة ببطحاء قريش.,outdoor_pitch,21.3683728,39.8256121,makkah,makkah_region,Makkah,3.8,62.0,False
+463,ملعب الأمانة,ملعب الأمانة,outdoor_pitch,21.3966951,39.7964062,makkah,makkah_region,Makkah,3.8,79.0,False
+464,ملعب أكشنها,ملعب أكشنها,outdoor_pitch,21.4004229,39.7500802,makkah,makkah_region,Makkah,4.0,168.0,False
+465,أكاديمية بناء الإنسان ( الفرع الرئيسي ),أكاديمية بناء الإنسان ( الفرع الرئيسي ),football_academy,21.3618168,39.8881218,makkah,makkah_region,Makkah,4.1,370.0,False
+466,أكاديمية وملاعب البداية الأولمبية,أكاديمية وملاعب البداية الأولمبية,football_academy,21.3453031,39.8037252,makkah,makkah_region,Makkah,4.7,73.0,False
+467,ملعب الهجرةواكادميه البادية,ملعب الهجرةواكادميه البادية,outdoor_pitch,21.389827,39.8380415,makkah,makkah_region,Makkah,4.0,91.0,False
+468,اكاديمية النوادر الرياضية,اكاديمية النوادر الرياضية,football_venue,21.4683778,39.9963538,makkah,makkah_region,Makkah,4.9,11.0,False
+469,ملعب ريتاج الربوة,ملعب ريتاج الربوة,outdoor_pitch,21.3983354,39.7724165,makkah,makkah_region,Makkah,4.2,197.0,False
+470,ملعب الفقيه,ملعب الفقيه,outdoor_pitch,21.4413898,39.7840178,makkah,makkah_region,Makkah,3.9,305.0,False
+471,مكة يارد,مكة يارد,football_venue,21.3535512,39.7952431,makkah,makkah_region,Makkah,4.2,1042.0,False
+472,Trac Gym Sports Health Club,Trac Gym Sports Health Club,football_club,21.3726491,39.7928225,makkah,makkah_region,Makkah,3.6,453.0,False
+473,المتصدر للرياضة والأسبورات مكه العزيزية,المتصدر للرياضة والأسبورات مكه العزيزية,football_venue,21.3967985,39.869111,makkah,makkah_region,Makkah,4.9,1020.0,False
+474,فورس تايم (مسبح - جيم),فورس تايم (مسبح - جيم),football_venue,21.4891277,39.7918222,makkah,makkah_region,Makkah,3.9,277.0,False
+475,شركة مسار المستقبل الرياضية,شركة مسار المستقبل الرياضية,football_venue,21.3791201,39.7195462,makkah,makkah_region,Makkah,4.4,277.0,False
+476,نادي سلام الترفيهي الرياضي,نادي سلام الترفيهي الرياضي,football_club,21.3590625,39.9069375,makkah,makkah_region,Makkah,4.0,390.0,False
+477,صدى الملاعب للرياضة,صدى الملاعب للرياضة,football_venue,21.439694,39.8182186,makkah,makkah_region,Makkah,4.1,44.0,False
+478,ملعب اوف سايد,ملعب اوف سايد,outdoor_pitch,21.4154845,39.6972422,makkah,makkah_region,Makkah,3.8,45.0,False
+479,إستاد جامعة أم القرى الرياضي,إستاد جامعة أم القرى الرياضي,football_venue,21.3178884,39.9489852,makkah,makkah_region,Makkah,4.1,136.0,False
+480,THE P-CLUB,THE P-CLUB,football_club,21.3619934,39.8877808,makkah,makkah_region,Makkah,4.8,259.0,False
+481,Padel Ground,Padel Ground,outdoor_pitch,21.3302689,39.8835559,makkah,makkah_region,Makkah,4.8,68.0,False
+482,بادل ماب,بادل ماب,football_venue,21.3160991,39.8935455,makkah,makkah_region,Makkah,4.8,151.0,False
+483,PADELz | بادلز,PADELz | بادلز,football_venue,21.3782738,39.7673276,makkah,makkah_region,Makkah,4.6,75.0,False
+484,تو بادل | TO PADEL,تو بادل | TO PADEL,football_venue,21.3718937,39.788373,makkah,makkah_region,Makkah,4.9,188.0,False
+485,سكاي بادل | SKY Padel,سكاي بادل | SKY Padel,football_venue,21.3295589,39.8817354,makkah,makkah_region,Makkah,4.7,78.0,False
+486,Blue Padel Makkah - بلو بادل مكة,Blue Padel Makkah - بلو بادل مكة,football_venue,21.399423,39.7404714,makkah,makkah_region,Makkah,4.5,143.0,False
+553,ملعب عام,ملعب عام,outdoor_pitch,19.1293069,41.0725131,qunfudhah,makkah_region,Makkah,4.6,5.0,False
+487,ملاعب بادل أتاك PADEL ATTAC,ملاعب بادل أتاك PADEL ATTAC,football_venue,21.5897957,39.784386,makkah,makkah_region,Makkah,4.9,91.0,False
+488,بادل كرة النجوم,بادل كرة النجوم,football_venue,21.3225233,39.8850824,makkah,makkah_region,Makkah,5.0,33.0,False
+489,Padel Beach | شاطئ البادل,Padel Beach | شاطئ البادل,football_venue,21.3608609,39.8869764,makkah,makkah_region,Makkah,4.8,137.0,False
+490,بادل تتش Padel Touch,بادل تتش Padel Touch,football_venue,21.4643325,39.992066,makkah,makkah_region,Makkah,4.8,175.0,False
+491,فور ام بادل | 4M.PADEL,فور ام بادل | 4M.PADEL,football_venue,21.3606535,39.878296,makkah,makkah_region,Makkah,4.6,191.0,False
+492,PADELMATE,PADELMATE,football_venue,21.3973276,39.7075422,makkah,makkah_region,Makkah,4.5,74.0,False
+493,جوي بادل | Padel Joy,جوي بادل | Padel Joy,football_venue,21.4007395,39.7725674,makkah,makkah_region,Makkah,4.6,139.0,False
+494,بادل تايم | PADEL TIME,بادل تايم | PADEL TIME,football_venue,21.4068536,39.7559437,makkah,makkah_region,Makkah,4.8,117.0,False
+495,بادل سكوير Padel Square,بادل سكوير Padel Square,football_venue,21.410866,39.7705802,makkah,makkah_region,Makkah,4.5,58.0,False
+496,بادل زون - Padel Zone,بادل زون - Padel Zone,football_venue,21.3617163,39.8332127,makkah,makkah_region,Makkah,3.0,43.0,False
+497,بادل روح الخيال,بادل روح الخيال,football_venue,21.3647584,39.7704964,makkah,makkah_region,Makkah,4.6,180.0,False
+498,بصمة البادل | Bsmt Alpadel,بصمة البادل | Bsmt Alpadel,football_venue,21.3069472,39.9411969,makkah,makkah_region,Makkah,4.9,124.0,False
+499,بيت نايا (بادل - طائرة) - Naya House (Padel - Volleyball),بيت نايا (بادل - طائرة) - Naya House (Padel - Volleyball),football_venue,21.2902094,39.9192747,makkah,makkah_region,Makkah,4.9,157.0,False
+500,ملعب وأكاديمية الفارس لكرة القدم,ملعب وأكاديمية الفارس لكرة القدم,football_academy,21.2801967,40.4371485,taif,makkah_region,Makkah,3.3,189.0,False
+501,ملعب وأكاديمية الفيصلية,ملعب وأكاديمية الفيصلية,football_academy,21.2935335,40.4195866,taif,makkah_region,Makkah,4.6,31.0,False
+502,ملعب الأصيل,ملعب الأصيل,outdoor_pitch,21.256942,40.3971772,taif,makkah_region,Makkah,4.0,179.0,False
+503,ملاعب الراقي,ملاعب الراقي,football_venue,21.2462559,40.3754843,taif,makkah_region,Makkah,4.4,277.0,False
+504,مركز وملعب قمة المواهب الرياضي(مواهب الطائف سابقاً),مركز وملعب قمة المواهب الرياضي(مواهب الطائف سابقاً),outdoor_pitch,21.2385736,40.4436953,taif,makkah_region,Makkah,4.0,42.0,False
+505,نادي وج الرياضي,نادي وج الرياضي,football_club,21.2616309,40.3968613,taif,makkah_region,Makkah,3.8,317.0,False
+506,ملعب سعيد بن هندي لكرة القدم ايجار يومي وشهري,ملعب سعيد بن هندي لكرة القدم ايجار يومي وشهري,outdoor_pitch,21.3184375,40.4258125,taif,makkah_region,Makkah,4.4,95.0,False
+507,ملعب الردف (الغربي),ملعب الردف (الغربي),outdoor_pitch,21.2263833,40.4222377,taif,makkah_region,Makkah,4.0,461.0,False
+508,أكاديمية فالكون | FALCON ACADEMY,أكاديمية فالكون | FALCON ACADEMY,football_academy,21.2463228,40.3755074,taif,makkah_region,Makkah,4.9,116.0,False
+509,ملعب الجودي,ملعب الجودي,outdoor_pitch,21.2615185,40.3969585,taif,makkah_region,Makkah,4.0,60.0,False
+510,اكاديميه زمن الرياضة,اكاديميه زمن الرياضة,football_venue,21.2461547,40.3772137,taif,makkah_region,Makkah,3.8,222.0,False
+511,ملعب كورة قدم و سله,ملعب كورة قدم و سله,outdoor_pitch,21.2747653,40.4542726,taif,makkah_region,Makkah,2.9,7.0,False
+512,ملعب السنتياقو برنابيو,ملعب السنتياقو برنابيو,outdoor_pitch,21.2578555,40.4444115,taif,makkah_region,Makkah,4.3,16.0,False
+513,ملعب برشلونة,ملعب برشلونة,outdoor_pitch,21.2488703,40.3418347,taif,makkah_region,Makkah,3.8,131.0,False
+514,ملعب كل النجوم,ملعب كل النجوم,outdoor_pitch,21.2555919,40.3897027,taif,makkah_region,Makkah,4.5,70.0,False
+515,ملعب الغمير,ملعب الغمير,outdoor_pitch,21.3078575,40.3696784,taif,makkah_region,Makkah,3.6,63.0,False
+516,ملعب و مركز الهدا لتدريب كرة القدم,ملعب و مركز الهدا لتدريب كرة القدم,outdoor_pitch,21.3434421,40.3316766,taif,makkah_region,Makkah,4.6,41.0,False
+517,ملاعب أحمد الرياضية,ملاعب أحمد الرياضية,football_venue,21.3396547,40.4581699,taif,makkah_region,Makkah,3.4,49.0,False
+518,ملاعب التحلية الجديدة,ملاعب التحلية الجديدة,football_venue,21.254743,40.3344858,taif,makkah_region,Makkah,4.1,42.0,False
+519,اكاديمية الودادالطائفي,اكاديمية الودادالطائفي,football_venue,21.2466123,40.3809429,taif,makkah_region,Makkah,4.1,217.0,False
+554,ملعب بلدية القنفذة,ملعب بلدية القنفذة,outdoor_pitch,19.1520345,41.0641406,qunfudhah,makkah_region,Makkah,3.7,27.0,False
+520,أكاديمية نكسو لتعليم كرة القدم - NXO Academy football,أكاديمية نكسو لتعليم كرة القدم - NXO Academy football,football_academy,21.2677128,40.3947232,taif,makkah_region,Makkah,5.0,1.0,False
+521,أكاديمية فارس,أكاديمية فارس,football_academy,21.2437294,40.3691872,taif,makkah_region,Makkah,4.9,66.0,False
+522,اكاديمية ولفز تيم Wolves Team Academy,اكاديمية ولفز تيم Wolves Team Academy,football_academy,21.2450797,40.3749891,taif,makkah_region,Makkah,5.0,22.0,False
+523,أكاديمية نكسو لتدريب كرة القدم - NXO Academy football,أكاديمية نكسو لتدريب كرة القدم - NXO Academy football,football_academy,21.2677448,40.3947304,taif,makkah_region,Makkah,,,False
+524,أكادمية انتر الطائف Inter Altaif,أكادمية انتر الطائف Inter Altaif,football_venue,21.3075806,40.3699233,taif,makkah_region,Makkah,4.9,33.0,False
+525,أكاديمية Inter Al-Taif انتر الطائف,أكاديمية Inter Al-Taif انتر الطائف,football_academy,21.297403,40.4188345,taif,makkah_region,Makkah,4.5,6.0,False
+526,اكاديمية اشبال الوسام | Alwisam Academy,اكاديمية اشبال الوسام | Alwisam Academy,football_academy,21.2352073,40.3572535,taif,makkah_region,Makkah,4.8,46.0,False
+527,أكاديمية تاي تن الرياضية,أكاديمية تاي تن الرياضية,football_academy,21.2451024,40.3749436,taif,makkah_region,Makkah,4.8,6.0,False
+528,اكاديمية وملاعب سيوس السويدية لكرة القدم,اكاديمية وملاعب سيوس السويدية لكرة القدم,football_venue,21.3953222,40.4691606,taif,makkah_region,Makkah,4.5,11.0,False
+529,ملعب وأكاديمية الأسطورة الرياضي,ملعب وأكاديمية الأسطورة الرياضي,football_academy,21.2514731,40.3724954,taif,makkah_region,Makkah,4.2,72.0,False
+530,نادي الدفاع واللياقة الرياضي,نادي الدفاع واللياقة الرياضي,football_club,21.2716279,40.3965568,taif,makkah_region,Makkah,4.8,76.0,False
+531,بادل الجادة الرياضية,بادل الجادة الرياضية,football_venue,21.2711964,40.4173903,taif,makkah_region,Makkah,3.9,73.0,False
+532,دیکور جبس و جبسم بورد,دیکور جبس و جبسم بورد,football_venue,21.2888124,40.4340992,taif,makkah_region,Makkah,5.0,2.0,False
+533,اكادميه نجوم الطائف,اكادميه نجوم الطائف,football_venue,21.2554145,40.3897296,taif,makkah_region,Makkah,5.0,1.0,False
+534,نادي الطائف الرياضي,نادي الطائف الرياضي,football_club,21.2412681,40.4116956,taif,makkah_region,Makkah,4.2,336.0,False
+535,العناية والتدريب الشخصي الجادة الرياضية,العناية والتدريب الشخصي الجادة الرياضية,football_venue,21.2711335,40.4173752,taif,makkah_region,Makkah,4.4,99.0,False
+536,نادي ASZ,نادي ASZ,football_club,21.3191924,40.4273154,taif,makkah_region,Makkah,3.5,104.0,False
+537,ملاعب كرة قدم,ملاعب كرة قدم,football_venue,21.2552403,40.3841948,taif,makkah_region,Makkah,,,False
+538,Football Stadium,Football Stadium,stadium,21.5043951,40.5737436,taif,makkah_region,Makkah,4.0,171.0,False
+539,مدينة الملك فهد الرياضية بالطائف,مدينة الملك فهد الرياضية بالطائف,football_venue,21.4363151,40.4775978,taif,makkah_region,Makkah,4.0,1014.0,False
+540,ملعب الاولمبي,ملعب الاولمبي,outdoor_pitch,21.2588516,40.394278,taif,makkah_region,Makkah,4.3,29.0,False
+541,ملعب منتزه الملك عبدالله,ملعب منتزه الملك عبدالله,outdoor_pitch,21.272127,40.4555826,taif,makkah_region,Makkah,3.9,16.0,False
+542,ادارة بيت الشباب بمكة المكرمة,ادارة بيت الشباب بمكة المكرمة,stadium,21.4364211,40.4780386,taif,makkah_region,Makkah,4.3,686.0,False
+543,Irfan Football stadium,Irfan Football stadium,stadium,21.3009033,40.4036759,taif,makkah_region,Makkah,,,False
+544,كووره,كووره,football_venue,21.2798984,40.443317,taif,makkah_region,Makkah,4.8,27.0,False
+545,نادي عكاظ الرياضي,نادي عكاظ الرياضي,football_club,21.3454251,40.4616829,taif,makkah_region,Makkah,4.1,572.0,False
+546,باركور الطائف,باركور الطائف,football_venue,21.2774628,40.4332131,taif,makkah_region,Makkah,4.5,4.0,False
+547,نادي انا غير,نادي انا غير,football_club,21.2537681,40.4081623,taif,makkah_region,Makkah,4.6,128.0,False
+548,ايكو بادل eko padel,ايكو بادل eko padel,football_venue,21.2478258,40.4101203,taif,makkah_region,Makkah,4.8,115.0,False
+549,انفينيتي بادل Infinity Padel,انفينيتي بادل Infinity Padel,football_venue,21.2607019,40.402802,taif,makkah_region,Makkah,4.3,197.0,False
+550,بادل نايت | padel knight,بادل نايت | padel knight,football_venue,21.2799551,40.4372351,taif,makkah_region,Makkah,3.0,107.0,False
+551,T-padel,T-padel,football_venue,21.408886,40.4438281,taif,makkah_region,Makkah,3.1,66.0,False
+552,نادي بادل الطائف انتركونتيننتال,نادي بادل الطائف انتركونتيننتال,football_club,21.370731,40.461055,taif,makkah_region,Makkah,4.7,35.0,False
+555,ملعب اليانز آرينا,ملعب اليانز آرينا,stadium,19.1538262,41.0817687,qunfudhah,makkah_region,Makkah,4.0,41.0,False
+556,مجمع إدارة التعليم الرياضي | Sports Education Stadium,مجمع إدارة التعليم الرياضي | Sports Education Stadium,stadium,19.1204394,41.0853841,qunfudhah,makkah_region,Makkah,4.0,14.0,False
+557,ملعب كورة قدم صغير سداسي,ملعب كورة قدم صغير سداسي,outdoor_pitch,19.1289067,41.0723334,qunfudhah,makkah_region,Makkah,3.0,1.0,False
+558,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,19.1251064,41.0766089,qunfudhah,makkah_region,Makkah,,,False
+559,الحديقة العامة,الحديقة العامة,football_venue,19.1294575,41.0735337,qunfudhah,makkah_region,Makkah,3.6,234.0,False
+560,حديقة الخالدية,حديقة الخالدية,football_venue,19.1466416,41.0728225,qunfudhah,makkah_region,Makkah,3.4,119.0,False
+561,ملعب كورة قدم صغير سداسي رقم ٢,ملعب كورة قدم صغير سداسي رقم ٢,outdoor_pitch,19.1293432,41.0725677,qunfudhah,makkah_region,Makkah,,,False
+562,اكاديمية مواهب القنفذة,اكاديمية مواهب القنفذة,football_venue,19.1462106,41.0731169,qunfudhah,makkah_region,Makkah,4.9,9.0,False
+563,ملعب سداسي,ملعب سداسي,outdoor_pitch,19.1520196,41.0671302,qunfudhah,makkah_region,Makkah,3.5,2.0,False
+564,مقر نادي التسامح,مقر نادي التسامح,football_club,19.1451458,41.0709003,qunfudhah,makkah_region,Makkah,4.4,40.0,False
+565,نادي الحي بمدرسة زيد بن ثابت بالقنفذة,نادي الحي بمدرسة زيد بن ثابت بالقنفذة,football_club,19.1199671,41.0898864,qunfudhah,makkah_region,Makkah,4.6,8.0,False
+566,نادي الحي بمجمع تحفيظ القران,نادي الحي بمجمع تحفيظ القران,football_club,19.119752,41.0899409,qunfudhah,makkah_region,Makkah,5.0,3.0,False
+567,جمعية سمو لتحفيظ القرآن الكريم بالقنفذة,جمعية سمو لتحفيظ القرآن الكريم بالقنفذة,football_venue,19.129843,41.081756,qunfudhah,makkah_region,Makkah,4.6,62.0,False
+568,جمعية البر الخيرية بمحافظة القنفذة,جمعية البر الخيرية بمحافظة القنفذة,football_venue,19.1386794,41.077168,qunfudhah,makkah_region,Makkah,4.2,68.0,False
+569,ملعب نادي القحمان,ملعب نادي القحمان,football_club,18.9434603,41.297569,qunfudhah,makkah_region,Makkah,4.2,43.0,False
+570,نادي بي فت B fit,نادي بي فت B fit,football_club,19.118374,41.0825969,qunfudhah,makkah_region,Makkah,4.7,59.0,False
+571,نادي ستي سبورت,نادي ستي سبورت,football_club,19.1182162,41.0822629,qunfudhah,makkah_region,Makkah,3.5,117.0,False
+572,Football stadium Al muzailif,Football stadium Al muzailif,stadium,19.5176487,41.0459105,qunfudhah,makkah_region,Makkah,,,False
+573,ملعب بادل,ملعب بادل,outdoor_pitch,19.1462235,41.0719117,qunfudhah,makkah_region,Makkah,3.8,33.0,False
+574,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,22.8243946,39.0477407,rabigh,makkah_region,Makkah,3.7,31.0,False
+575,ملعب مركز رابغ الحضاري,ملعب مركز رابغ الحضاري,outdoor_pitch,22.8050981,39.0674247,rabigh,makkah_region,Makkah,3.2,17.0,False
+576,ملعب ماركانا,ملعب ماركانا,outdoor_pitch,22.78496,39.0387727,rabigh,makkah_region,Makkah,4.3,44.0,False
+577,ملعب المرجانية,ملعب المرجانية,outdoor_pitch,22.7967784,39.0597399,rabigh,makkah_region,Makkah,3.7,23.0,False
+578,جوهرة الخزان,جوهرة الخزان,football_venue,22.8075527,39.034116,rabigh,makkah_region,Makkah,4.0,20.0,False
+579,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,22.8316997,39.0275661,rabigh,makkah_region,Makkah,,,False
+580,اكادمية اشبال الود الرياضية,اكادمية اشبال الود الرياضية,football_venue,22.7849598,39.0387377,rabigh,makkah_region,Makkah,5.0,1.0,False
+581,حديقة مركز رابغ الحضاري,حديقة مركز رابغ الحضاري,sports_complex,22.8062049,39.0680725,rabigh,makkah_region,Makkah,4.1,388.0,False
+582,نادي الإنتصار برابغ,نادي الإنتصار برابغ,football_club,22.8197093,39.0221113,rabigh,makkah_region,Makkah,3.7,136.0,False
+583,ستاد الإنتصار,ستاد الإنتصار,football_venue,22.8198519,39.0227482,rabigh,makkah_region,Makkah,4.0,3.0,False
+584,ملعب كره قدم رابغ,ملعب كره قدم رابغ,outdoor_pitch,22.7865269,39.0328879,rabigh,makkah_region,Makkah,5.0,1.0,False
+585,النادي الرياضي,النادي الرياضي,football_club,22.8428096,38.9234833,rabigh,makkah_region,Makkah,4.4,146.0,False
+586,حديقة الصليب الغربي,حديقة الصليب الغربي,football_venue,22.8189575,39.0302258,rabigh,makkah_region,Makkah,3.6,197.0,False
+587,بادل ومركز الشاطئ الرملي الرياضي SBS Padel,بادل ومركز الشاطئ الرملي الرياضي SBS Padel,sports_complex,22.7969375,38.9606875,rabigh,makkah_region,Makkah,4.9,27.0,False
+588,أسواق رابغ الكبرى,أسواق رابغ الكبرى,football_venue,22.7982965,39.0336611,rabigh,makkah_region,Makkah,4.0,569.0,False
+589,Murad حديقه المرجانية,Murad حديقه المرجانية,football_venue,22.797198,39.0603994,rabigh,makkah_region,Makkah,4.0,286.0,False
+590,Football Pitch 5,Football Pitch 5,outdoor_pitch,22.3096672,39.0944543,rabigh,makkah_region,Makkah,5.0,1.0,False
+591,بادل تايم Padel Time,بادل تايم Padel Time,football_venue,22.8033853,39.0547858,rabigh,makkah_region,Makkah,4.9,54.0,False
+592,OXFIT PADEL RABIGH,OXFIT PADEL RABIGH,football_venue,22.7775391,39.0337229,rabigh,makkah_region,Makkah,5.0,3.0,False
+593,بادل جدد لياقتك,بادل جدد لياقتك,football_venue,22.8228317,39.0299623,rabigh,makkah_region,Makkah,4.5,15.0,False
+594,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.4090282,50.0778941,dammam,eastern_region,Eastern Region,3.8,18.0,False
+595,ملاعب وبادل Z5 الفيصلية,ملاعب وبادل Z5 الفيصلية,football_venue,26.3849579,50.0318593,dammam,eastern_region,Eastern Region,4.3,450.0,False
+596,الملعب,الملعب,outdoor_pitch,26.3967998,50.1106001,dammam,eastern_region,Eastern Region,4.2,41.0,False
+597,ملعب سبورت بوكس / Sport Box,ملعب سبورت بوكس / Sport Box,outdoor_pitch,26.385589,50.1474136,dammam,eastern_region,Eastern Region,4.3,498.0,False
+598,ملعب سوكر فيلد,ملعب سوكر فيلد,outdoor_pitch,26.3794523,50.0910633,dammam,eastern_region,Eastern Region,4.1,120.0,False
+599,ملاعب z7 لكرة القدم و البادل,ملاعب z7 لكرة القدم و البادل,football_venue,26.3723569,50.2029192,dammam,eastern_region,Eastern Region,4.3,168.0,False
+600,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.3933043,50.0815006,dammam,eastern_region,Eastern Region,3.8,12.0,False
+601,ملاعب Z5 سيهات,ملاعب Z5 سيهات,football_venue,26.484316,50.0186846,dammam,eastern_region,Eastern Region,4.4,746.0,False
+602,ملاعب القمة لكرة القدم - بادل تنس 🎾,ملاعب القمة لكرة القدم - بادل تنس 🎾,football_venue,26.3828904,50.0313077,dammam,eastern_region,Eastern Region,4.3,97.0,False
+603,ملاعب الكابيتانو الرياضيه,ملاعب الكابيتانو الرياضيه,football_venue,26.3734762,50.0465602,dammam,eastern_region,Eastern Region,3.9,409.0,False
+604,ملعب كتارا,ملعب كتارا,outdoor_pitch,26.3800319,50.0308997,dammam,eastern_region,Eastern Region,4.0,196.0,False
+605,ملعب كرة قدم ٢,ملعب كرة قدم ٢,outdoor_pitch,26.3800429,50.1285717,dammam,eastern_region,Eastern Region,4.8,23.0,False
+606,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.3830543,50.0670566,dammam,eastern_region,Eastern Region,3.8,41.0,False
+607,ملاعب الأجيال,ملاعب الأجيال,football_venue,26.48725,50.027264,dammam,eastern_region,Eastern Region,4.4,232.0,False
+608,ملاعب الصقر,ملاعب الصقر,football_venue,26.3891797,50.0392506,dammam,eastern_region,Eastern Region,4.0,236.0,False
+609,استاد الأمير محمد بن فهد,استاد الأمير محمد بن فهد,stadium,26.4276838,50.1144858,dammam,eastern_region,Eastern Region,4.1,5903.0,False
+610,Winners Football Academy | أكاديمية وينرز لكرة القدم,Winners Football Academy | أكاديمية وينرز لكرة القدم,football_academy,26.3839959,50.1263629,dammam,eastern_region,Eastern Region,4.3,474.0,True
+611,ملاعب المنافسة,ملاعب المنافسة,football_venue,26.3816573,50.0273367,dammam,eastern_region,Eastern Region,4.2,417.0,False
+612,ملاعب أسباير الرياضية,ملاعب أسباير الرياضية,football_venue,26.3823668,50.0364747,dammam,eastern_region,Eastern Region,4.6,88.0,False
+613,IAU Stadium,IAU Stadium,stadium,26.3998319,50.1967575,dammam,eastern_region,Eastern Region,4.3,267.0,False
+614,Rome playgrounds,Rome playgrounds,stadium,26.4801061,50.0129852,dammam,eastern_region,Eastern Region,4.0,160.0,False
+615,ملعب اكسترا تايم,ملعب اكسترا تايم,stadium,26.5438754,50.0149279,dammam,eastern_region,Eastern Region,3.9,153.0,False
+616,استاد الأمير سعود بن جلوي,استاد الأمير سعود بن جلوي,stadium,26.3699545,50.2051602,dammam,eastern_region,Eastern Region,3.9,1465.0,False
+617,أكاديمية الظهران الرياضية,أكاديمية الظهران الرياضية,football_academy,26.3795611,50.084841,dammam,eastern_region,Eastern Region,4.7,209.0,True
+618,أكاديمية كورة صح,أكاديمية كورة صح,football_academy,26.3801838,50.0308042,dammam,eastern_region,Eastern Region,5.0,23.0,False
+619,Grassroots Sports Academy,Grassroots Sports Academy,football_academy,26.4076052,50.1786517,dammam,eastern_region,Eastern Region,4.9,63.0,False
+620,اكاديمية نجوم المدينه,اكاديمية نجوم المدينه,football_venue,26.4181935,50.1207105,dammam,eastern_region,Eastern Region,4.3,17.0,False
+621,اكاديمية وطن الرياضيه,اكاديمية وطن الرياضيه,football_venue,26.4091323,50.0786662,dammam,eastern_region,Eastern Region,4.1,15.0,False
+622,أكاديمية موهبة الرياضية,أكاديمية موهبة الرياضية,football_academy,26.3889517,50.0394369,dammam,eastern_region,Eastern Region,4.7,58.0,False
+623,اكاديمية NB9 لكرة القدم,اكاديمية NB9 لكرة القدم,football_venue,26.3857097,50.034974,dammam,eastern_region,Eastern Region,5.0,16.0,False
+624,أكاديمية em لتدريب كرة القدم,أكاديمية em لتدريب كرة القدم,football_academy,26.4283083,50.0896443,dammam,eastern_region,Eastern Region,,,False
+625,اكاديمية الكابيتانو الرياضية,اكاديمية الكابيتانو الرياضية,football_venue,26.3731247,50.0467258,dammam,eastern_region,Eastern Region,4.5,76.0,False
+626,اكاديمية زونا قولZONA QUL,اكاديمية زونا قولZONA QUL,football_venue,26.4016865,50.0814303,dammam,eastern_region,Eastern Region,4.0,17.0,False
+627,أكادمية الهلال💙,أكادمية الهلال💙,football_venue,26.3850992,50.0365195,dammam,eastern_region,Eastern Region,4.6,60.0,False
+628,اكاديمية فيفا سبورت,اكاديمية فيفا سبورت,football_venue,26.3767047,50.0457264,dammam,eastern_region,Eastern Region,4.5,33.0,False
+629,أكاديمية تطوير سبورت الرياضية,أكاديمية تطوير سبورت الرياضية,football_academy,26.3828347,50.0310731,dammam,eastern_region,Eastern Region,4.5,15.0,False
+630,اكاديمية طيبة لكرة القدم,اكاديمية طيبة لكرة القدم,football_venue,26.365879,50.0656122,dammam,eastern_region,Eastern Region,4.5,8.0,False
+631,مؤسسه مركز زونا جول الرياضي.كره القدم,مؤسسه مركز زونا جول الرياضي.كره القدم,sports_complex,26.3828118,50.0312959,dammam,eastern_region,Eastern Region,5.0,2.0,False
+632,أكاديمية أولمبيا,أكاديمية أولمبيا,football_academy,26.3714105,50.1390947,dammam,eastern_region,Eastern Region,5.0,1.0,False
+633,اكاديمية فيفا,اكاديمية فيفا,football_venue,26.3816186,50.0270121,dammam,eastern_region,Eastern Region,4.0,27.0,False
+634,أكاديمية أسباير فرع المنار,أكاديمية أسباير فرع المنار,football_academy,26.385111,50.036884,dammam,eastern_region,Eastern Region,4.4,25.0,False
+635,نادي الدمام السعودي,نادي الدمام السعودي,football_club,26.3612602,50.0218015,dammam,eastern_region,Eastern Region,4.4,56.0,True
+636,أكاديمية 90,أكاديمية 90,football_academy,26.3801101,50.0308537,dammam,eastern_region,Eastern Region,4.0,45.0,False
+637,little sports الرياضي الصغير,little sports الرياضي الصغير,football_venue,26.375987,50.0909642,dammam,eastern_region,Eastern Region,4.0,617.0,False
+638,Epark Sport,Epark Sport,football_venue,26.3613766,50.0796036,dammam,eastern_region,Eastern Region,4.4,18.0,False
+639,دراجون اكاديمي لتعليم كرة القدم بالمنار,دراجون اكاديمي لتعليم كرة القدم بالمنار,football_venue,26.3815612,50.0270515,dammam,eastern_region,Eastern Region,5.0,2.0,False
+640,SFA Dome,SFA Dome,football_venue,26.4036223,50.025132,dammam,eastern_region,Eastern Region,4.5,287.0,False
+641,ملعب مسجد المطرفي (ملعب خاص),ملعب مسجد المطرفي (ملعب خاص),outdoor_pitch,26.4031216,50.0610581,dammam,eastern_region,Eastern Region,4.5,39.0,False
+642,ملاعب أكاديمية الدانة,ملاعب أكاديمية الدانة,football_academy,26.5062556,50.018629,dammam,eastern_region,Eastern Region,3.5,310.0,False
+643,شركة ملاعب المهرة - ادوات رياضية بالدمام,شركة ملاعب المهرة - ادوات رياضية بالدمام,football_venue,26.4397833,50.1046559,dammam,eastern_region,Eastern Region,4.6,194.0,False
+644,القبة الرياضية,القبة الرياضية,football_venue,26.4040898,50.0251578,dammam,eastern_region,Eastern Region,4.2,450.0,False
+645,SPORT YARD KIDS,SPORT YARD KIDS,football_venue,26.4018307,50.0814369,dammam,eastern_region,Eastern Region,4.1,164.0,False
+646,ملعب رعد الرياضي,ملعب رعد الرياضي,stadium,26.5312292,50.0138828,dammam,eastern_region,Eastern Region,4.0,186.0,False
+647,ملعب الواجهة البحرية ( كابتن شادي ),ملعب الواجهة البحرية ( كابتن شادي ),outdoor_pitch,26.4824991,50.1183046,dammam,eastern_region,Eastern Region,4.0,138.0,False
+648,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.4574263,50.0717643,dammam,eastern_region,Eastern Region,3.2,25.0,False
+649,Stadium,Stadium,stadium,26.3952667,50.1784263,dammam,eastern_region,Eastern Region,4.1,164.0,False
+650,أكاديمية يوفنتوس بالدمام,أكاديمية يوفنتوس بالدمام,football_academy,26.3788243,50.2193591,dammam,eastern_region,Eastern Region,4.2,140.0,False
+651,Ensheta After School Sports Activities,Ensheta After School Sports Activities,football_venue,26.4327478,50.0928686,dammam,eastern_region,Eastern Region,5.0,9.0,False
+652,Sama Academy - أكاديمية سما,Sama Academy - أكاديمية سما,football_academy,26.3557355,50.1882701,dammam,eastern_region,Eastern Region,4.9,81.0,False
+653,أكاديمية فخر الرياضية,أكاديمية فخر الرياضية,football_academy,26.3851072,50.0324484,dammam,eastern_region,Eastern Region,3.8,22.0,False
+654,سترايكرز هب,سترايكرز هب,football_venue,26.4657635,50.1141459,dammam,eastern_region,Eastern Region,4.2,163.0,False
+655,مبنى 36 - استاد الجامعة,مبنى 36 - استاد الجامعة,stadium,26.3076803,50.1517276,dammam,eastern_region,Eastern Region,4.1,74.0,False
+656,استاد نادي الخليج - Al-Khaleej Club Stadium,استاد نادي الخليج - Al-Khaleej Club Stadium,stadium,26.4739929,50.0335236,dammam,eastern_region,Eastern Region,4.4,10.0,False
+657,Stadium - Building 39,Stadium - Building 39,stadium,26.3098235,50.1469043,dammam,eastern_region,Eastern Region,4.2,36.0,False
+658,ملعب الاثير,ملعب الاثير,stadium,26.4383998,50.0622463,dammam,eastern_region,Eastern Region,4.2,20.0,False
+659,المدينة الرياضية بالدمام,المدينة الرياضية بالدمام,football_venue,26.3588875,50.1863594,dammam,eastern_region,Eastern Region,4.4,1820.0,False
+660,Offside Arena أوفسايد أرينا,Offside Arena أوفسايد أرينا,football_venue,26.3792245,50.084485,dammam,eastern_region,Eastern Region,3.9,81.0,False
+661,هنا بتوع ابو غنيمه شالوا خمسه,هنا بتوع ابو غنيمه شالوا خمسه,football_venue,26.4040439,50.0254797,dammam,eastern_region,Eastern Region,5.0,1.0,False
+662,Sport Yard,Sport Yard,football_venue,26.3533381,50.1849471,dammam,eastern_region,Eastern Region,4.1,582.0,False
+663,بادل إن,بادل إن,football_venue,26.452528,50.1285932,dammam,eastern_region,Eastern Region,4.1,77.0,False
+664,Qadsiah Club Football Field,Qadsiah Club Football Field,football_club,26.3789207,50.1284185,dammam,eastern_region,Eastern Region,3.6,7.0,False
+665,ملاعب محترفي البادل الرياضية,ملاعب محترفي البادل الرياضية,football_venue,26.3936508,50.1608173,dammam,eastern_region,Eastern Region,4.9,202.0,False
+666,Crush Padel,Crush Padel,football_venue,26.3703943,50.0535783,dammam,eastern_region,Eastern Region,4.7,166.0,False
+667,The Padel Hub,The Padel Hub,football_venue,26.3916545,50.1629106,dammam,eastern_region,Eastern Region,4.6,151.0,False
+668,بادل كلوب,بادل كلوب,football_venue,26.3890094,50.1261482,dammam,eastern_region,Eastern Region,4.2,133.0,False
+669,Desert padel,Desert padel,football_venue,26.3847455,50.1380605,dammam,eastern_region,Eastern Region,4.3,117.0,False
+670,اكس بادل,اكس بادل,football_venue,26.4760933,50.1245506,dammam,eastern_region,Eastern Region,4.4,76.0,False
+671,Padel Net - بادل نت,Padel Net - بادل نت,football_venue,26.3690313,50.0917588,dammam,eastern_region,Eastern Region,4.5,47.0,False
+672,وي بادل,وي بادل,football_venue,26.3784095,50.2071796,dammam,eastern_region,Eastern Region,4.4,111.0,False
+673,Marina Padel,Marina Padel,football_venue,26.4748102,50.0711885,dammam,eastern_region,Eastern Region,3.8,42.0,False
+674,Padel Scope,Padel Scope,football_venue,26.3880424,50.1610756,dammam,eastern_region,Eastern Region,4.7,122.0,False
+675,..,..,football_venue,26.4847812,50.0186805,dammam,eastern_region,Eastern Region,4.3,43.0,False
+676,Palmera Padel (indoor) (ملاعب داخلية) بالميرا بادل,Palmera Padel (indoor) (ملاعب داخلية) بالميرا بادل,indoor_pitch,26.3651899,50.2081738,dammam,eastern_region,Eastern Region,4.3,56.0,False
+677,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.318108,50.1947132,khobar,eastern_region,Eastern Region,,,False
+678,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.2617997,50.2061769,khobar,eastern_region,Eastern Region,,,False
+679,ملعب كرة القدم الشهراني,ملعب كرة القدم الشهراني,outdoor_pitch,26.2232652,50.1913552,khobar,eastern_region,Eastern Region,3.8,14.0,False
+680,ملعب الخبر أكاديمي ب,ملعب الخبر أكاديمي ب,outdoor_pitch,26.2217968,50.1900885,khobar,eastern_region,Eastern Region,3.7,168.0,False
+681,أكاديمية OPIS الرياضية,أكاديمية OPIS الرياضية,football_academy,26.2181551,50.1879522,khobar,eastern_region,Eastern Region,4.1,49.0,False
+682,سبورتينج SPORTING,سبورتينج SPORTING,football_venue,26.2082247,50.1887225,khobar,eastern_region,Eastern Region,4.5,20.0,False
+683,Waseel Sports Academy اكاديمية وسيل الرياضية لتدريب كرة القدم,Waseel Sports Academy اكاديمية وسيل الرياضية لتدريب كرة القدم,football_academy,26.2990993,50.1687722,khobar,eastern_region,Eastern Region,,,False
+684,"TNGS Academy, SA","TNGS Academy, SA",football_academy,26.3083718,50.2213402,khobar,eastern_region,Eastern Region,4.6,10.0,False
+685,Victory academy اكادمية فكتوري,Victory academy اكادمية فكتوري,football_academy,26.2989538,50.168792,khobar,eastern_region,Eastern Region,5.0,7.0,False
+686,SPORT FUTURE أكاديمية المستقبل للرياضة,SPORT FUTURE أكاديمية المستقبل للرياضة,football_academy,26.3080407,50.2211936,khobar,eastern_region,Eastern Region,4.0,32.0,False
+687,Awacs Football Academy,Awacs Football Academy,football_academy,26.3087468,50.2212935,khobar,eastern_region,Eastern Region,4.4,12.0,False
+688,اكاديمية الاتفاق لكرة القدم | Ettifaq football academy,اكاديمية الاتفاق لكرة القدم | Ettifaq football academy,football_academy,26.3534107,50.1849263,khobar,eastern_region,Eastern Region,4.5,15.0,False
+689,أكادمية بروستارز العالمية لكرة القدم,أكادمية بروستارز العالمية لكرة القدم,football_venue,26.3530645,50.187816,khobar,eastern_region,Eastern Region,3.7,3.0,False
+690,Al Gosaibi Football Ground (Khalid Mubarak Academy),Al Gosaibi Football Ground (Khalid Mubarak Academy),football_academy,26.308193,50.2213239,khobar,eastern_region,Eastern Region,4.4,138.0,False
+691,Eagle Academy,Eagle Academy,football_academy,26.3308131,50.1948338,khobar,eastern_region,Eastern Region,5.0,12.0,False
+692,اكاديمية نجوم العزيزية الرياضية بالخبر,اكاديمية نجوم العزيزية الرياضية بالخبر,football_venue,26.1428603,50.1033603,khobar,eastern_region,Eastern Region,4.3,9.0,False
+693,أكاديمية ستاليونز إيليت,أكاديمية ستاليونز إيليت,football_academy,26.3542243,50.1857651,khobar,eastern_region,Eastern Region,4.6,11.0,False
+694,سبورت بوك سنتر,سبورت بوك سنتر,football_venue,26.3296108,50.2115974,khobar,eastern_region,Eastern Region,4.3,42.0,False
+695,FFF Academy Saudi Arabia,FFF Academy Saudi Arabia,football_academy,26.2989375,50.1688125,khobar,eastern_region,Eastern Region,3.8,5.0,False
+696,Malabar United Soccer Academy,Malabar United Soccer Academy,football_academy,26.3725654,50.2028076,khobar,eastern_region,Eastern Region,4.8,27.0,False
+697,اكاديمية الاجيال,اكاديمية الاجيال,football_venue,26.2990581,50.1691546,khobar,eastern_region,Eastern Region,3.6,12.0,False
+698,Al Thuqbah Club,Al Thuqbah Club,football_club,26.2285992,50.1849635,khobar,eastern_region,Eastern Region,3.8,160.0,False
+699,نادي القادسية,نادي القادسية,football_club,26.2940451,50.2026691,khobar,eastern_region,Eastern Region,4.2,1550.0,False
+700,Football ⚽,Football ⚽,football_venue,26.2691256,50.2011614,khobar,eastern_region,Eastern Region,5.0,1.0,False
+701,مدينة سبورتي الرياضية,مدينة سبورتي الرياضية,football_venue,26.1843506,50.1647675,khobar,eastern_region,Eastern Region,4.0,733.0,False
+702,Alhilal Academy - Khobar - أكاديمية الهلال - الخبر,Alhilal Academy - Khobar - أكاديمية الهلال - الخبر,football_academy,26.3396626,50.1927907,khobar,eastern_region,Eastern Region,4.8,13.0,False
+703,ملعب الأسيل,ملعب الأسيل,outdoor_pitch,26.2147357,50.2085522,khobar,eastern_region,Eastern Region,3.8,12.0,False
+704,ملعب السرحاني العزيزية البسامي التعاون ( ️‍ ️ ️ ‍ ️ ),ملعب السرحاني العزيزية البسامي التعاون ( ️‍ ️ ️ ‍ ️ ),outdoor_pitch,26.2235639,50.1917389,khobar,eastern_region,Eastern Region,3.8,113.0,False
+705,ملعب منتزه الشيخ علي التميمي,ملعب منتزه الشيخ علي التميمي,outdoor_pitch,26.2081012,50.2051196,khobar,eastern_region,Eastern Region,4.1,12.0,False
+706,Sama Fields - ملاعب سما,Sama Fields - ملاعب سما,outdoor_pitch,26.3556657,50.1882896,khobar,eastern_region,Eastern Region,4.7,82.0,False
+707,ملاعب اسكان الخبر,ملاعب اسكان الخبر,football_venue,26.2616815,50.2059216,khobar,eastern_region,Eastern Region,4.3,108.0,False
+708,ملعب,ملعب,outdoor_pitch,26.2051864,50.1931405,khobar,eastern_region,Eastern Region,4.4,11.0,False
+709,ملعب الخزف لكرة القدم,ملعب الخزف لكرة القدم,outdoor_pitch,26.1429916,50.1033712,khobar,eastern_region,Eastern Region,4.0,66.0,False
+710,ملعب كره قدم الاحمراء,ملعب كره قدم الاحمراء,outdoor_pitch,26.2171906,50.1971381,khobar,eastern_region,Eastern Region,,,False
+711,ساحة العليا,ساحة العليا,football_venue,26.3012225,50.1756922,khobar,eastern_region,Eastern Region,4.2,333.0,False
+712,ملعب كورة قدم,ملعب كورة قدم,outdoor_pitch,26.3242265,50.2246678,khobar,eastern_region,Eastern Region,4.6,9.0,False
+713,60 meter football field,60 meter football field,outdoor_pitch,26.3590465,50.206334,khobar,eastern_region,Eastern Region,4.8,12.0,False
+714,حديقة الأصيل,حديقة الأصيل,football_venue,26.2863046,50.1960805,khobar,eastern_region,Eastern Region,4.0,154.0,False
+715,القبة,القبة,football_venue,26.2989688,50.1688575,khobar,eastern_region,Eastern Region,4.2,781.0,False
+716,ملعب مدرسة متوسطة الاسكان,ملعب مدرسة متوسطة الاسكان,outdoor_pitch,26.2601872,50.2083322,khobar,eastern_region,Eastern Region,3.0,2.0,False
+717,مركز القصيبي الرياضي,مركز القصيبي الرياضي,sports_complex,26.306712,50.2193898,khobar,eastern_region,Eastern Region,4.3,456.0,False
+718,نادي الاتفاق,نادي الاتفاق,football_club,26.3504116,50.1804017,khobar,eastern_region,Eastern Region,4.2,1310.0,False
+719,‏Abdullah Al Dabil Stadium,‏Abdullah Al Dabil Stadium,stadium,26.3507442,50.1814464,khobar,eastern_region,Eastern Region,4.4,112.0,False
+720,ملعب كرة قدم الشراع,ملعب كرة قدم الشراع,outdoor_pitch,26.1687793,50.1563792,khobar,eastern_region,Eastern Region,5.0,1.0,False
+721,ملعب رديف نادي الاتفاق,ملعب رديف نادي الاتفاق,football_club,26.3524285,50.179876,khobar,eastern_region,Eastern Region,4.4,14.0,False
+722,Liverpool FC International Academy Al Khobar,Liverpool FC International Academy Al Khobar,football_academy,26.3381975,50.1826826,khobar,eastern_region,Eastern Region,4.3,27.0,False
+723,SLS Sports ACADEMY,SLS Sports ACADEMY,football_academy,26.3434207,50.1824564,khobar,eastern_region,Eastern Region,4.6,51.0,False
+724,MVP Football academy,MVP Football academy,football_academy,26.3245958,50.1639077,khobar,eastern_region,Eastern Region,5.0,2.0,False
+725,Al buhaira,Al buhaira,football_venue,26.1930051,50.1758973,khobar,eastern_region,Eastern Region,4.1,12.0,False
+726,حديقة الزهور,حديقة الزهور,football_venue,26.320398,50.2008063,khobar,eastern_region,Eastern Region,4.3,29.0,False
+727,منتزه الأسيل,منتزه الأسيل,football_venue,26.2145805,50.2080664,khobar,eastern_region,Eastern Region,4.0,114.0,False
+728,ملعب الاتفاق,ملعب الاتفاق,outdoor_pitch,26.3502252,50.1823555,khobar,eastern_region,Eastern Region,4.5,92.0,False
+729,ملعب الميدان بالدوحة,ملعب الميدان بالدوحة,outdoor_pitch,26.3330713,50.1649639,khobar,eastern_region,Eastern Region,3.8,83.0,False
+730,Zhf Stadium Al khobar,Zhf Stadium Al khobar,stadium,26.3507012,50.1828191,khobar,eastern_region,Eastern Region,5.0,2.0,False
+731,C Square ملعب البحر,C Square ملعب البحر,stadium,26.0917363,50.1522492,khobar,eastern_region,Eastern Region,4.9,9.0,False
+732,Tekkers Academy & Arsenal Football Development Saudi Arabia,Tekkers Academy & Arsenal Football Development Saudi Arabia,football_academy,26.1880449,50.1283159,khobar,eastern_region,Eastern Region,5.0,6.0,False
+733,WINNERS FOOTBALL CLUB W.L.L,WINNERS FOOTBALL CLUB W.L.L,football_club,26.2993602,50.1690811,khobar,eastern_region,Eastern Region,,,False
+734,أوفسايد,أوفسايد,football_venue,26.2894789,50.2065651,khobar,eastern_region,Eastern Region,4.1,279.0,False
+735,All For Padel Club Al Khobar,All For Padel Club Al Khobar,football_club,26.2992079,50.169168,khobar,eastern_region,Eastern Region,4.2,60.0,False
+736,Yalla Padel | يلا بادل,Yalla Padel | يلا بادل,football_venue,26.2144298,50.2129222,khobar,eastern_region,Eastern Region,4.4,7.0,False
+737,Desert padel,Desert padel,football_venue,26.3024209,50.2211894,khobar,eastern_region,Eastern Region,4.5,126.0,False
+738,ابدا بادل,ابدا بادل,football_venue,26.3023444,50.1975468,khobar,eastern_region,Eastern Region,4.3,100.0,False
+739,Padel Hit,Padel Hit,football_venue,26.1449227,50.1613231,khobar,eastern_region,Eastern Region,4.8,114.0,False
+740,Padel by TSC,Padel by TSC,football_venue,26.3141982,50.2125359,khobar,eastern_region,Eastern Region,4.7,60.0,False
+741,PADEL SMART RACKET ALOFT Indoor ) - تنس بادل المضرب الذكي (فندق ألوفت الظهران ),PADEL SMART RACKET ALOFT Indoor ) - تنس بادل المضرب الذكي (فندق ألوفت الظهران ),indoor_pitch,26.3046027,50.1741608,khobar,eastern_region,Eastern Region,4.9,10.0,False
+742,Power Arena - Padel Court,Power Arena - Padel Court,football_venue,26.3224508,50.2060423,khobar,eastern_region,Eastern Region,4.2,58.0,False
+743,Padel Mage بادل ميج,Padel Mage بادل ميج,football_venue,26.3556875,50.1883125,khobar,eastern_region,Eastern Region,4.5,59.0,False
+744,Ace Tennis & Padel Academy,Ace Tennis & Padel Academy,football_academy,26.0454703,50.1485034,khobar,eastern_region,Eastern Region,4.9,344.0,False
+745,The Social Club,The Social Club,football_club,26.3142111,50.2119861,khobar,eastern_region,Eastern Region,4.3,72.0,False
+746,البوابة الدولية الرياضية | Global Sport Gate,البوابة الدولية الرياضية | Global Sport Gate,football_venue,26.2990315,50.1688532,khobar,eastern_region,Eastern Region,4.7,25.0,False
+747,SAYSO Soccer Fields,SAYSO Soccer Fields,outdoor_pitch,26.281831,50.1198827,dhahran,eastern_region,Eastern Region,4.3,107.0,False
+748,Jebel Heights Soccer Fields,Jebel Heights Soccer Fields,outdoor_pitch,26.2827074,50.1075274,dhahran,eastern_region,Eastern Region,4.5,37.0,False
+749,ملاعب كرة قدم عامة,ملاعب كرة قدم عامة,football_venue,26.1973291,50.04244,dhahran,eastern_region,Eastern Region,4.2,44.0,False
+750,ملعب الحرس الوطني,ملعب الحرس الوطني,outdoor_pitch,26.3641607,50.1647034,dhahran,eastern_region,Eastern Region,3.9,62.0,False
+751,Football Field,Football Field,outdoor_pitch,26.3232349,50.1107568,dhahran,eastern_region,Eastern Region,3.5,6.0,False
+752,Spraying Fields,Spraying Fields,outdoor_pitch,26.2825693,50.1188779,dhahran,eastern_region,Eastern Region,3.9,19.0,False
+753,Sama Fields 2-ملاعب سما ٢,Sama Fields 2-ملاعب سما ٢,outdoor_pitch,26.3308104,50.1597094,dhahran,eastern_region,Eastern Region,5.0,33.0,False
+754,3rd Street Soccer Fields,3rd Street Soccer Fields,outdoor_pitch,26.3000149,50.1369081,dhahran,eastern_region,Eastern Region,,,False
+755,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.1966916,50.0250824,dhahran,eastern_region,Eastern Region,5.0,2.0,False
+756,ملعب الظهران بالمطيرفي,ملعب الظهران بالمطيرفي,outdoor_pitch,25.4695427,49.5605147,dhahran,eastern_region,Eastern Region,3.2,49.0,False
+757,ميدان الشباب,ميدان الشباب,football_venue,26.3363487,50.1420699,dhahran,eastern_region,Eastern Region,4.0,152.0,False
+758,مضمار الشارع الثالث,مضمار الشارع الثالث,football_venue,26.2999375,50.1370625,dhahran,eastern_region,Eastern Region,4.4,127.0,False
+759,Doha Football Ground,Doha Football Ground,outdoor_pitch,26.3292855,50.1606503,dhahran,eastern_region,Eastern Region,2.9,15.0,False
+760,ملعب حي حطين,ملعب حي حطين,outdoor_pitch,26.3634322,50.158881,dhahran,eastern_region,Eastern Region,4.6,8.0,False
+761,أكاديمية نور,أكاديمية نور,football_academy,26.3014311,50.1595424,dhahran,eastern_region,Eastern Region,5.0,3.0,False
+762,3rd Street Recreation Center,3rd Street Recreation Center,football_venue,26.3015474,50.1371759,dhahran,eastern_region,Eastern Region,4.3,222.0,False
+763,Doha academy,Doha academy,football_academy,26.319121,50.16887,dhahran,eastern_region,Eastern Region,4.3,3.0,False
+764,الصالة الرياضية بالقاعدة الجوية,الصالة الرياضية بالقاعدة الجوية,indoor_pitch,26.2799693,50.1412845,dhahran,eastern_region,Eastern Region,4.2,362.0,False
+1420,Padel pro,Padel pro,football_venue,18.2461344,42.763667,khamis_mushait,aseer_region,Aseer,2.6,48.0,False
+765,جو اند جو جول,جو اند جو جول,football_venue,26.3099318,50.1704415,dhahran,eastern_region,Eastern Region,4.7,929.0,False
+766,ملعب حي الفنين,ملعب حي الفنين,outdoor_pitch,26.2900941,50.1434761,dhahran,eastern_region,Eastern Region,4.5,6.0,False
+767,Rub Khali Soccer Field,Rub Khali Soccer Field,outdoor_pitch,26.28314,50.12014,dhahran,eastern_region,Eastern Region,,,False
+768,Outdoor court | الملعب الخارجي,Outdoor court | الملعب الخارجي,outdoor_pitch,26.3017861,50.1539672,dhahran,eastern_region,Eastern Region,,,False
+769,R Section Soccer Fields,R Section Soccer Fields,outdoor_pitch,26.3032164,50.107277,dhahran,eastern_region,Eastern Region,,,False
+770,Football Ground,Football Ground,stadium,26.3097751,50.1475574,dhahran,eastern_region,Eastern Region,3.7,20.0,False
+771,Saudi Aramco Youth Soccer,Saudi Aramco Youth Soccer,football_venue,26.3033391,50.1282807,dhahran,eastern_region,Eastern Region,5.0,3.0,False
+772,Soccer Field,Soccer Field,outdoor_pitch,26.3475078,50.1265302,dhahran,eastern_region,Eastern Region,3.4,5.0,False
+773,حديقة العائلات,حديقة العائلات,football_venue,26.3295654,50.1604153,dhahran,eastern_region,Eastern Region,4.1,280.0,False
+774,تلال الظهران,تلال الظهران,football_venue,26.2923308,50.1073464,dhahran,eastern_region,Eastern Region,4.5,128.0,False
+775,Basketball court at Shabab park,Basketball court at Shabab park,football_venue,26.3296199,50.1608565,dhahran,eastern_region,Eastern Region,4.8,11.0,False
+776,منتزة السليمانيه,منتزة السليمانيه,football_venue,26.3161621,50.1706998,dhahran,eastern_region,Eastern Region,4.2,425.0,False
+777,ملعب,ملعب,outdoor_pitch,26.2988203,50.1029265,dhahran,eastern_region,Eastern Region,4.5,24.0,False
+778,كانيون رود باديل كورت,كانيون رود باديل كورت,football_venue,26.2920919,50.1338335,dhahran,eastern_region,Eastern Region,4.9,12.0,False
+779,Jebel Heights Padel Courts,Jebel Heights Padel Courts,football_venue,26.2826889,50.1064995,dhahran,eastern_region,Eastern Region,4.7,11.0,False
+780,مركز ترفيه المنيرة,مركز ترفيه المنيرة,sports_complex,26.3168741,50.1290876,dhahran,eastern_region,Eastern Region,4.3,82.0,False
+781,مركز المدرا الترفيهي,مركز المدرا الترفيهي,sports_complex,26.3233897,50.1121075,dhahran,eastern_region,Eastern Region,4.6,449.0,False
+782,ملعب الأبطال,ملعب الأبطال,outdoor_pitch,25.3751845,49.5798941,al_ahsa,eastern_region,Eastern Region,4.3,158.0,False
+783,ملاعب أولمبيا سعودي الأحساء +اكاديميات,ملاعب أولمبيا سعودي الأحساء +اكاديميات,football_venue,25.4112303,49.6136984,al_ahsa,eastern_region,Eastern Region,4.1,268.0,False
+784,درة الملاعب الاحساء,درة الملاعب الاحساء,football_venue,25.4010083,49.6361792,al_ahsa,eastern_region,Eastern Region,4.0,148.0,False
+785,ملاعب سباير,ملاعب سباير,football_venue,25.4365832,49.6013229,al_ahsa,eastern_region,Eastern Region,4.3,363.0,False
+786,ملعب درة الأحساء بقرية الفضول,ملعب درة الأحساء بقرية الفضول,outdoor_pitch,25.3702609,49.6967612,al_ahsa,eastern_region,Eastern Region,4.0,140.0,False
+787,ملاعب سفاري,ملاعب سفاري,football_venue,25.3908806,49.7063484,al_ahsa,eastern_region,Eastern Region,4.1,112.0,False
+788,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,25.3643403,49.6005071,al_ahsa,eastern_region,Eastern Region,4.7,6.0,False
+789,ملعب كرة قدم الكلية التقنية بالاحساء,ملعب كرة قدم الكلية التقنية بالاحساء,outdoor_pitch,25.4807523,49.5412065,al_ahsa,eastern_region,Eastern Region,3.5,64.0,False
+790,ملاعب صدى الملاعب,ملاعب صدى الملاعب,football_venue,25.4366864,49.6020108,al_ahsa,eastern_region,Eastern Region,4.2,291.0,False
+791,ملعب الرسالة العشبي,ملعب الرسالة العشبي,outdoor_pitch,25.404612,49.637796,al_ahsa,eastern_region,Eastern Region,4.1,222.0,False
+792,ملعب الذئاب,ملعب الذئاب,outdoor_pitch,25.3260558,49.651972,al_ahsa,eastern_region,Eastern Region,4.9,17.0,False
+793,Alrayiah Soccer Field ملعب الراية,Alrayiah Soccer Field ملعب الراية,outdoor_pitch,25.3704165,49.6297458,al_ahsa,eastern_region,Eastern Region,3.7,156.0,False
+794,ملاعب فريق الاحرار بالفضول,ملاعب فريق الاحرار بالفضول,football_venue,25.3726526,49.6740748,al_ahsa,eastern_region,Eastern Region,4.1,48.0,False
+795,ملاعب التحدي,ملاعب التحدي,football_venue,25.4590156,49.5957503,al_ahsa,eastern_region,Eastern Region,4.2,407.0,False
+796,ملعب جامعة الملك فيصل,ملعب جامعة الملك فيصل,outdoor_pitch,25.3460347,49.5923334,al_ahsa,eastern_region,Eastern Region,4.0,62.0,False
+797,ملعب الدرة,ملعب الدرة,outdoor_pitch,25.3746235,49.6318209,al_ahsa,eastern_region,Eastern Region,3.8,148.0,False
+798,ملعب اليورو,ملعب اليورو,outdoor_pitch,25.3286705,49.553834,al_ahsa,eastern_region,Eastern Region,3.3,137.0,False
+799,ملعب المحترف,ملعب المحترف,outdoor_pitch,25.3235064,49.6404733,al_ahsa,eastern_region,Eastern Region,4.1,255.0,False
+800,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,25.3497421,49.5824981,al_ahsa,eastern_region,Eastern Region,4.3,8.0,False
+801,اكاديمية مواهب الاحساء,اكاديمية مواهب الاحساء,football_venue,25.4006257,49.6350889,al_ahsa,eastern_region,Eastern Region,4.2,37.0,False
+802,ملعب حديقة قصر محيرس الأثري,ملعب حديقة قصر محيرس الأثري,stadium,25.4475197,49.5826338,al_ahsa,eastern_region,Eastern Region,3.4,5.0,False
+803,ملعب الجوهرة الحمراء,ملعب الجوهرة الحمراء,stadium,25.3236916,49.6400468,al_ahsa,eastern_region,Eastern Region,3.0,13.0,False
+804,استاد الأمير عبدالله بن جلوي,استاد الأمير عبدالله بن جلوي,stadium,25.3059026,49.6128057,al_ahsa,eastern_region,Eastern Region,4.2,686.0,False
+805,ملعب استاد جامعة الملك فيصل,ملعب استاد جامعة الملك فيصل,stadium,25.3304318,49.5985129,al_ahsa,eastern_region,Eastern Region,4.3,133.0,False
+806,اكاديمية ليو,اكاديمية ليو,football_venue,25.4010334,49.6361765,al_ahsa,eastern_region,Eastern Region,4.9,18.0,False
+807,اكاديمية ليو,اكاديمية ليو,football_venue,25.411148,49.6137562,al_ahsa,eastern_region,Eastern Region,4.3,6.0,False
+808,اكاديمية نادي القادسية بمحافظة الاحساء,اكاديمية نادي القادسية بمحافظة الاحساء,football_club,25.3641764,49.6005269,al_ahsa,eastern_region,Eastern Region,5.0,10.0,False
+809,اكاديمية حلم الرياضية,اكاديمية حلم الرياضية,football_venue,25.3236062,49.6403979,al_ahsa,eastern_region,Eastern Region,5.0,8.0,False
+810,ملعب فريق الصقور الرياضي,ملعب فريق الصقور الرياضي,outdoor_pitch,25.3529375,49.6329375,al_ahsa,eastern_region,Eastern Region,4.3,14.0,False
+811,Al-Adalah F.C.,Al-Adalah F.C.,football_venue,25.4383562,49.6633805,al_ahsa,eastern_region,Eastern Region,4.2,436.0,False
+812,Apex Sports,Apex Sports,football_venue,25.3305587,49.5993744,al_ahsa,eastern_region,Eastern Region,4.2,520.0,False
+813,ملعب نادي معن,ملعب نادي معن,football_club,25.385581,49.638868,al_ahsa,eastern_region,Eastern Region,4.1,60.0,False
+814,المعلمين لكرة القدم,المعلمين لكرة القدم,football_venue,25.3721762,49.5642466,al_ahsa,eastern_region,Eastern Region,3.4,13.0,False
+815,اكاديمية تيكي تاكا لكرة القدم,اكاديمية تيكي تاكا لكرة القدم,football_venue,25.469623,49.5604301,al_ahsa,eastern_region,Eastern Region,5.0,6.0,False
+816,نادي الجيل الرياضي,نادي الجيل الرياضي,football_club,25.3468577,49.6248081,al_ahsa,eastern_region,Eastern Region,3.9,252.0,False
+817,استاد نادي هجر,استاد نادي هجر,stadium,25.3087528,49.6190716,al_ahsa,eastern_region,Eastern Region,4.1,379.0,False
+818,مدارس أكاديمية الكفاح الأهلية,مدارس أكاديمية الكفاح الأهلية,football_academy,25.3863002,49.5754422,al_ahsa,eastern_region,Eastern Region,,,False
+819,فريق الأنوار الرياضي بالأحساء,فريق الأنوار الرياضي بالأحساء,football_venue,25.361508,49.575402,al_ahsa,eastern_region,Eastern Region,3.9,7.0,False
+820,مركز التفاح الاخضر الرياضي فرع المبرز,مركز التفاح الاخضر الرياضي فرع المبرز,sports_complex,25.3929587,49.5741806,al_ahsa,eastern_region,Eastern Region,4.3,413.0,False
+821,فريق الإزدهار,فريق الإزدهار,football_venue,25.3980874,49.5872631,al_ahsa,eastern_region,Eastern Region,4.6,9.0,False
+822,فريق نجمه محاسن الرياضي,فريق نجمه محاسن الرياضي,football_venue,25.4058467,49.5725267,al_ahsa,eastern_region,Eastern Region,4.3,6.0,False
+823,ملعب GOOOOOL طائره وقدم,ملعب GOOOOOL طائره وقدم,outdoor_pitch,25.3902687,49.6380447,al_ahsa,eastern_region,Eastern Region,3.9,41.0,False
+824,ملعب الريمونتادا الرياضي بالاحساء,ملعب الريمونتادا الرياضي بالاحساء,outdoor_pitch,25.3235008,49.6496413,al_ahsa,eastern_region,Eastern Region,4.4,194.0,False
+825,ملاعب درة الشرق بالقارة,ملاعب درة الشرق بالقارة,football_venue,25.4183011,49.6717341,al_ahsa,eastern_region,Eastern Region,3.9,154.0,False
+826,مدينة الأمير عبدالله بن جلوي الرياضية,مدينة الأمير عبدالله بن جلوي الرياضية,football_venue,25.3043656,49.6108109,al_ahsa,eastern_region,Eastern Region,4.2,366.0,False
+827,صالة القوة الرياضية,صالة القوة الرياضية,indoor_pitch,25.3537658,49.6105875,al_ahsa,eastern_region,Eastern Region,4.0,548.0,False
+828,ملعب الكلاسيكو,ملعب الكلاسيكو,outdoor_pitch,25.47246,49.5601536,al_ahsa,eastern_region,Eastern Region,3.9,102.0,False
+829,ملعب واسط,ملعب واسط,stadium,25.4276309,49.7110029,al_ahsa,eastern_region,Eastern Region,5.0,33.0,False
+830,حديقة ام سبعة,حديقة ام سبعة,football_venue,25.352363,49.5464774,al_ahsa,eastern_region,Eastern Region,4.0,592.0,False
+831,بادل يولاند,بادل يولاند,stadium,25.3718105,49.6948981,al_ahsa,eastern_region,Eastern Region,4.8,19.0,False
+832,نادي الفتح الرياضي,نادي الفتح الرياضي,football_club,25.4286866,49.5805589,al_ahsa,eastern_region,Eastern Region,4.3,1448.0,False
+833,ملعب الأبطال الرياضي,ملعب الأبطال الرياضي,outdoor_pitch,25.4935928,49.616012,al_ahsa,eastern_region,Eastern Region,4.2,97.0,False
+1560,Hail Stadium,Hail Stadium,stadium,27.5036899,41.6965953,hail,hail_region,Hail,4.0,42.0,False
+834,نادي القارة الرياضي,نادي القارة الرياضي,football_club,25.4269906,49.6776458,al_ahsa,eastern_region,Eastern Region,4.1,178.0,False
+835,KYOO PARK | كيو بارك,KYOO PARK | كيو بارك,football_venue,25.3894546,49.580429,al_ahsa,eastern_region,Eastern Region,4.5,394.0,False
+836,Wembley Al Hofuf Football Pitch,Wembley Al Hofuf Football Pitch,outdoor_pitch,25.300998,49.6259724,al_ahsa,eastern_region,Eastern Region,3.4,9.0,False
+837,نادي الروضة الرياضي,نادي الروضة الرياضي,football_club,25.3855178,49.7556247,al_ahsa,eastern_region,Eastern Region,4.3,273.0,False
+838,ملعب:نادي السالمية الرياضي لكرة القدم,ملعب:نادي السالمية الرياضي لكرة القدم,football_club,25.3274935,49.5938991,al_ahsa,eastern_region,Eastern Region,3.8,5.0,False
+839,اللياقة القصوى,اللياقة القصوى,football_venue,25.3663138,49.6103341,al_ahsa,eastern_region,Eastern Region,3.8,219.0,False
+840,Black Padel بلاك بادل,Black Padel بلاك بادل,football_venue,25.397947,49.6206377,al_ahsa,eastern_region,Eastern Region,4.9,32.0,False
+841,Ghazalah-Women's gym نادي غزالة النسائي,Ghazalah-Women's gym نادي غزالة النسائي,football_club,25.373773,49.554305,al_ahsa,eastern_region,Eastern Region,4.3,62.0,False
+842,نادي كلاس فت,نادي كلاس فت,football_club,25.3527667,49.6223577,al_ahsa,eastern_region,Eastern Region,4.0,223.0,False
+843,اديداس,اديداس,football_venue,25.4022101,49.5784937,al_ahsa,eastern_region,Eastern Region,3.7,122.0,False
+844,THE PADEL CLUB,THE PADEL CLUB,football_club,25.3765342,49.5665875,al_ahsa,eastern_region,Eastern Region,4.6,87.0,False
+845,بالم بادل الاحساء Palm Padel Alhasa,بالم بادل الاحساء Palm Padel Alhasa,football_venue,25.3867778,49.6309248,al_ahsa,eastern_region,Eastern Region,4.4,47.0,False
+846,Padel Block بادل بلوك,Padel Block بادل بلوك,football_venue,25.3854193,49.5787489,al_ahsa,eastern_region,Eastern Region,4.7,278.0,False
+847,بادل سنتر | Padel Center,بادل سنتر | Padel Center,football_venue,25.397701,49.621815,al_ahsa,eastern_region,Eastern Region,4.8,95.0,False
+848,Padel Bull ملاعب بادل بول,Padel Bull ملاعب بادل بول,football_venue,25.4275322,49.5956441,al_ahsa,eastern_region,Eastern Region,4.7,100.0,False
+849,بادل برو الأحساء ، Padel Pro hasa,بادل برو الأحساء ، Padel Pro hasa,football_venue,25.3672757,49.6827622,al_ahsa,eastern_region,Eastern Region,4.8,66.0,False
+850,Padel one (al-hasa) - بادل ون (الاحساء),Padel one (al-hasa) - بادل ون (الاحساء),football_venue,25.4613912,49.6054944,al_ahsa,eastern_region,Eastern Region,4.8,47.0,False
+851,بادل سكاي Padel Sky,بادل سكاي Padel Sky,football_venue,25.4008125,49.6573125,al_ahsa,eastern_region,Eastern Region,4.6,42.0,False
+852,بادل سول Padel soul,بادل سول Padel soul,football_venue,25.3312534,49.6598591,al_ahsa,eastern_region,Eastern Region,4.7,220.0,False
+853,4P ملاعب فور بي,4P ملاعب فور بي,football_venue,25.302386,49.6261564,al_ahsa,eastern_region,Eastern Region,4.6,63.0,False
+854,Padel roof | بادل روف,Padel roof | بادل روف,football_venue,25.4478125,49.5483125,al_ahsa,eastern_region,Eastern Region,3.3,46.0,False
+855,PADEL cave,PADEL cave,football_venue,25.4506575,49.5797735,al_ahsa,eastern_region,Eastern Region,4.8,71.0,False
+856,بادل شو - Padel Show,بادل شو - Padel Show,football_venue,25.2976548,49.5501838,al_ahsa,eastern_region,Eastern Region,4.8,81.0,False
+857,IN-ON Padel | ان اون بادل,IN-ON Padel | ان اون بادل,football_venue,25.3186924,49.6579026,al_ahsa,eastern_region,Eastern Region,4.7,70.0,False
+858,Opadel اوبادل,Opadel اوبادل,football_venue,25.3166468,49.6470015,al_ahsa,eastern_region,Eastern Region,4.6,35.0,False
+859,GRIP PADEL,GRIP PADEL,football_venue,25.3413598,49.5355953,al_ahsa,eastern_region,Eastern Region,4.6,43.0,False
+860,ايليت بادل Elite Padel,ايليت بادل Elite Padel,football_venue,25.3961131,49.6967713,al_ahsa,eastern_region,Eastern Region,5.0,24.0,False
+861,اكاديمية ستارز,اكاديمية ستارز,football_venue,26.5474035,50.0139378,qatif,eastern_region,Eastern Region,4.5,177.0,False
+862,ملاعب سوكر,ملاعب سوكر,football_venue,26.545731,50.0148776,qatif,eastern_region,Eastern Region,4.3,220.0,False
+863,ملعب الميادين,ملعب الميادين,outdoor_pitch,26.5595649,49.988547,qatif,eastern_region,Eastern Region,4.2,218.0,False
+864,ملاعب ستارز,ملاعب ستارز,football_venue,26.5473954,50.0138922,qatif,eastern_region,Eastern Region,4.4,413.0,False
+865,ملاعب نادي الترجي الرديفة- مدرسة البراعم لكرة القدم.,ملاعب نادي الترجي الرديفة- مدرسة البراعم لكرة القدم.,football_club,26.5645186,49.9999966,qatif,eastern_region,Eastern Region,4.1,30.0,False
+866,الملعب الأولمبي,الملعب الأولمبي,outdoor_pitch,26.5491908,49.9732889,qatif,eastern_region,Eastern Region,4.1,213.0,False
+867,ملعب الكرة المطورة,ملعب الكرة المطورة,outdoor_pitch,26.5381125,49.9947344,qatif,eastern_region,Eastern Region,4.2,60.0,False
+868,ملعب كرة القدم لنادي الخويلدية,ملعب كرة القدم لنادي الخويلدية,football_club,26.5457038,49.9954939,qatif,eastern_region,Eastern Region,4.9,10.0,False
+869,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.5507462,50.0214078,qatif,eastern_region,Eastern Region,3.7,9.0,False
+870,Spike sport center | مركز سبايك الرياضي,Spike sport center | مركز سبايك الرياضي,sports_complex,26.565088,50.0492634,qatif,eastern_region,Eastern Region,4.8,36.0,False
+871,ملعب النخبة,ملعب النخبة,outdoor_pitch,26.5721818,49.9817435,qatif,eastern_region,Eastern Region,4.2,75.0,False
+872,ملعب الأمير,ملعب الأمير,outdoor_pitch,26.5652022,50.0644213,qatif,eastern_region,Eastern Region,4.9,27.0,False
+873,ملعب الفرسان Al Fursan Soccer Field,ملعب الفرسان Al Fursan Soccer Field,outdoor_pitch,26.5713102,50.0583726,qatif,eastern_region,Eastern Region,3.8,114.0,False
+874,صدى الملاعب,صدى الملاعب,football_venue,26.5535924,49.9584131,qatif,eastern_region,Eastern Region,3.6,71.0,False
+875,ملعب قول أرينا,ملعب قول أرينا,outdoor_pitch,26.5277162,49.9906515,qatif,eastern_region,Eastern Region,4.1,114.0,False
+876,ملاعب نادي السلام السعودي,ملاعب نادي السلام السعودي,football_club,26.5919375,49.975147,qatif,eastern_region,Eastern Region,4.3,127.0,False
+877,ملاعب الراية لكرة القدم,ملاعب الراية لكرة القدم,football_venue,26.4997726,50.0112801,qatif,eastern_region,Eastern Region,4.1,456.0,False
+878,ملاعب نادي مضر الرياضي بالقديح,ملاعب نادي مضر الرياضي بالقديح,football_club,26.575066,49.9897584,qatif,eastern_region,Eastern Region,4.2,243.0,False
+879,ملعب المنيرة الرياضي لكرة القدم,ملعب المنيرة الرياضي لكرة القدم,outdoor_pitch,26.5742669,50.026943,qatif,eastern_region,Eastern Region,4.1,22.0,False
+880,ملعب كرة القدم نادي النور,ملعب كرة القدم نادي النور,stadium,26.579383,50.0817877,qatif,eastern_region,Eastern Region,3.9,107.0,False
+881,اكاديمية M7 لكرة القدم,اكاديمية M7 لكرة القدم,football_venue,26.5652816,50.0644042,qatif,eastern_region,Eastern Region,5.0,15.0,False
+882,أكاديمية اللاعب الموهوب,أكاديمية اللاعب الموهوب,football_academy,26.5462098,50.0150539,qatif,eastern_region,Eastern Region,5.0,2.0,False
+883,نادي وأكاديمية أوروم الرياضي,نادي وأكاديمية أوروم الرياضي,football_academy,26.5062286,50.0186166,qatif,eastern_region,Eastern Region,4.9,26.0,False
+884,الترا بادل UPA,الترا بادل UPA,football_venue,26.5455724,50.0175492,qatif,eastern_region,Eastern Region,4.1,135.0,False
+885,اكاديمية الولاء الرياضية,اكاديمية الولاء الرياضية,football_venue,26.4995355,50.0111887,qatif,eastern_region,Eastern Region,,,False
+886,أكاديمية موهوب لكرة القدم,أكاديمية موهوب لكرة القدم,football_academy,26.501947,50.0145007,qatif,eastern_region,Eastern Region,,,False
+887,نادي الأزهر الرياضي بحلة محيش,نادي الأزهر الرياضي بحلة محيش,football_club,26.5375375,49.9948594,qatif,eastern_region,Eastern Region,4.1,115.0,False
+888,نادي البحاري الرياضي,نادي البحاري الرياضي,football_club,26.5684721,49.9961915,qatif,eastern_region,Eastern Region,3.7,84.0,False
+889,نادي الإبتسام,نادي الإبتسام,football_club,26.51846,50.0020301,qatif,eastern_region,Eastern Region,4.1,298.0,False
+890,نادي المحيط السعودي,نادي المحيط السعودي,football_club,26.5376474,49.9815488,qatif,eastern_region,Eastern Region,4.4,383.0,False
+891,نادي الترجي السعودي بالجش,نادي الترجي السعودي بالجش,football_club,26.5047368,49.9796981,qatif,eastern_region,Eastern Region,4.3,95.0,False
+892,ملعب نادي الترجي - وسط القطيف,ملعب نادي الترجي - وسط القطيف,football_club,26.565164,50.0016992,qatif,eastern_region,Eastern Region,4.3,86.0,False
+893,ملاعب اتش اس سبورت HS Sport,ملاعب اتش اس سبورت HS Sport,football_venue,26.5734275,50.0726921,qatif,eastern_region,Eastern Region,4.7,67.0,False
+894,The REC Sports center | مركز ذا ريك الرياضي,The REC Sports center | مركز ذا ريك الرياضي,sports_complex,26.5641069,49.9807429,qatif,eastern_region,Eastern Region,4.7,172.0,False
+895,نادي التوبي,نادي التوبي,football_club,26.5565857,49.9971812,qatif,eastern_region,Eastern Region,4.6,79.0,False
+896,أكاديمية إس الرياضية | S Sport Academy - حي الشاطئ,أكاديمية إس الرياضية | S Sport Academy - حي الشاطئ,football_academy,26.5677109,50.0406014,qatif,eastern_region,Eastern Region,4.9,28.0,False
+897,ملعب سباير ٢ & ٣,ملعب سباير ٢ & ٣,outdoor_pitch,26.5203227,50.0110068,qatif,eastern_region,Eastern Region,4.0,127.0,False
+898,ملعب القوة العاشرة,ملعب القوة العاشرة,outdoor_pitch,26.5764849,49.9785088,qatif,eastern_region,Eastern Region,3.7,54.0,False
+899,مدينة الأمير نايف الرياضية,مدينة الأمير نايف الرياضية,football_venue,26.5070625,49.9781875,qatif,eastern_region,Eastern Region,4.4,909.0,False
+900,ملعب جمعية دارين,ملعب جمعية دارين,outdoor_pitch,26.5468854,50.0744452,qatif,eastern_region,Eastern Region,3.9,18.0,False
+901,الملعب الأخضر,الملعب الأخضر,outdoor_pitch,26.655202,49.9623884,qatif,eastern_region,Eastern Region,3.5,24.0,False
+902,منتزة الرامس - القطيف,منتزة الرامس - القطيف,football_venue,26.593811,49.9958269,qatif,eastern_region,Eastern Region,4.5,434.0,False
+903,power football club,power football club,football_club,26.5716866,50.0265864,qatif,eastern_region,Eastern Region,5.0,1.0,False
+904,العالم الرياضي,العالم الرياضي,football_venue,26.5326204,50.0277944,qatif,eastern_region,Eastern Region,4.9,550.0,False
+905,منشاة نادي الترجي الرياضي بالقطيف,منشاة نادي الترجي الرياضي بالقطيف,football_club,26.5046741,49.9797661,qatif,eastern_region,Eastern Region,4.2,94.0,False
+906,أرض الملعب للملابس الرياضيه - سبورت لاند للملابس الرياضيه,أرض الملعب للملابس الرياضيه - سبورت لاند للملابس الرياضيه,outdoor_pitch,26.5640054,50.0361134,qatif,eastern_region,Eastern Region,4.4,68.0,False
+907,نادي الساحل السعودي,نادي الساحل السعودي,football_club,26.5173169,50.0285813,qatif,eastern_region,Eastern Region,4.3,37.0,False
+908,Fifa Sportwear,Fifa Sportwear,football_venue,26.5683496,50.0096729,qatif,eastern_region,Eastern Region,4.2,20.0,False
+909,وايلد بادل,وايلد بادل,football_venue,26.5357472,50.0251763,qatif,eastern_region,Eastern Region,4.9,168.0,False
+910,P4 - Padel & More,P4 - Padel & More,football_venue,26.5406751,50.0074975,qatif,eastern_region,Eastern Region,4.2,117.0,False
+911,ذا ريك بادل,ذا ريك بادل,football_venue,26.5832616,50.0090718,qatif,eastern_region,Eastern Region,4.6,98.0,False
+912,G Padel - جي بادل,G Padel - جي بادل,football_venue,26.5848084,50.0512204,qatif,eastern_region,Eastern Region,4.8,70.0,False
+913,Padelset | بادل ست,Padelset | بادل ست,football_venue,26.5785042,50.0113509,qatif,eastern_region,Eastern Region,4.8,45.0,False
+914,Padel palm بالم بادل,Padel palm بالم بادل,football_venue,26.5170737,50.0042698,qatif,eastern_region,Eastern Region,4.3,46.0,False
+915,ملعب برشلونة,ملعب برشلونة,outdoor_pitch,28.4341749,45.9327403,hafar_al_batin,eastern_region,Eastern Region,4.6,48.0,False
+916,ملعب فيفا,ملعب فيفا,outdoor_pitch,28.434803,45.9320173,hafar_al_batin,eastern_region,Eastern Region,4.0,89.0,False
+917,ملعب راكان الحربي,ملعب راكان الحربي,outdoor_pitch,28.4368809,45.9280698,hafar_al_batin,eastern_region,Eastern Region,4.9,32.0,False
+918,ملعب العزيزيه,ملعب العزيزيه,outdoor_pitch,28.3777487,46.0005778,hafar_al_batin,eastern_region,Eastern Region,4.1,105.0,False
+919,اكاديمية فيصل الدخيل الرياضية,اكاديمية فيصل الدخيل الرياضية,football_venue,28.4349682,45.9325535,hafar_al_batin,eastern_region,Eastern Region,4.0,95.0,False
+920,ملعب خربوش,ملعب خربوش,outdoor_pitch,28.4112648,45.9537258,hafar_al_batin,eastern_region,Eastern Region,4.2,60.0,False
+921,ملعب المحمدية,ملعب المحمدية,outdoor_pitch,28.3722739,45.9898877,hafar_al_batin,eastern_region,Eastern Region,3.8,71.0,False
+922,ملعب السلام,ملعب السلام,outdoor_pitch,28.4113831,45.9534907,hafar_al_batin,eastern_region,Eastern Region,4.4,23.0,False
+923,ملعب الشرق,ملعب الشرق,outdoor_pitch,28.4342218,45.9864482,hafar_al_batin,eastern_region,Eastern Region,4.5,11.0,False
+924,ملعب دوري الابطال,ملعب دوري الابطال,outdoor_pitch,28.434106,45.9327187,hafar_al_batin,eastern_region,Eastern Region,4.1,57.0,False
+925,ملعب فريق الأمجاد لكرة القدم .,ملعب فريق الأمجاد لكرة القدم .,outdoor_pitch,28.4614105,45.9784295,hafar_al_batin,eastern_region,Eastern Region,3.5,8.0,False
+926,ملعب المونديال,ملعب المونديال,outdoor_pitch,28.4097735,45.9352906,hafar_al_batin,eastern_region,Eastern Region,4.2,23.0,False
+927,أكاديمية حفر الباطن,أكاديمية حفر الباطن,football_academy,28.4101115,45.9361513,hafar_al_batin,eastern_region,Eastern Region,4.4,11.0,False
+928,مجمع الهدف الرياضي,مجمع الهدف الرياضي,sports_complex,28.4099414,45.9364135,hafar_al_batin,eastern_region,Eastern Region,4.1,465.0,False
+929,ملعب امانة الحفر,ملعب امانة الحفر,outdoor_pitch,28.3986771,45.9139614,hafar_al_batin,eastern_region,Eastern Region,4.1,19.0,False
+930,ملعب فريق الاختيار,ملعب فريق الاختيار,outdoor_pitch,28.3871527,45.9391661,hafar_al_batin,eastern_region,Eastern Region,4.8,4.0,False
+931,بادل دوز | PADEL DOSE,بادل دوز | PADEL DOSE,football_venue,28.3783256,46.0040658,hafar_al_batin,eastern_region,Eastern Region,4.6,75.0,False
+932,ملعب دوري الابطال2,ملعب دوري الابطال2,outdoor_pitch,28.4347373,45.9313671,hafar_al_batin,eastern_region,Eastern Region,5.0,3.0,False
+933,ملعب المبارك,ملعب المبارك,outdoor_pitch,28.4084551,45.9397516,hafar_al_batin,eastern_region,Eastern Region,4.2,90.0,False
+934,ملعب درة الباطن,ملعب درة الباطن,outdoor_pitch,28.4573019,46.0078913,hafar_al_batin,eastern_region,Eastern Region,3.4,50.0,False
+935,ملعب صدى الملاعب,ملعب صدى الملاعب,stadium,28.4435608,45.9183159,hafar_al_batin,eastern_region,Eastern Region,3.6,42.0,False
+936,أكاديمية السيلساو لكرة القدم,أكاديمية السيلساو لكرة القدم,football_academy,28.4341501,45.9324882,hafar_al_batin,eastern_region,Eastern Region,1.0,1.0,False
+937,اكاديمية لشبونة لكرة القدمية الهدف الرياضي,اكاديمية لشبونة لكرة القدمية الهدف الرياضي,football_venue,28.4089413,45.9396144,hafar_al_batin,eastern_region,Eastern Region,5.0,2.0,False
+938,أكاديمية النجم الرياضية,أكاديمية النجم الرياضية,football_academy,28.4343065,45.9326537,hafar_al_batin,eastern_region,Eastern Region,4.3,6.0,False
+939,أكاديمية المحترف,أكاديمية المحترف,football_academy,28.4065685,45.9289851,hafar_al_batin,eastern_region,Eastern Region,4.4,16.0,False
+940,أكاديمية R2 الرياضية,أكاديمية R2 الرياضية,football_academy,28.4110734,45.9535334,hafar_al_batin,eastern_region,Eastern Region,5.0,7.0,False
+941,أكاديمية,أكاديمية,football_academy,28.4096715,45.9352052,hafar_al_batin,eastern_region,Eastern Region,5.0,3.0,False
+942,ملعب تدريب فريق الأمجاد لكرة القدم,ملعب تدريب فريق الأمجاد لكرة القدم,outdoor_pitch,28.4573814,45.9819222,hafar_al_batin,eastern_region,Eastern Region,3.1,11.0,False
+943,اكاديمية البطل,اكاديمية البطل,football_venue,28.4341274,45.9329998,hafar_al_batin,eastern_region,Eastern Region,3.8,4.0,False
+944,مركز تمرين الرياضي,مركز تمرين الرياضي,sports_complex,28.4009312,45.9828995,hafar_al_batin,eastern_region,Eastern Region,4.5,1153.0,False
+945,نادي الحي الترفيهي التعليمي بمركز النشاط الطلابي,نادي الحي الترفيهي التعليمي بمركز النشاط الطلابي,football_club,28.4276136,45.9727567,hafar_al_batin,eastern_region,Eastern Region,4.9,17.0,False
+946,مركز وقت إضافي الرياضي,مركز وقت إضافي الرياضي,sports_complex,28.3990423,45.9856145,hafar_al_batin,eastern_region,Eastern Region,3.8,222.0,False
+947,مركز أبطال المملكة الرياضي,مركز أبطال المملكة الرياضي,sports_complex,28.3960377,45.9711051,hafar_al_batin,eastern_region,Eastern Region,4.0,143.0,False
+948,جوهرة اللياقة للرياضة النسائيه,جوهرة اللياقة للرياضة النسائيه,football_venue,28.4072898,45.9607913,hafar_al_batin,eastern_region,Eastern Region,4.2,364.0,False
+949,نادي الباطن السعودي,نادي الباطن السعودي,football_club,28.4484456,46.0746666,hafar_al_batin,eastern_region,Eastern Region,4.1,395.0,False
+950,بودي ماسترز - حفرالباطن,بودي ماسترز - حفرالباطن,football_venue,28.392302,45.964252,hafar_al_batin,eastern_region,Eastern Region,4.0,599.0,False
+951,ملعب تدريب فريق الأمجاد لكرة القدم,ملعب تدريب فريق الأمجاد لكرة القدم,outdoor_pitch,28.4545048,45.982697,hafar_al_batin,eastern_region,Eastern Region,3.7,3.0,False
+952,نادي سنام الرياضي ، sanam gym,نادي سنام الرياضي ، sanam gym,football_club,28.4321917,45.9758386,hafar_al_batin,eastern_region,Eastern Region,3.8,5.0,False
+953,كول بادل cool padel,كول بادل cool padel,football_venue,28.4174479,45.9331983,hafar_al_batin,eastern_region,Eastern Region,4.7,56.0,False
+954,ملعب الربوة,ملعب الربوة,outdoor_pitch,28.406721,45.9290367,hafar_al_batin,eastern_region,Eastern Region,4.0,23.0,False
+955,ملعب ادارة التعليم بحفر الباطن,ملعب ادارة التعليم بحفر الباطن,outdoor_pitch,28.4405155,46.0561836,hafar_al_batin,eastern_region,Eastern Region,3.1,12.0,False
+956,متجر برشلونة فرع حفرالباطن,متجر برشلونة فرع حفرالباطن,football_venue,28.4100049,45.9561414,hafar_al_batin,eastern_region,Eastern Region,3.9,111.0,False
+957,نادي مدينة القوة الرياضي ( جيم _ GYM),نادي مدينة القوة الرياضي ( جيم _ GYM),football_club,28.4226477,45.9726786,hafar_al_batin,eastern_region,Eastern Region,4.6,37.0,False
+958,سبورت FB,سبورت FB,football_venue,28.4145724,45.9719014,hafar_al_batin,eastern_region,Eastern Region,4.5,15.0,False
+959,نادي فتنس تارقت النسائي - Fitness Target Ladies Gym - هدف اللياقة,نادي فتنس تارقت النسائي - Fitness Target Ladies Gym - هدف اللياقة,football_club,28.4060842,45.9555182,hafar_al_batin,eastern_region,Eastern Region,4.4,524.0,False
+960,Fitness Time Pro | وقت اللياقة برو,Fitness Time Pro | وقت اللياقة برو,football_venue,28.389697,45.985178,hafar_al_batin,eastern_region,Eastern Region,4.3,768.0,False
+961,صدى الملاعب للملابس الرياضيه,صدى الملاعب للملابس الرياضيه,football_venue,28.4106078,45.9768466,hafar_al_batin,eastern_region,Eastern Region,3.7,40.0,False
+962,FIVE’S5 - فايفز,FIVE’S5 - فايفز,football_venue,28.4017612,45.9656234,hafar_al_batin,eastern_region,Eastern Region,4.7,39.0,False
+963,Go Padel | قو بادل,Go Padel | قو بادل,football_venue,28.4191024,45.9941781,hafar_al_batin,eastern_region,Eastern Region,4.2,35.0,False
+964,بادل كابيتل Padel capital,بادل كابيتل Padel capital,football_venue,28.4113556,45.9772893,hafar_al_batin,eastern_region,Eastern Region,4.5,24.0,False
+965,padel break,padel break,football_venue,28.4112371,45.9259388,hafar_al_batin,eastern_region,Eastern Region,4.2,22.0,False
+966,ملعب ارينا الجبيل,ملعب ارينا الجبيل,outdoor_pitch,26.9927552,49.6262645,jubail,eastern_region,Eastern Region,4.4,251.0,False
+967,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,27.010971,49.6557918,jubail,eastern_region,Eastern Region,5.0,4.0,False
+1976,الملعب,الملعب,outdoor_pitch,29.855707,40.2137224,sakaka,al-jouf_region,Al-Jouf,5.0,2.0,False
+968,ملعب كُرة قدم,ملعب كُرة قدم,outdoor_pitch,26.9973074,49.6636976,jubail,eastern_region,Eastern Region,4.7,6.0,False
+969,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,27.1621495,49.5719071,jubail,eastern_region,Eastern Region,4.7,18.0,False
+970,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.9674943,49.6763265,jubail,eastern_region,Eastern Region,4.0,17.0,False
+971,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.9655669,49.6820996,jubail,eastern_region,Eastern Region,4.4,22.0,False
+972,ملعب البري بالجبيل,ملعب البري بالجبيل,outdoor_pitch,26.9546267,49.6398675,jubail,eastern_region,Eastern Region,4.1,75.0,False
+973,"football ground in jubail (ملعب كرة القدم),jubail","football ground in jubail (ملعب كرة القدم),jubail",outdoor_pitch,26.9543189,49.6438034,jubail,eastern_region,Eastern Region,3.0,1.0,False
+974,ملاعب الخنيني,ملاعب الخنيني,football_venue,26.9946797,49.6239258,jubail,eastern_region,Eastern Region,4.1,226.0,False
+975,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,27.1355101,49.5540252,jubail,eastern_region,Eastern Region,4.5,12.0,False
+976,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.9677692,49.6771653,jubail,eastern_region,Eastern Region,3.9,9.0,False
+977,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.9501907,49.6944468,jubail,eastern_region,Eastern Region,3.0,5.0,False
+978,ملعب هاتريك لكرة قدم,ملعب هاتريك لكرة قدم,outdoor_pitch,27.0996221,49.5740726,jubail,eastern_region,Eastern Region,4.3,19.0,False
+979,ملاعب الجبيل التشامبيونز,ملاعب الجبيل التشامبيونز,football_venue,26.8957742,49.7365607,jubail,eastern_region,Eastern Region,3.8,51.0,False
+980,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.9292936,49.7274685,jubail,eastern_region,Eastern Region,3.8,13.0,False
+981,Zhf Stadium Jubail,Zhf Stadium Jubail,stadium,27.0042986,49.6252502,jubail,eastern_region,Eastern Region,3.7,3.0,False
+982,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.9138725,49.7571276,jubail,eastern_region,Eastern Region,3.8,17.0,False
+983,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.9035658,49.7556686,jubail,eastern_region,Eastern Region,3.9,33.0,False
+984,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,26.9348327,49.7187748,jubail,eastern_region,Eastern Region,5.0,5.0,False
+985,ملعب كرة قدم,ملعب كرة قدم,outdoor_pitch,27.1715775,49.5751666,jubail,eastern_region,Eastern Region,4.7,3.0,False
+986,King Abdul Aziz Football Stadium,King Abdul Aziz Football Stadium,stadium,26.9343653,49.7179142,jubail,eastern_region,Eastern Region,4.0,21.0,False
+987,اكاديمية الابطال الدوليين الرياضية international champions sports Academy,اكاديمية الابطال الدوليين الرياضية international champions sports Academy,football_academy,27.0011462,49.6495312,jubail,eastern_region,Eastern Region,4.7,206.0,False
+988,نادي الجبيل الرياضي,نادي الجبيل الرياضي,football_club,26.9944914,49.6565591,jubail,eastern_region,Eastern Region,4.2,197.0,False
+989,مركز الحزام الدولي الرياضي,مركز الحزام الدولي الرياضي,sports_complex,26.9915919,49.6529658,jubail,eastern_region,Eastern Region,5.0,2.0,False
+990,Alfalah Sports Arena,Alfalah Sports Arena,football_venue,26.9567001,49.6430027,jubail,eastern_region,Eastern Region,4.3,23.0,False

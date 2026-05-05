@@ -1,0 +1,14 @@
+region_id,region_name_en,population,pa_women_pct,gender_gap_pp,estimated_inactive_women_18plus,women_halls_per_100k,pitches_per_10k,investment_tier,tier_label
+riyadh_region,Riyadh,9426231,45.83,21.3,1393377,5.33,0.232,2,Tier 2: scale
+makkah_region,Makkah,8524663,48.66,30.4,1194276,3.11,0.233,2,Tier 2: scale
+eastern_region,Eastern Region,5623050,37.25,19.9,962847,3.33,0.562,1,Tier 1: primary
+jizan_region,Jizan,1541458,42.18,25.1,243210,3.57,0.655,2,Tier 2: candidate
+qassim_region,Qassim,1465956,40.83,22.5,236698,2.73,0.784,2,Tier 2: candidate
+madinah_region,Madinah,2345637,35.96,20.8,409906,1.19,0.435,1,Tier 1: primary
+aseer_region,Aseer,2220896,38.02,16.8,375622,1.26,0.527,1,Tier 1: primary
+tabuk_region,Tabuk,972093,43.18,33.7,150723,2.37,0.576,3,Tier 3: defer
+hail_region,Hail,818901,42.43,29.2,128647,1.71,0.684,3,Tier 3: defer
+al-baha_region,Al-Baha,372116,34.73,18.1,66277,2.96,1.182,3,Tier 3: defer
+al-jouf_region,Al-Jouf,653691,36.25,26.8,113717,1.53,0.581,3,Tier 3: defer
+najran_region,Najran,649827,42.43,26.6,102086,1.23,0.723,3,Tier 3: defer
+northern_borders_region,Northern Borders,409861,41.89,32.8,64992,0.98,1.074,3,Tier 3: defer

@@ -1,0 +1,4 @@
+category,share_point_pct,share_low_pct,share_high_pct,facilities_point,facilities_low,facilities_high,notes,created_at
+public,37.3,31.7,42.9,745,633,858,Stratified estimate from n=106 hand-coded sample. Unclear (19.8% of sample) allocated proportionally to public/commercial within stratum. 95% CI uses stratified sampling variance with finite population correction.,2026-05-02T19:16:15.975466+00:00
+commercial,51.9,46.1,57.8,1037,920,1154,"Includes branded academies (almost 100% of academies sampled), padel-specific venues, branded pitch businesses.",2026-05-02T19:16:15.975466+00:00
+mixed,10.7,7.2,14.3,214,143,286,Football clubs (which run public-access matches AND paid academies). Sports complexes that are government-owned but offer paid programmes. Stadiums with hybrid use.,2026-05-02T19:16:15.975466+00:00

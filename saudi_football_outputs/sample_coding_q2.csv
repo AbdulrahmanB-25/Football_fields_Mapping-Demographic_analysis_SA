@@ -1,0 +1,107 @@
+facility_id,facility_type,region_id,name_ar,category,rationale,coded_at
+342,football_academy,makkah_region,أكاديمية افق,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+521,football_academy,makkah_region,أكاديمية فارس,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+1035,football_academy,madinah_region,أكاديمية امجاد طيبة,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+1175,football_academy,qassim_region,أكاديمية إكس فور الرياضية,commercial,Branded private academy (English brand X4),2026-05-02T19:15:11.109279+00:00
+1237,football_academy,qassim_region,أكاديمية الاسطورة,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+1253,football_academy,qassim_region,أكاديمية الموهوبين بعنيزة,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+1276,football_academy,qassim_region,أكاديمية TO34 الرياضية,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+1315,football_academy,aseer_region,أكاديمية المحترف فرع أبها ( بنين ),commercial,Branded chain academy with branch network,2026-05-02T19:15:11.109279+00:00
+1393,football_academy,aseer_region,أكاديمية مواهب الجنوب لكرة القدم,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+1494,football_academy,tabuk_region,أكاديمية الكاسر الرياضية,commercial,Branded private academy (SAFF-accredited),2026-05-02T19:15:11.109279+00:00
+1572,football_academy,hail_region,أكاديمية فارس,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+1712,football_academy,jizan_region,أكاديمية الليث الأبيض الرياضية بصبيا مقابل بلدية صبيا,commercial,Branded private academy (SAFF-accredited),2026-05-02T19:15:11.109279+00:00
+319,football_club,makkah_region,ملعب نادي الإتحاد,mixed,Al-Ittihad official club ground; public-access matches + paid academy,2026-05-02T19:15:11.109279+00:00
+358,football_club,makkah_region,ملعب نادي السد الرياضي بجدة,mixed,Sports club facility; standard mixed-access pattern,2026-05-02T19:15:11.109279+00:00
+404,football_club,makkah_region,Private Padel Club,commercial,"Name explicitly ""private""; padel = pay-per-hour",2026-05-02T19:15:11.109279+00:00
+505,football_club,makkah_region,نادي وج الرياضي,mixed,"Local sports club, mixed access",2026-05-02T19:15:11.109279+00:00
+895,football_club,eastern_region,نادي التوبي,mixed,Local sports club,2026-05-02T19:15:11.109279+00:00
+957,football_club,eastern_region,نادي مدينة القوة الرياضي ( جيم _ GYM),commercial,"Branded as GYM, commercial fitness",2026-05-02T19:15:11.109279+00:00
+1074,football_club,madinah_region,نادي أبطال المدينة,mixed,Local sports club,2026-05-02T19:15:11.109279+00:00
+1292,football_club,qassim_region,صالة نادي الحزم للالعاب الرياضية,mixed,Al-Hazem club hall; club facility,2026-05-02T19:15:11.109279+00:00
+1416,football_club,aseer_region,نادي الخميس الرياضي,mixed,Local sports club,2026-05-02T19:15:11.109279+00:00
+1595,football_club,hail_region,نادي الحي بمجمع المعهد العلمي,public,Neighborhood club at education complex (نادي الحي = community club),2026-05-02T19:15:11.109279+00:00
+1634,football_club,northern_borders_region,نادي المساعدية الرياضي فرع الريان,mixed,Branch of municipal sports club,2026-05-02T19:15:11.109279+00:00
+1969,football_club,al-jouf_region,نادي القلعة بالجوف,mixed,Local sports club,2026-05-02T19:15:11.109279+00:00
+62,football_venue,riyadh_region,قوة | QWH الندى,commercial,Branded venue,2026-05-02T19:15:11.109279+00:00
+85,football_venue,riyadh_region,ملاعب المستطيل الأخضر,commercial,"Branded pitch business ""Green Rectangle Fields""",2026-05-02T19:15:11.109279+00:00
+101,football_venue,riyadh_region,Football turf,commercial,English-named pay-per-hour pitch,2026-05-02T19:15:11.109279+00:00
+124,football_venue,riyadh_region,ملاعب الاسطورة,commercial,Branded pitch business,2026-05-02T19:15:11.109279+00:00
+140,football_venue,riyadh_region,اكاديمية اهدافي الرياضية,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+202,football_venue,riyadh_region,أحد مرافق الحديقة الجدارية بمحافظة الدوادمي,public,Public park facility (الحديقة),2026-05-02T19:15:11.109279+00:00
+225,football_venue,riyadh_region,سنام بارك,commercial,Branded commercial park,2026-05-02T19:15:11.109279+00:00
+264,football_venue,riyadh_region,واجهة اللعب,commercial,Branded venue,2026-05-02T19:15:11.109279+00:00
+280,football_venue,riyadh_region,شقراء بادل ارينا,commercial,"Padel arena, pay-per-hour",2026-05-02T19:15:11.109279+00:00
+303,football_venue,riyadh_region,بوابة وادي الدواسر,unclear,"Generic name, no business or public marker",2026-05-02T19:15:11.109279+00:00
+482,football_venue,makkah_region,بادل ماب,commercial,Padel-specific venue,2026-05-02T19:15:11.109279+00:00
+498,football_venue,makkah_region,بصمة البادل | Bsmt Alpadel,commercial,Padel-specific venue,2026-05-02T19:15:11.109279+00:00
+537,football_venue,makkah_region,ملاعب كرة قدم,unclear,"Generic ""football pitches"" — no signal",2026-05-02T19:15:11.109279+00:00
+560,football_venue,makkah_region,حديقة الخالدية,public,Public park (حديقة),2026-05-02T19:15:11.109279+00:00
+599,football_venue,eastern_region,ملاعب z7 لكرة القدم و البادل,commercial,Branded venue (z7),2026-05-02T19:15:11.109279+00:00
+638,football_venue,eastern_region,Epark Sport,commercial,Branded English-named venue,2026-05-02T19:15:11.109279+00:00
+661,football_venue,eastern_region,هنا بتوع ابو غنيمه شالوا خمسه,unclear,"Slang nickname, unclear",2026-05-02T19:15:11.109279+00:00
+700,football_venue,eastern_region,Football ⚽,unclear,"Generic name, no signal",2026-05-02T19:15:11.109279+00:00
+739,football_venue,eastern_region,Padel Hit,commercial,Padel-specific venue,2026-05-02T19:15:11.109279+00:00
+778,football_venue,eastern_region,كانيون رود باديل كورت,commercial,Padel court,2026-05-02T19:15:11.109279+00:00
+801,football_venue,eastern_region,اكاديمية مواهب الاحساء,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+840,football_venue,eastern_region,Black Padel بلاك بادل,commercial,Padel-specific venue,2026-05-02T19:15:11.109279+00:00
+856,football_venue,eastern_region,بادل شو - Padel Show,commercial,Padel-specific venue,2026-05-02T19:15:11.109279+00:00
+1019,football_venue,madinah_region,ملاعب فيفا,commercial,"Branded ""FIFA pitches""",2026-05-02T19:15:11.109279+00:00
+1058,football_venue,madinah_region,Rabwah F.C,commercial,Branded FC venue,2026-05-02T19:15:11.109279+00:00
+1113,football_venue,madinah_region,اكاديميه مهد الاحتراف الرياضيه,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+1198,football_venue,qassim_region,اكاديمية الفارس,commercial,Branded private academy,2026-05-02T19:15:11.109279+00:00
+1214,football_venue,qassim_region,بادل لاند,commercial,Padel land — branded padel,2026-05-02T19:15:11.109279+00:00
+1354,football_venue,aseer_region,المشهد,unclear,"Generic name, unclear",2026-05-02T19:15:11.109279+00:00
+1471,football_venue,tabuk_region,ملاعب النخبة,commercial,"Branded ""Elite Pitches""",2026-05-02T19:15:11.109279+00:00
+1533,football_venue,tabuk_region,ساعة الليقط,unclear,"Local nickname, unclear",2026-05-02T19:15:11.109279+00:00
+1611,football_venue,hail_region,ملاعب تنس,unclear,"Generic ""tennis courts"" — likely commercial but no brand",2026-05-02T19:15:11.109279+00:00
+1751,football_venue,jizan_region,صبيا المروج,unclear,Generic place name,2026-05-02T19:15:11.109279+00:00
+1829,football_venue,najran_region,الملاعب الستة,unclear,"Generic ""the six pitches""",2026-05-02T19:15:11.109279+00:00
+1891,football_venue,al-baha_region,مدينة الملك سعود الرياضية بالباحة,public,King Saud Sports City — government-owned,2026-05-02T19:15:11.109279+00:00
+676,indoor_pitch,eastern_region,Palmera Padel (indoor) (ملاعب داخلية) بالميرا بادل,commercial,Branded indoor padel,2026-05-02T19:15:11.109279+00:00
+827,indoor_pitch,eastern_region,صالة القوة الرياضية,commercial,Branded sports hall,2026-05-02T19:15:11.109279+00:00
+1117,indoor_pitch,madinah_region,صالة اللياقة والقوة النسائية,commercial,Women fitness hall — commercial,2026-05-02T19:15:11.109279+00:00
+1450,indoor_pitch,aseer_region,مركز اتحاد صالات الشلهوب الرياضية بمحافظة بيشة,commercial,Branded chain (Shalhoub) sports halls,2026-05-02T19:15:11.109279+00:00
+1451,indoor_pitch,aseer_region,صالة الشلهوب,commercial,Branded chain Shalhoub,2026-05-02T19:15:11.109279+00:00
+163,outdoor_pitch,riyadh_region,ملعب البرشا,public,Generic neighborhood pitch,2026-05-02T19:15:11.109279+00:00
+179,outdoor_pitch,riyadh_region,ملعب الديرة لكرة القدم,public,Neighborhood pitch (الديرة = the village),2026-05-02T19:15:11.109279+00:00
+241,outdoor_pitch,riyadh_region,ملعب رياضي,unclear,"Generic ""sports pitch""",2026-05-02T19:15:11.109279+00:00
+381,outdoor_pitch,makkah_region,STC Play Ground,public,STC corporate-funded but public-access pitch,2026-05-02T19:15:11.109279+00:00
+420,outdoor_pitch,makkah_region,ملعب الأسطورة لكرة القدم,commercial,"Branded ""Legend Pitch""",2026-05-02T19:15:11.109279+00:00
+459,outdoor_pitch,makkah_region,ملعب الاولمبي,unclear,"Generic ""Olympic pitch""",2026-05-02T19:15:11.109279+00:00
+677,outdoor_pitch,eastern_region,ملعب كرة قدم,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+716,outdoor_pitch,eastern_region,ملعب مدرسة متوسطة الاسكان,public,School pitch (مدرسة),2026-05-02T19:15:11.109279+00:00
+879,outdoor_pitch,eastern_region,ملعب المنيرة الرياضي لكرة القدم,public,Neighborhood pitch,2026-05-02T19:15:11.109279+00:00
+918,outdoor_pitch,eastern_region,ملعب العزيزيه,public,Neighborhood pitch,2026-05-02T19:15:11.109279+00:00
+934,outdoor_pitch,eastern_region,ملعب درة الباطن,public,Neighborhood pitch,2026-05-02T19:15:11.109279+00:00
+980,outdoor_pitch,eastern_region,ملعب كرة قدم,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+996,outdoor_pitch,eastern_region,ملعب كرة قدم,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+1097,outdoor_pitch,madinah_region,ملعب كرة قدم,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+1159,outdoor_pitch,qassim_region,ملعب البلدية ( أ ),public,Municipal pitch (البلدية),2026-05-02T19:15:11.109279+00:00
+1338,outdoor_pitch,aseer_region,ملعب قدم,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+1377,outdoor_pitch,aseer_region,ملعب كرة قدم,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+1432,outdoor_pitch,aseer_region,ملعب جامعة بيشة,public,University pitch (جامعة),2026-05-02T19:15:11.109279+00:00
+1455,outdoor_pitch,aseer_region,ملعب كرة قدم,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+1556,outdoor_pitch,hail_region,ملعب قرينتا,public,Neighborhood pitch,2026-05-02T19:15:11.109279+00:00
+1650,outdoor_pitch,northern_borders_region,ملعب العصّام,public,Neighborhood pitch,2026-05-02T19:15:11.109279+00:00
+1673,outdoor_pitch,northern_borders_region,ملعب كرة,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+1689,outdoor_pitch,jizan_region,ملعب كرة قدم,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+1735,outdoor_pitch,jizan_region,ملعب الفقهاء,public,Neighborhood pitch,2026-05-02T19:15:11.109279+00:00
+1774,outdoor_pitch,jizan_region,ملعب العشة,public,Neighborhood pitch,2026-05-02T19:15:11.109279+00:00
+1790,outdoor_pitch,jizan_region,ملعب فريق الصاروخ أبو عريش,public,Local team pitch,2026-05-02T19:15:11.109279+00:00
+1813,outdoor_pitch,jizan_region,ملعب فريق الصقور,public,Local team pitch,2026-05-02T19:15:11.109279+00:00
+1852,outdoor_pitch,najran_region,ملعب إكسترا طريق الملك عبدالله,commercial,"Branded ""Extra"" on King Abdullah Road",2026-05-02T19:15:11.109279+00:00
+1868,outdoor_pitch,najran_region,ملعب شرورة الرياضي,public,Neighborhood pitch (Sharurah),2026-05-02T19:15:11.109279+00:00
+1914,outdoor_pitch,al-baha_region,ملعب كرة قدم,unclear,Generic,2026-05-02T19:15:11.109279+00:00
+1953,outdoor_pitch,al-jouf_region,ملعب الملكي,public,"Neighborhood pitch (""Royal Pitch"")",2026-05-02T19:15:11.109279+00:00
+1992,outdoor_pitch,al-jouf_region,ملعب مدرسة معاذ بن جبل الابتدائية,public,School pitch (مدرسة),2026-05-02T19:15:11.109279+00:00
+271,sports_complex,riyadh_region,مركز جميع الأوقات الرياضي,commercial,"Branded ""All Times Sports Centre""",2026-05-02T19:15:11.109279+00:00
+294,sports_complex,riyadh_region,مركز سيليا الرياضي النسائي,commercial,Branded womens sports centre,2026-05-02T19:15:11.109279+00:00
+870,sports_complex,eastern_region,Spike sport center | مركز سبايك الرياضي,commercial,Branded English/Arabic,2026-05-02T19:15:11.109279+00:00
+1136,sports_complex,madinah_region,بادل - مركز ناجي الرياضي,commercial,Branded padel/sports centre,2026-05-02T19:15:11.109279+00:00
+1937,sports_complex,al-baha_region,مركز الأمير الرياضي,mixed,Government Prince Sports Centre — likely public-access with paid programmes,2026-05-02T19:15:11.109279+00:00
+23,stadium,riyadh_region,ملعب عالم الكرة,commercial,"Branded ""World of Football""",2026-05-02T19:15:11.109279+00:00
+69,stadium,riyadh_region,ملعب كرة القدم لأهل الحي,public,Neighborhood community pitch,2026-05-02T19:15:11.109279+00:00
+388,stadium,makkah_region,استاد جامعة الملك عبدالعزيز الرياضي,public,King Abdulaziz University Stadium,2026-05-02T19:15:11.109279+00:00
+817,stadium,eastern_region,استاد نادي هجر,mixed,Hajer FC stadium — club-owned,2026-05-02T19:15:11.109279+00:00
+1930,stadium,al-baha_region,استاد حزنة الرياضي,public,Government-owned regional stadium,2026-05-02T19:15:11.109279+00:00

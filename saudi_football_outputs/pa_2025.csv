@@ -1,0 +1,14 @@
+region_id,pa_total_2025,pa_women_2025_est,pa_men_2025_est,gender_gap_pp,source,notes,created_at
+riyadh_region,0.5901,0.4583,0.6706,21.3,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+makkah_region,0.6761,0.4866,0.7913,30.4,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+madinah_region,0.4885,0.3596,0.5672,20.8,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+qassim_region,0.548,0.4083,0.6332,22.5,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+eastern_region,0.4968,0.3725,0.5727,19.9,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+aseer_region,0.4841,0.3802,0.5475,16.8,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+tabuk_region,0.6412,0.4318,0.7691,33.7,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+hail_region,0.6051,0.4243,0.7155,29.2,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+northern_borders_region,0.6227,0.4189,0.7471,32.8,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+jizan_region,0.5781,0.4218,0.6735,25.1,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+najran_region,0.5892,0.4243,0.69,26.6,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+al-baha_region,0.4594,0.3473,0.5278,18.1,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00
+al-jouf_region,0.5291,0.3625,0.6308,26.8,"GASTAT PA Statistics 2025 (regional total) + Household Sports Survey 2021 (gender split, calibrated to 2025 national women anchor)",,2026-05-02T17:45:51.533872+00:00

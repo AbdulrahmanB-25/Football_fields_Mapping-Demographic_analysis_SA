@@ -1,0 +1,9 @@
+source_table,records,source,recency,pct_complete,confidence,notes
+facilities,1997,Google Places API,2026-04,96.3,High,Coverage strong; phone/website blank (collector run without --details flag)
+regional_demographics,13,GASTAT Census 2022 + 2024 estimates (citypopulation.de mirror),2024,100.0,High,Calibrated to GASTAT national totals
+regional_pa_2025,13,GASTAT Physical Activity 2025 + 2021 Sports Practice Survey,2025,100.0,Medium-High,Women PA per region is hybrid estimate (2025 total × 2021 within-region gender ratio)
+saff_accredited,69,SAFF Accredited Clubs & Academies PDF (Oct 2023),2023-10,100.0,Medium,OCR from PDF zip; only 32% match facilities table; SAFF list itself appears partial
+regional_women_facilities,13,MOS Open Data (الصالات والمراكز الرياضية),2024,100.0,High,"MOS reports 1,175 women halls nationally"
+q2_sample_coding,106,Hand-coded by Claude from facility names,2026-05,80.2,Medium,"19.8% raw ""unclear"" allocated proportionally; ±5pp 95% CI overall"
+q3_pitch_deserts,15,Geospatial computation on facilities lat/lng,2026-05,100.0,Medium-High,Convex hull approach with 1km buffer; Euclidean (not network) distance
+q9_correlations,7,Computed from regional_master,2026-05,100.0,Medium,"Coarse n=13; trends valid, point estimates wide CI"

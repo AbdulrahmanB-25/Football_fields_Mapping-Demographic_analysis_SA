@@ -1,0 +1,70 @@
+id,name_ar,email,membership_type,club_type,source_region_ar,target_region_id,matched_facility_id,match_score,match_type,notes,created_at
+1,نادي النجم الأزرق الرياضي,matloy@hotmail.com,نادي تجاري,نادي كرة قدم رجالي,حفر الباطن,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+2,نادي المدرسة الأسبانية,naifiphone2@icloud.com,نادي تجاري,نادي كرة قدم رجالي,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+3,نادي مواهب جدة,mahmeed1289@gmail.com,نادي تجاري,نادي كرة قدم عشبي,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+4,نادي الفضل الرياضي,fudoolsociety@gmail.com,نادي تجاري,نادي كرة قدم رجالي,الاحساء,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+5,نادي مجد القنفذة,magd.qnftha@gmail.com,نادي تجاري,نادي كرة قدم رجالي,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+6,نادي شباب طيبة الرياضي,alfarsi880@gmail.com,نادي تجاري,نادي كرة قدم رجالي,المدينة المنورة,madinah_region,,,,,2026-05-02T17:55:42.699146+00:00
+7,نادي شباب طيبة الرياضي,Taa@atheeb.sa,نادي تجاري,نادي كرة قدم رجالي,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+8,نادي المخواة الرياضي,almkhwahnady@gmail.com,نادي تجاري,نادي كرة قدم رجالي,الباحة,al-baha_region,,,,,2026-05-02T17:55:42.699146+00:00
+9,نادي بلدة الشعبة الرياضي,essss-50@hotmail.com,نادي تجاري,نادي كرة قدم رجالي,الاحساء,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+12,نادي نجمة جدة,hafezaka@gmail.com,نادي تجاري,نادي كرة قدم نسائي,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+13,نادي منجم المواهب,Salemghulam3@gmail.com,نادي تجاري,نادي كرة قدم نسائي,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+14,نادي النسور الذهبية,Goldeneagles.femalesteam@gmail.com,نادي تجاري,نادي كرة قدم نسائي,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+15,نادي البيرق,nj.zhi@outlook.sa,نادي تجاري,نادي كرة قدم نسائي,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+16,نادي سهم الرياضي,e.alzubidi@hotmail.com,نادي تجاري,نادي كرة قدم نسائي,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+17,نادي شعلة الشرقية,malbutairi@gmail.com,نادي تجاري,نادي كرة قدم نسائي,الدمام,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+18,نادي العنقاء,skrasmr36@gmail.com,نادي تجاري,نادي كرة قدم نسائي,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+19,نادي الامل,Amal.m.altoom@gmail.com,نادي تجاري,نادي كرة قدم نسائي,الطائف,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+20,نادي النورس السعودي,bazeherhh@gmail.com,نادي تجاري,نادي كرة قدم نسائي,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+21,نادي صقور الغربية,haizaa4433@gmail.com,نادي تجاري,نادي كرة قدم عشبي,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+22,نادي الهمة,alhmmah.club@gmail.com,نادي تجاري,نادي كرة قدم نسائي,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+23,نادي اتحاد النسور الرياضي,UnitedEagles17@gmail.com,نادي تجاري,نادي كرة قدم نسائي,الدمام,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+24,نادي جدة يونايتيد,obaid@jeddahunited.com,نادي تجاري,نادي كرة قدم نسائي,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+28,اكاديمية مواهب الاشبال الرياضية,M.g2020@hotmail.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+29,اكاديمية الزوري,alzoriacademy@gmail.com,أكاديمية خاصة,أكاديمية خاصة,الدمام,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+31,أكاديمية بي ون,Ziyad797979@gmail.com,أكاديمية خاصة,أكاديمية خاصة,القصيم,qassim_region,,,,,2026-05-02T17:55:42.699146+00:00
+33,اكاديمية الولاء الرياضية,hima.nmr@gmail.com,أكاديمية خاصة,أكاديمية خاصة,القطيف,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+34,أكاديمية مواهب جدة,mahmeed1289@gmail.com,أكاديمية خاصة,أكاديمية خاصة,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+35,أكاديمية صقور المستقبل,mofarh198737@gmail.com,أكاديمية خاصة,أكاديمية خاصة,جازان,jizan_region,,,,,2026-05-02T17:55:42.699146+00:00
+36,أكاديمية جدة يونايتيد,obaid@jeddahunited.com,أكاديمية خاصة,أكاديمية خاصة,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+42,أكاديمية ويمبلي,shahd.a.alzubaidi@gmail.com,أكاديمية خاصة,أكاديمية خاصة,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+51,اكاديمية 7 ستارز,enghisham1412@gmail.com,أكاديمية خاصة,أكاديمية خاصة,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+52,مدرسة أسيست لكرة القدم,Aalwadaan11@gmail.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+54,اكاديمية كات,KAT10COACH@GMAIL.COM,أكاديمية خاصة,أكاديمية خاصة,الشرقية,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+55,ملعب وأكادمية الوداد الطائفي,hdnd09078@icloud.com,أكاديمية خاصة,أكاديمية خاصة,الطائف,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+56,أكاديمية ساحة الرياضة,i.aidaroos@hotmail.com,أكاديمية خاصة,أكاديمية خاصة,الدمام,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+57,أكاديمية مجتمعي لكرة القدم,info@mojtamee.org.sa,أكاديمية خاصة,أكاديمية خاصة,المدينة المنورة,madinah_region,,,,,2026-05-02T17:55:42.699146+00:00
+58,أكاديمية الشنكل,alshanklishacadime@gmail.com,أكاديمية خاصة,أكاديمية خاصة,الشرقية,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+59,أكاديمية أجيال الحياة الرياضي,info@enrichthefuture.com.sa,أكاديمية خاصة,أكاديمية خاصة,الجوف,al-jouf_region,,,,,2026-05-02T17:55:42.699146+00:00
+61,اكاديمية المستقبل,aahf1456@gmail.com,أكاديمية خاصة,أكاديمية خاصة,ابها,aseer_region,,,,,2026-05-02T17:55:42.699146+00:00
+62,أكاديمية منجم المواهب,Salemghulam3@gmail.com,أكاديمية خاصة,أكاديمية خاصة,جدة,makkah_region,,,,,2026-05-02T17:55:42.699146+00:00
+63,أكاديمية الاوائل,abdullahmater0123@gmail.com,أكاديمية خاصة,أكاديمية خاصة,احد رفيده,aseer_region,,,,,2026-05-02T17:55:42.699146+00:00
+64,أكاديمية أترس,hr@geer.com.sa,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+65,أكاديمية اتش اس سبورت,hassan.sadiq@bupa.com.sa,أكاديمية خاصة,أكاديمية خاصة,القطيف,eastern_region,,,,,2026-05-02T17:55:42.699146+00:00
+66,اكاديمية الوداد الشرقي,weedadnajran@gmail.com,أكاديمية خاصة,أكاديمية خاصة,نجران,najran_region,,,,,2026-05-02T17:55:42.699146+00:00
+67,اكاديمية المطوع,mum-@hotmail.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+68,أكاديمية آى آر سى الرياضية,amrsaleh7182@gmail.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,,,,,2026-05-02T17:55:42.699146+00:00
+11,نادي الدمام,sms777ok@hotmail.com,نادي تجاري,نادي كرة قدم رجالي,الدمام,eastern_region,635.0,1.0,exact_normalized,,2026-05-02T17:55:42.699146+00:00
+40,أكاديمية الظهران الرياضية,hq9999@gmail.com,أكاديمية خاصة,أكاديمية خاصة,الظهران,eastern_region,617.0,1.0,exact_normalized,,2026-05-02T17:55:42.699146+00:00
+32,أكاديمية الجفن الدولية الرياضية,c.osama5050@gmail.com,أكاديمية خاصة,أكاديمية خاصة,القصيم,qassim_region,1172.0,1.0,exact_normalized,,2026-05-02T17:55:42.699146+00:00
+69,أكاديمية لوسيل الرياضية,kxxxxk9@gmail.com,أكاديمية خاصة,أكاديمية خاصة,جازان,jizan_region,1746.0,1.0,exact_normalized,,2026-05-02T17:55:42.699146+00:00
+10,أكاديمية القصيم الرياضيه,k.s.b.0505155@gmail.com,نادي تجاري,نادي كرة قدم رجالي,القصيم,qassim_region,1176.0,0.78,verified_substring,,2026-05-02T17:55:42.699146+00:00
+30,أكاديمية القصيم الرياضيه,k.s.b.0505155@gmail.com,أكاديمية خاصة,أكاديمية خاصة,القصيم,qassim_region,1176.0,0.78,verified_substring,,2026-05-02T17:55:42.699146+00:00
+53,أكاديمية جيل الابداع,sanaa.alebdaa@hotmail.com,أكاديمية خاصة,أكاديمية خاصة,مكة المكرمة,makkah_region,455.0,0.77,verified_substring,,2026-05-02T17:55:42.699146+00:00
+39,أكاديمية الكاسر,Faied888@yahoo.com,أكاديمية خاصة,أكاديمية خاصة,تبوك,tabuk_region,1494.0,0.71,verified_substring,,2026-05-02T17:55:42.699146+00:00
+26,أكاديمية الليث الأبيض الرياضية,emad20102012@gmail.com,أكاديمية خاصة,اكاديمية خاصة,جازان,jizan_region,1712.0,0.58,verified_substring,,2026-05-02T17:55:42.699146+00:00
+25,اكاديمية الرؤية المحترفة,Essa.6005@gmail.com,أكاديمية خاصة,أكاديمية خاصة,مكة المكرمة,makkah_region,447.0,0.53,verified_substring,,2026-05-02T17:55:42.699146+00:00
+27,أكاديمية إيزوف,ezofclub@gmail.com,أكاديمية خاصة,أكاديمية خاصة,نجران,najran_region,1837.0,0.54,verified_substring,,2026-05-02T17:55:42.699146+00:00
+38,اكاديمية نجوم جدة الرياضية,alharthy.v.i.p@gmail.com,أكاديمية خاصة,أكاديمية خاصة,جدة,makkah_region,,,,"No good match in facilities table; ""نجوم جدة"" not present",2026-05-02T17:55:42.699146+00:00
+41,أكاديمية ٢٠G,G20.Academy.2020@gmail.com,أكاديمية خاصة,أكاديمية خاصة,نجران,najran_region,1842.0,0.53,verified_digits_normalize,,2026-05-02T17:55:42.699146+00:00
+60,نادي وينرز لكرة القدم,fawaz@gowfc.com,أكاديمية خاصة,أكاديمية خاصة,الدمام,eastern_region,610.0,0.4,verified_substring,"SAFF ""Winners FC"" matches ""Winners Football Academy""",2026-05-02T17:55:42.699146+00:00
+37,أكاديمية نادي الفيصلي السعودي,s.ali@alfaisaly.sa,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,212.0,0.59,verified_substring,SAFF Faisaly Saudi Club academy — facility row is the Faisaly club itself,2026-05-02T17:55:42.699146+00:00
+43,أكاديميات نادي الهلال السعودي,a.tuwayjiri@alhilal.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,88.0,0.68,verified_branch,SAFF lists 8 Al-Hilal academy branches; all map to the parent Al-Hilal club facility,2026-05-02T17:55:42.699146+00:00
+44,أكاديميات نادي الهلال السعودي,a.tuwayjiri@alhilal.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,88.0,0.68,verified_branch,SAFF lists 8 Al-Hilal academy branches; all map to the parent Al-Hilal club facility,2026-05-02T17:55:42.699146+00:00
+45,أكاديميات نادي الهلال السعودي,a.tuwayjiri@alhilal.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,88.0,0.68,verified_branch,SAFF lists 8 Al-Hilal academy branches; all map to the parent Al-Hilal club facility,2026-05-02T17:55:42.699146+00:00
+46,أكاديميات نادي الهلال السعودي,a.tuwayjiri@alhilal.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,88.0,0.68,verified_branch,SAFF lists 8 Al-Hilal academy branches; all map to the parent Al-Hilal club facility,2026-05-02T17:55:42.699146+00:00
+47,أكاديميات نادي الهلال السعودي,a.tuwayjiri@alhilal.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,88.0,0.68,verified_branch,SAFF lists 8 Al-Hilal academy branches; all map to the parent Al-Hilal club facility,2026-05-02T17:55:42.699146+00:00
+48,أكاديميات نادي الهلال السعودي,a.tuwayjiri@alhilal.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,88.0,0.68,verified_branch,SAFF lists 8 Al-Hilal academy branches; all map to the parent Al-Hilal club facility,2026-05-02T17:55:42.699146+00:00
+49,أكاديميات نادي الهلال السعودي,a.tuwayjiri@alhilal.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,88.0,0.68,verified_branch,SAFF lists 8 Al-Hilal academy branches; all map to the parent Al-Hilal club facility,2026-05-02T17:55:42.699146+00:00
+50,أكاديميات نادي الهلال السعودي,a.tuwayjiri@alhilal.com,أكاديمية خاصة,أكاديمية خاصة,الرياض,riyadh_region,88.0,0.68,verified_branch,SAFF lists 8 Al-Hilal academy branches; all map to the parent Al-Hilal club facility,2026-05-02T17:55:42.699146+00:00

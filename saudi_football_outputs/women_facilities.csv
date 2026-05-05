@@ -1,0 +1,14 @@
+region_id,mos_women_halls,mos_total_halls,mos_women_share_pct,women_halls_per_100k,source,notes,created_at
+riyadh_region,502,1164,43.13,5.33,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+makkah_region,265,750,35.33,3.11,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+eastern_region,187,500,37.4,3.33,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",MOS source name was الالشرقية (typo) mapped to eastern_region,2026-05-02T19:06:02.179289+00:00
+jizan_region,55,152,36.18,3.57,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+qassim_region,40,106,37.74,2.73,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+madinah_region,28,104,26.92,1.19,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+aseer_region,28,116,24.14,1.26,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+tabuk_region,23,63,36.51,2.37,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+hail_region,14,34,41.18,1.71,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+al-baha_region,11,44,25.0,2.96,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+al-jouf_region,10,35,28.57,1.53,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+najran_region,8,27,29.63,1.23,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00
+northern_borders_region,4,20,20.0,0.98,"MOS الصالات والمراكز الرياضية (commercial halls open data, n=3116 nationally)",,2026-05-02T19:06:02.179289+00:00

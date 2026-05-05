@@ -1,0 +1,14 @@
+region_id,region_name_en,region_name_ar,population_2022_census,population_2024_estimate,youth_5_24_2024,source,source_url,notes,created_at
+riyadh_region,Riyadh,الرياض,8591748,9426231,2728550,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/01__ar_riyāḍ/,,2026-05-02T17:42:29.215941+00:00
+makkah_region,Makkah,مكة المكرمة,7769994,8524663,2601509,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/02__makkah_al_mukarramah/,,2026-05-02T17:42:29.215941+00:00
+madinah_region,Madinah,المدينة المنورة,2137983,2345637,761001,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/03__al_madīnah_al_munuwarah/,"Total uses gender-summed value 2,137,983 from same source.",2026-05-02T17:42:29.215941+00:00
+qassim_region,Qassim,القصيم,1336179,1465956,482741,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/04__al_qaṣīm/,,2026-05-02T17:42:29.215941+00:00
+eastern_region,Eastern Region,المنطقة الشرقية,5125254,5623050,1625578,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/05__ash_sharqiyah/,,2026-05-02T17:42:29.215941+00:00
+aseer_region,Aseer,عسير,2024285,2220896,735887,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/06__asīr/,,2026-05-02T17:42:29.215941+00:00
+tabuk_region,Tabuk,تبوك,886036,972093,331002,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/07__tabūk/,,2026-05-02T17:42:29.215941+00:00
+hail_region,Hail,حائل,746406,818901,269973,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/hail/,Age structure imputed using 12-region average youth share (35.5%); total from Census 2022.,2026-05-02T17:42:29.215941+00:00
+northern_borders_region,Northern Borders,الحدود الشمالية,373577,409861,145805,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/09__al_ḥudūd_ash_shamāliy/,,2026-05-02T17:42:29.215941+00:00
+jizan_region,Jizan,جازان,1404997,1541458,536713,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/10__jāzān/,,2026-05-02T17:42:29.215941+00:00
+najran_region,Najran,نجران,592300,649827,227713,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/11__najrān/,,2026-05-02T17:42:29.215941+00:00
+al-baha_region,Al-Baha,الباحة,339174,372116,122794,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/12__al_bāḥah/,,2026-05-02T17:42:29.215941+00:00
+al-jouf_region,Al-Jouf,الجوف,595822,653691,236948,GASTAT Census 2022 + Population Estimates 2024,https://www.citypopulation.de/en/saudiarabia/admin/13__al_jawf/,,2026-05-02T17:42:29.215941+00:00
